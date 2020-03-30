@@ -1,0 +1,5 @@
+{{ $plugins := resources.Get "plugins/jquery.min.js" }}
+{{ $global := resources.Get "plugins/plugins.js" }}
+{{ $functions := resources.Get "js/functions.js" }}
+{{ $js := slice $plugins $global $functions | resources.Concat "js/bundle.js" }}
+<script src="{{ $js.Permalink }}"></script>

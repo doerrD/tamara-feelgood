@@ -1,1 +1,46 @@
-<div class="under-construction">Webseite in Erstellung</div>
+<header>
+    <nav class="navbar navbar-absolute"><!-- add 'navbar-dark/navbar-grey/navbar-transparent/navbar-transparent-dark' -->
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <h5>mono</h5>
+            </a>
+            <!-- Toggle button of Fullscreen menu -->
+            <button class="fullscreen-toggle-btn">
+                <span class="lines"></span>
+            </button>
+        </div><!-- end container -->
+    </nav><!-- end navbar -->
+    
+    <div class="fullscreen-menu bg-black"><!-- Add your background class here --> 
+        <div class="fullscreen-menu-wrapper">
+            <div class="position-top">
+                <ul class="list-unstyled uppercase">
+                    <li>
+                        <h1 class="letter-spacing-1px"><a class="text-link-5" href="#">Home</a></h1>
+                    </li>
+                    <li>
+                        <h1 class="letter-spacing-1px"><a class="text-link-5" href="{{ .Site.BaseURL }}fitness#about-me">Über mich</a></h1>
+                    </li>
+                    <li>
+                        <h1 class="letter-spacing-1px"><a class="text-link-5" href="#">Portfolio</a></h1>
+                    </li>
+                    <li>
+                        <h1 class="letter-spacing-1px"><a class="text-link-5" href="#">Blog</a></h1>
+                    </li>
+                    <li>
+                        <h1 class="letter-spacing-1px"><a class="text-link-5" href="#">Shop</a></h1>
+                    </li>
+                </ul>
+            </div>
+            <div class="position-bottom">
+                <ul class="list-inline-sm icon-sm">
+                    <!-- <li><a class="button-circle button-circle-sm button-border-1px button-circle-outline-white" href="#"><i class="fab fa-facebook-f"></i></a></li>
+                    <li><a class="button-circle button-circle-sm button-border-1px button-circle-outline-white" href="#"><i class="fab fa-twitter"></i></a></li>
+                    <li><a class="button-circle button-circle-sm button-border-1px button-circle-outline-white" href="#"><i class="fab fa-pinterest"></i></a></li> -->
+                    <li><a class="button-circle button-circle-sm button-border-1px button-circle-outline-white" href="https://www.instagram.com/feelgood_tamara/"><i class="fab fa-instagram"></i></a></li>
+                </ul>
+                <p class="margin-top-20">&copy; 2020 Tamara Dos Santos G&oacute;es</p>
+            </div>
+        </div><!-- end fullscreen-menu-wrapper -->
+    </div><!-- end fullscreen-menu -->
+</header>

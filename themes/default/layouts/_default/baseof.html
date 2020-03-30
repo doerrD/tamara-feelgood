@@ -1,9 +1,19 @@
 <!DOCTYPE html>
-<html>
+<html lang="de">
     {{- partial "head.html" . -}}
-    <body>
+	<body>
         {{- partial "header.html" . -}}
+        
+		<!-- Scroll to top button -->
+		<div class="scrolltotop">
+			<a class="button-circle button-circle-sm button-circle-dark" href="#"><i class="ti-arrow-up"></i></a>
+		</div>
+        <!-- end Scroll to top button -->
+        
         {{- block "main" . }}{{- end }}
+
         {{- partial "footer.html" . -}}
-    </body>
+
+        {{- partial "scripts.html" . -}}
+	</body>
 </html>
