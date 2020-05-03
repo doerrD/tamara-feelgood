@@ -35,7 +35,8 @@
     {{ $magnific := resources.Get "plugins/magnific-popup/magnific-popup.min.css" }}
     {{ $themify := resources.Get "plugins/themify/themify-icons.min.css" }}
     {{ $app := resources.Get "css/app.css" }}
-    {{ $css := slice $bootstrap $carousel $theme $magnific $themify $app | resources.Concat "css/bundle.css" }}
+    {{ $custom := resources.Get "css/custom.css" }}
+    {{ $css := slice $bootstrap $carousel $theme $magnific $themify $app $custom | resources.Concat "css/bundle.css" }}
 
     <script defer src="https://use.fontawesome.com/releases/v5.12.0/js/all.js"></script>
     <link href="{{ $css.Permalink }}" rel="stylesheet">
