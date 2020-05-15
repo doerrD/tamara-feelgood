@@ -4,7 +4,7 @@
 
 .bg-default-gradient {
     background: rgb(230,0,126);
-    background: linear-gradient(0deg, rgba(230,0,126,1) 0%, rgba(0,93,137,1) 100%);
+    background: linear-gradient(0deg, rgba(230,0,126,1) 0%, rgba(0,83,126,1) 100%);
     color:white;
 }
 
@@ -16,4 +16,13 @@
     -webkit-transform: translateY(-100px);
     transform: translateY(-100px);
     margin-bottom: -100px;
+}
+
+.bg-primary-custom {
+    background-color: rgba(0,83,126,1);
+    color:white;
+}
+
+.bg-primary-custom h3 {
+    color:white;
 }
