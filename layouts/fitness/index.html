@@ -15,45 +15,36 @@
         <div class="margin-bottom-70">
             <div class="row">
                 <div class="col-12 col-md-10 col-lg-8 col-xl-7">
-                    <h2 class="margin-0" style="text-transform: uppercase">Firmenfitness</h2>
-                    <p>Entschleunigung als Tool für ausgeglichene und gesündere MitarbeiterInnen! Für Details und Angebote - contact me.</p>
+                    <h2 class="margin-0" style="text-transform: uppercase">{{ .Site.Data.fitness.company.title.Title }}</h2>
+                    <p>{{ .Site.Data.fitness.company.title.Text }}</p>
                 </div>
             </div><!-- end row -->
         </div>
         <div class="row col-spacing-20">
             <div class="col-12 col-lg-4">
                 <div class="hoverbox-6">
-                    <img src="{{ .Site.BaseURL }}/images/personal_training_1.jpg" alt="Personal Training">
+                    <img src="{{ .Site.BaseURL }}{{ .Site.Data.fitness.company.types.Image1 }}" alt="{{ .Site.Data.fitness.company.types.Title1 }}">
                     <div class="content">
-                        <h5>Personal Training</h5>
-                        <p>Du bist einzigartig! In einem Personal Training kann ich ganz individuell auf dich und deine Bedürfnisse eingehen..</p>
-                    </div>
-                    <!-- <div class="hover-content">
-                        <a class="button button-md button-radius button-white" href="#">Learn More</a>
-                    </div> -->
-                </div>
-            </div>
-            <div class="col-12 col-lg-4">
-                <div class="hoverbox-6">
-                    <img src="{{ .Site.BaseURL }}/images/small_group_training_1.jpg" alt="Kleingruppentraining">
-                    <div class="content">
-                        <h5>Kleingruppentraining</h5>
-                        <p>Dein „Safe Space“ in einer kleinen Gruppe, in dem gezielte Bewegung im Vordergrund steht.</p>
-                    </div>
-                    <div class="hover-content">
-                        <a class="button button-md button-radius button-white" href="#">Learn More</a>
+                        <h5>{{ .Site.Data.fitness.company.types.Title1 }}</h5>
+                        <p>{{ .Site.Data.fitness.company.types.Text1 }}</p>
                     </div>
                 </div>
             </div>
             <div class="col-12 col-lg-4">
                 <div class="hoverbox-6">
-                    <img src="{{ .Site.BaseURL }}/images/coaching_1.jpg" alt="Beratung">
+                    <img src="{{ .Site.BaseURL }}{{ .Site.Data.fitness.company.types.Image2 }}" alt="{{ .Site.Data.fitness.company.types.Title2 }}">
                     <div class="content">
-                        <h5>Beratung</h5>
-                        <p>Ob persönlich, per Telefon, E-Mail oder über Zoom: Gerne stehe ich dir für Anfragen und Beratungen zur Verfügung.</p>
+                        <h5>{{ .Site.Data.fitness.company.types.Title2 }}</h5>
+                        <p>{{ .Site.Data.fitness.company.types.Text2 }}</p>
                     </div>
-                    <div class="hover-content">
-                        <a class="button button-md button-radius button-white" href="#">Learn More</a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-4">
+                <div class="hoverbox-6">
+                    <img src="{{ .Site.BaseURL }}{{ .Site.Data.fitness.company.types.Image3 }}" alt="{{ .Site.Data.fitness.company.types.Title3 }}">
+                    <div class="content">
+                        <h5>{{ .Site.Data.fitness.company.types.Title3 }}</h5>
+                        <p>{{ .Site.Data.fitness.company.types.Text3 }}</p>
                     </div>
                 </div>
             </div>
@@ -65,62 +56,27 @@
             <div class="row col-spacing-60 align-items-center">
                 <div class="col-12">
                     <ul class="accordion single-open rounded">
+                        {{ range $index, $element := $.Site.Data.fitness.company.questions }}
+                        {{ if (eq $index 0) }}
                         <li class="active">
                             <div class="accordion-title">
-                                <h6 class="font-weight-normal">Warum ein Personal Training?</h6>
-                            </div>
-                            <div class="accordion-content" style="max-height: 113px;">
-                                <p>Jeder Mensch ist anders und hat unterschiedliche Bedürfnisse. In einem Personal Training kann ich ganz individuell
-                                    auf dich eingehen und Bewegungsabläufe korrigieren. In einem Erstgespräch eruieren wir deine Ziele, danach
-                                    starten wir das Training (für Gym, Zuhause oder Outdoor).</p>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="accordion-title">
-                                <h6 class="font-weight-normal">Kann ich auch einfach nur einen persönlichen Trainingsplan haben?</h6>
+                                <h6 class="font-weight-normal">{{ $element.Question }}</h6>
                             </div>
                             <div class="accordion-content">
-                                <p>Diese Möglichkeit gibt es auch. Dazu braucht es ein Erstgespräch und eine gemeinsame Personal Session, in der ich dir die Übungsabläufe genau erkläre.
-                                    Du solltest nach ca. 3-4 Monaten auf einen neuen Plan umsteigen, um deinem Körper neue Reize zu bieten.</p>
+                                <p>{{ $element.Answer }}</p>
                             </div>
                         </li>
+                        {{ else }}
                         <li>
                             <div class="accordion-title">
-                                <h6 class="font-weight-normal">Was ist der Vorteil von einem Kleingruppentraining?</h6>
+                                <h6 class="font-weight-normal">{{ $element.Question }}</h6>
                             </div>
                             <div class="accordion-content">
-                                <p>Mein KGT ist für Frauen gedacht, die sich in einem traditionellen Gym vielleicht nicht so wohl fühlen, aber nicht ganz alleine trainieren wollen.
-                                    Mein Trainingspaket hilft dir, und max. 5 anderen Frauen, dein Fitness-Level zu steigern (Level: Basic & Medium).</p>
+                                <p>{{ $element.Answer }}</p>
                             </div>
                         </li>
-                        <li>
-                            <div class="accordion-title">
-                                <h6 class="font-weight-normal">Kann bei dir immer jeder mitmachen?</h6>
-                            </div>
-                            <div class="accordion-content">
-                                <p>Grundsätzlich ja, je nach Einheit. Ich „teile“ in: Basic = Du bist BewegungsanfängerIn oder beginnst nach einer Pause wieder mit Sport.
-                                    Medium = Du betreibst regelmäßig Sport, alles auf einem relativ ruhigen Freizeit-Level. Advanced = Du betreibst regelmäßig Sport, Push-ups und Planks sind Teil deines Workouts.</p>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="accordion-title">
-                                <h6 class="font-weight-normal">Bekomme ich von dir einen Ernährungsplan?</h6>
-                            </div>
-                            <div class="accordion-content">
-                                <p>Gerne gebe ich dir klare Tipps zu einer ausgewogenen Ernährung (wenn du das möchtest), jedoch erhältst du von mir keinen Ernährungsplan!
-                                    Nebenbei gesagt, ich ich kein Fan von Diäten oder anderen extremen Ernährungsformen.</p>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="accordion-title">
-                                <h6 class="font-weight-normal">Auf deinen Social Media Kanälen schreibst du viel zu Body Positivity – wie passen Fitness und BP zusammen?</h6>
-                            </div>
-                            <div class="accordion-content">
-                                <p>Bei BP geht es darum seinen Körper zu lieben bzw. zu akzeptieren. Durch Sport kann ein großartiges Body-Mind-Gleichgewicht entstehen,
-                                    da wir ihn mit jeder Bewegung noch besser kennenlernen. Bei Fitness muss es nicht zwangsläufig darum gehen, ein Sixpack zu haben oder abzunehmen.
-                                    Das möchte ich meinen TeilnehmerInnen vermitteln! </p>
-                            </div>
-                        </li>
+                        {{ end }}
+                        {{ end }}
                     </ul>
                 </div>
             </div><!-- end row -->
