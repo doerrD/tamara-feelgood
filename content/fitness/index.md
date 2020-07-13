@@ -5,5 +5,3 @@ title = "Fitness"
 type = "fitness"
 layout = "index"
 +++
-
-# test

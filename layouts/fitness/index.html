@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<div class="section-2xl bg-image parallax" data-bg-src="{{ .Site.BaseURL }}/images/TitelbildFIT_small.jpg" style="background-image: url(&quot;{{ .Site.BaseURL }}/images/TitelbildFIT_small.jpg&quot;); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; background-position: center 356px;">
+<div class="section-2xl bg-image" data-bg-src="{{ .Site.BaseURL }}/images/TitelbildFIT_small.jpg" style="background-image: url(&quot;{{ .Site.BaseURL }}/images/TitelbildFIT_small.jpg&quot;); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; background-position: center -356px;">
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-10 col-lg-8">
@@ -22,7 +22,7 @@
         </div>
         <div class="row col-spacing-20">
             <div class="col-12 col-lg-4">
-                <div class="hoverbox-6">
+                <div class="index-images">
                     <img src="{{ .Site.BaseURL }}{{ .Site.Data.fitness.company.types.Image1 }}" alt="{{ .Site.Data.fitness.company.types.Title1 }}">
                     <div class="content">
                         <h5>{{ .Site.Data.fitness.company.types.Title1 }}</h5>
@@ -31,7 +31,7 @@
                 </div>
             </div>
             <div class="col-12 col-lg-4">
-                <div class="hoverbox-6">
+                <div class="index-images">
                     <img src="{{ .Site.BaseURL }}{{ .Site.Data.fitness.company.types.Image2 }}" alt="{{ .Site.Data.fitness.company.types.Title2 }}">
                     <div class="content">
                         <h5>{{ .Site.Data.fitness.company.types.Title2 }}</h5>
@@ -40,7 +40,7 @@
                 </div>
             </div>
             <div class="col-12 col-lg-4">
-                <div class="hoverbox-6">
+                <div class="index-images">
                     <img src="{{ .Site.BaseURL }}{{ .Site.Data.fitness.company.types.Image3 }}" alt="{{ .Site.Data.fitness.company.types.Title3 }}">
                     <div class="content">
                         <h5>{{ .Site.Data.fitness.company.types.Title3 }}</h5>
@@ -90,7 +90,7 @@
             <div class="col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
                 <h3 class="margin-bottom-20">Any Questions?</h3>
                 <p class="font-large">Du hast Fragen zu den oben angeführten Dienstleistungen? Dann schreib mir, ruf mich an – lass uns treffen, reden und/oder zoomen.</p>
-                <a class="button button-lg button-radius button-outline-white margin-top-30" href="#">Get In Touch</a>
+                <a class="button button-lg button-radius button-outline-white margin-top-30" href="mailto:info@tamara-feelgood.at">Get In Touch</a>
             </div>
         </div><!-- end row -->
     </div><!-- end container -->
@@ -154,27 +154,10 @@
         </div> -->
         <div class="row align-items-center col-spacing-50">
             <div class="col-12 col-lg-4">
-                <img src="{{ .Site.BaseURL }}/images/col-3-square.jpg" alt=""><!-- Image source -->
+                <img src="{{ .Site.BaseURL }}/images/about_me.jpg" alt="Tamara Dos Santos Goes Portrait"><!-- Image source -->
             </div>
             <div class="col-12 col-lg-8 p-padding">
-                <h3>About me</h3>
-                <p>
-                    Mein Name ist Tamara und wohne seit über 6 Jahren in Wien. Ich komme aus einer sportlichen Familie (OÖ),
-                    wobei meine sportlichen Wurzeln im Skirennlauf liegen. Tanzen hat mich auch schon immer begeistert und
-                    Training im Fitnessstudio war/ist mir einfach lustig.
-                </p>
-                <p>
-                    Meine Erfahrungen als Coach im Sport ziehen sich bereits über 15 Jahre. Ich bin ausgebildete Fitness- und
-                    Personal Trainerin. Außerdem bin ich Skilehrerin und habe mir unterschiedliche Lizenzen im Gruppenfitnessbereich
-                    angeeignet. Zusätzlich verfüge ich über profunde Kenntnisse zu einer gesunden Lebensführung (u.a. Ernährungsberatung).
-                    Ich bin sehr stolz auf meine Sprachkenntnisse und stehe dir auf Deutsch, Englisch, Spanisch oder Portugiesisch zur Verfügung. 
-                </p>
-                <p>
-                    Ich möchte vermitteln, dass Sport mehr als Abnehmen, Muckis oder Wettkampf sein kann! Der langfristige
-                    Gesundheitsgedanke ist mir wichtig, während ich mich dabei auf BewegungsanfängerInnen und
-                    Fortgeschrittene konzentriere. Ich möchte, dass die Personen, die mit mir trainieren, einen
-                    verbesserten Zugang zu ihrem Körper finden – Body-Mind-Balance! #feelgood
-                </p>
+                {{ template "fitness/_internal/about-me.html" . }}
             </div>
         </div><!-- end row -->
     </div><!-- end container -->
