@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Fitness"
-type = "fitness"
+title = "Impressum"
+type = "impressum"
 layout = "index"
 +++

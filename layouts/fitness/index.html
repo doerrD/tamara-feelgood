@@ -1,50 +1,45 @@
 {{ define "main" }}
 
-<div class="section-2xl bg-image" data-bg-src="{{ .Site.BaseURL }}/images/TitelbildFIT_small.jpg" style="background-image: url(&quot;{{ .Site.BaseURL }}/images/TitelbildFIT_small.jpg&quot;); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; background-position: center -356px;">
+<div class="section-2xl bg-image" data-bg-src="{{ .Site.BaseURL }}/images/TitelbildFIT_small.jpg" style="background-image: url(&quot;{{ .Site.BaseURL }}/images/TitelbildFIT_small.jpg&quot;); background-size: cover; background-repeat: no-repeat; background-position: center center;">
     <div class="container">
-        <div class="row">
-            <div class="col-12 col-md-10 col-lg-8">
-                <!-- <h1 class="font-weight-light margin-0" style="color: white;">You only have one body. Take good care of it – MOVE IT!</h1> -->
-            </div>
-        </div><!-- end row -->
     </div><!-- end container -->
 </div>
 
-<div class="section">
+<div class="section" id="move">
     <div class="container">
         <div class="margin-bottom-70">
             <div class="row">
                 <div class="col-12 col-md-10 col-lg-8 col-xl-7">
-                    <h2 class="margin-0" style="text-transform: uppercase">{{ .Site.Data.fitness.company.title.Title }}</h2>
-                    <p>{{ .Site.Data.fitness.company.title.Text }}</p>
+                    <h2 class="margin-0" style="text-transform: uppercase">{{ .Site.Data.fitness.move.title.Title }}</h2>
+                    <p>{{ .Site.Data.fitness.move.title.Text }}</p>
                 </div>
             </div><!-- end row -->
         </div>
         <div class="row col-spacing-20">
             <div class="col-12 col-lg-4">
                 <div class="index-images">
-                    <img src="{{ .Site.BaseURL }}{{ .Site.Data.fitness.company.types.Image1 }}" alt="{{ .Site.Data.fitness.company.types.Title1 }}">
+                    <img src="{{ .Site.BaseURL }}{{ .Site.Data.fitness.move.types.Image1 }}" alt="{{ .Site.Data.fitness.move.types.Title1 }}">
                     <div class="content">
-                        <h5>{{ .Site.Data.fitness.company.types.Title1 }}</h5>
-                        <p>{{ .Site.Data.fitness.company.types.Text1 }}</p>
+                        <h5>{{ .Site.Data.fitness.move.types.Title1 }}</h5>
+                        <p>{{ .Site.Data.fitness.move.types.Text1 }}</p>
                     </div>
                 </div>
             </div>
             <div class="col-12 col-lg-4">
                 <div class="index-images">
-                    <img src="{{ .Site.BaseURL }}{{ .Site.Data.fitness.company.types.Image2 }}" alt="{{ .Site.Data.fitness.company.types.Title2 }}">
+                    <img src="{{ .Site.BaseURL }}{{ .Site.Data.fitness.move.types.Image2 }}" alt="{{ .Site.Data.fitness.move.types.Title2 }}">
                     <div class="content">
-                        <h5>{{ .Site.Data.fitness.company.types.Title2 }}</h5>
-                        <p>{{ .Site.Data.fitness.company.types.Text2 }}</p>
+                        <h5>{{ .Site.Data.fitness.move.types.Title2 }}</h5>
+                        <p>{{ .Site.Data.fitness.move.types.Text2 }}</p>
                     </div>
                 </div>
             </div>
             <div class="col-12 col-lg-4">
                 <div class="index-images">
-                    <img src="{{ .Site.BaseURL }}{{ .Site.Data.fitness.company.types.Image3 }}" alt="{{ .Site.Data.fitness.company.types.Title3 }}">
+                    <img src="{{ .Site.BaseURL }}{{ .Site.Data.fitness.move.types.Image3 }}" alt="{{ .Site.Data.fitness.move.types.Title3 }}">
                     <div class="content">
-                        <h5>{{ .Site.Data.fitness.company.types.Title3 }}</h5>
-                        <p>{{ .Site.Data.fitness.company.types.Text3 }}</p>
+                        <h5>{{ .Site.Data.fitness.move.types.Title3 }}</h5>
+                        <p>{{ .Site.Data.fitness.move.types.Text3 }}</p>
                     </div>
                 </div>
             </div>
@@ -56,7 +51,7 @@
             <div class="row col-spacing-60 align-items-center">
                 <div class="col-12">
                     <ul class="accordion single-open rounded">
-                        {{ range $index, $element := $.Site.Data.fitness.company.questions }}
+                        {{ range $index, $element := $.Site.Data.fitness.move.questions }}
                         {{ if (eq $index 0) }}
                         <li class="active">
                             <div class="accordion-title">
@@ -109,36 +104,33 @@
         <div class="row col-spacing-20 icon-5xl">
             <div class="col-12 col-lg-4">
                 <div class="border-all padding-30 padding-x-lg-40 padding-y-lg-50">
-                    <h5 class="font-weight-normal margin-top-20">Rückenfit</h5>
-                    <p>In dieser Einheit kümmern wir uns besonders um die Wirbelsäule.
-                        Gezielte Übungen fördern die langfristige Beweglichkeit und stärken die Rumpfmuskulatur.</p>
+                    <h5 class="font-weight-normal margin-top-20">{{ .Site.Data.fitness.company.types.Title1 }}</h5>
+                    <p>{{ .Site.Data.fitness.company.types.Text1 }}</p>
                 </div>
             </div>
             <div class="col-12 col-lg-4">
                 <div class="border-all padding-30 padding-x-lg-40 padding-y-lg-50">
-                    <h5 class="font-weight-normal margin-top-20">Mobility Flow & Stretching:</h5>
-                    <p>Der Körper wird in 55 Minuten mobilisiert und gedehnt.
-                        Die TeilnehmerInnen verlassen diese Session entspannt und ausgeglichen.</p>
+                    <h5 class="font-weight-normal margin-top-20">{{ .Site.Data.fitness.company.types.Title2 }}</h5>
+                    <p>{{ .Site.Data.fitness.company.types.Text2 }}</p>
                 </div>
             </div>
             <div class="col-12 col-lg-4">
                 <div class="border-all padding-30 padding-x-lg-40 padding-y-lg-50">
-                    <h5 class="font-weight-normal margin-top-20">Pilates Basic</h5>
-                    <p>Pilates ist ein Ganzkörperkräftigungstraining: primär von Beckenboden-,
-                        Bauch und Rückenmuskulatur. Ein ideales Allround-Training.</p>
+                    <h5 class="font-weight-normal margin-top-20">{{ .Site.Data.fitness.company.types.Title3 }}</h5>
+                    <p>{{ .Site.Data.fitness.company.types.Text3 }}</p>
                 </div>
             </div>
         </div><!-- end row -->
     </div><!-- end container -->
 </div>
 
-<div id="home-training" class="section-xl bg-image parallax" data-bg-src="{{ .Site.BaseURL }}/images/home_training_1.jpg" style="background-image: url(&quot;{{ .Site.BaseURL }}/images/home_training_1.jpg&quot;); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; background-position: center 193.94px;">
+<div id="online-training" class="section-xl bg-image parallax" data-bg-src="{{ .Site.BaseURL }}/images/home_training_1.jpg" style="background-image: url(&quot;{{ .Site.BaseURL }}/images/home_training_1.jpg&quot;); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; background-position: center 193.94px;">
     <div class="bg-black-07">
         <div class="container text-center">
             <div class="row">
                 <div class="col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
-                    <h3 class="margin-bottom-20">Home Training</h3>
-                    <p class="font-large">Auf Grund der aktuellen Covid-19 Situation und den daraus folgenden Einschränkungen biete ich auch angepasste Workouts an.</p>
+                    <h3 class="margin-bottom-20">{{ .Site.Data.fitness.online.title.Title }}</h3>
+                    <p class="font-large">{{ .Site.Data.fitness.online.title.Text }}</p>
                     <a class="button button-lg button-radius button-outline-white margin-top-30" href="#">Learn more</a>
                 </div>
             </div><!-- end row -->

@@ -58,6 +58,12 @@
             .main {
                 flex: 1;
                 display: flex;
+                flex-direction: column;
+            }
+
+            .main .bg {
+                flex: 1;
+                display: flex;
                 background-image: url(/img/logo.png);
                 background-position: 50% 50%;
                 background-repeat: no-repeat;
@@ -130,7 +136,13 @@
         </style>
     </head>
     <body>
-        <div class="main"></div>
+        <div class="main">
+            <div class="bg"></div>
+            <!-- <div class="area" style="display: none;">
+                <div class="fitness">Fitness</div>
+                <div class="makeup">Makeup</div>
+            </div> -->
+        </div>
         <footer>
             <div>
                 Tamara Dos Santos G&oacute;es
@@ -142,5 +154,12 @@
                 </ul>
             </div>
         </footer>
+
+        <script
+            src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+            integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
+            crossorigin="anonymous"></script>
+        <script src="/js/anime.min.js"></script>
+        <script src="/js/home.js"></script>
     </body>
 </html>
