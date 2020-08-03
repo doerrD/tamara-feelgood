@@ -64,10 +64,12 @@
             .main .bg {
                 flex: 1;
                 display: flex;
-                background-image: url(/img/logo.png);
+                background-image: url(/img/logo_1.png);
                 background-position: 50% 50%;
                 background-repeat: no-repeat;
                 background-size: 50% auto;
+                justify-content: center;
+                align-items: center;
             }
     
             footer {
@@ -100,6 +102,17 @@
                 margin-top: 20px;
                 color:white;
             }
+
+            .text {
+                font-size: 2em;
+                position: absolute;
+                display: flex;
+                font-weight: 600;
+                color: white;
+                margin-top: 400px;
+                margin-left: 400px;
+                letter-spacing: 5px;
+            }
     
             @media (max-width: 576px) { 
                 footer {
@@ -126,18 +139,28 @@
                 .main {
                     background-size: 80% auto;
                 }
+
+                .text {
+                    font-size: 1.8em;
+                    margin-left: 0;
+                }
             }
     
             @media (max-width: 800px) { 
                 .main {
                     background-size: 100% auto;
                 }
+
+                .text {
+                    font-size: 1.5em;
+                    margin-left: 0;
+                }
             }
         </style>
     </head>
     <body>
         <div class="main">
-            <div class="bg"></div>
+            <div class="bg"><div class="text"><div><a href="/fitness">FITNESS</a></div><div>&</div><div><a href="/makeup">MAKE-UP</a></div></div></div>
             <!-- <div class="area" style="display: none;">
                 <div class="fitness">Fitness</div>
                 <div class="makeup">Makeup</div>
