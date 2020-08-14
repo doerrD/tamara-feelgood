@@ -62,3 +62,7 @@
     height: 60px;
     max-height: 60px;
 }
+
+.impressum p{
+    margin: 0 0 12px;
+}

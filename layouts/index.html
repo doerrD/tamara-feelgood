@@ -39,8 +39,6 @@
                 height: 100vh;
                 margin: 0;
                 padding: 0;
-                display: flex;
-                flex-direction: column;
                 font-family: 'IBM Plex Sans', sans-serif;
                 font-weight: 300;
             }
@@ -56,7 +54,8 @@
             }
     
             .main {
-                flex: 1;
+                width: 100vw;
+                height: 100vh;
                 display: flex;
                 flex-direction: column;
             }
@@ -64,15 +63,47 @@
             .main .bg {
                 flex: 1;
                 display: flex;
-                background-image: url(/img/logo_1.png);
+                background-image: url(/img/logo.png);
                 background-position: 50% 50%;
                 background-repeat: no-repeat;
                 background-size: 50% auto;
                 justify-content: center;
                 align-items: center;
             }
+
+            .main .area {
+                position: absolute;
+                width: 100vw;
+                height: 100vh;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .main .area .icon-wrapper {
+                border: 2px solid white;
+                padding: 30px;
+                font-size: 10rem;
+            }
+
+            .main .area .icon-wrapper {
+                color:white;
+                background-color: transparent;
+            }
+
+            .main .area a:hover  {
+                text-decoration: none;
+            }
+
+            .main .area a:hover .icon-wrapper  {
+                color:rgb(230,0,126);
+                background-color: white;
+            }
     
             footer {
+                position: fixed;
+                bottom: 0;
+                width: calc(100vw - 30px);
                 display: flex;
                 justify-content: space-between;
                 align-items: flex-end;
@@ -127,6 +158,14 @@
                 .main {
                     background-size: 100% auto;
                 }
+
+                .main .area {
+                    flex-direction: column;
+                }
+
+                .main .area .col {
+                    margin-bottom: 30px;
+                }
             }
     
             @media (max-width: 1200px) { 
@@ -160,11 +199,11 @@
     </head>
     <body>
         <div class="main">
-            <div class="bg"><div class="text"><div><a href="/fitness">FITNESS</a></div><div>&</div><div><a href="/makeup">MAKE-UP</a></div></div></div>
-            <!-- <div class="area" style="display: none;">
-                <div class="fitness">Fitness</div>
-                <div class="makeup">Makeup</div>
-            </div> -->
+            <div class="bg"></div>
+            <div class="area" style="opacity: 0;">
+                <div class="col"><a href="{{ .Site.BaseURL }}/fitness"><div class="icon-wrapper"><i class="fas fa-dumbbell"></i></div>FITNESS</a></div>
+                <!-- <div class="col"><div class="icon-wrapper"><i class="fas fa-paint-brush"></i></div>MAKEUP (Webseite in Erstellung)</div> -->
+            </div>
         </div>
         <footer>
             <div>
