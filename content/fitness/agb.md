@@ -5,7 +5,7 @@ type = "fitness"
 +++
 
 1. Vertragsgegenstand  
-    Hiermit werden zwischen Trainerin Tamara Dos Santos Góes und dem Kunden folgende verbindliche Vereinbarungen getroffen, die für alle künftigen Trainingseinheiten (Personal oder Gruppenfitness, im Studio, im Freien, sonstigen Sportanlagen, zu Hause, zu Fitnessreisen etc.) gelten, es sei denn, dass schriftlich etwas anderes vereinbart wird. Tamara Dos Santos Góes übt die Tätigkeit als gewerbliche Tätigkeit aus. Der Status ist der eines freien Gewerbes. Es gilt die jeweils neueste Fassung der Allgemeinen Geschäftsbedingungen. Der Kunde akzeptiert mit dem Erwerb einer Trainingseinheit bei Tamara Dos Santos Góes diese AGBs.
+    Hiermit werden zwischen Trainerin Tamara Dos Santos Góes und dem/der Kund*in (der Einfachheit halber „Kunde“ in den folgenden Zeilen) folgende verbindliche Vereinbarungen getroffen. Diese gelten für alle künftigen Trainingseinheiten (Personal oder Gruppenfitness, im Studio, im Freien, sonstigen Sportanlagen, zu Hause, zu Fitnessreisen etc.), es sei denn, es wird schriftlich etwas anderes vereinbart. Tamara Dos Santos Góes übt die Tätigkeit als gewerbliche Tätigkeit aus. Der Status ist der eines freien Gewerbes. Es gilt die jeweils neueste Fassung der Allgemeinen Geschäftsbedingungen. Der Kunde akzeptiert mit dem Erwerb einer Trainingseinheit bei Tamara Dos Santos Góes diese AGBs.
 
 2. Leistungen (Personal Training)
     1. Der Inhalt wird gemeinsam erarbeitet, individuell an die Bedürfnisse des Kunden angepasst und im Personal Training umgesetzt.
@@ -32,24 +32,24 @@ type = "fitness"
 
     3. Der Kunde erhält eine Rechnung mit detaillierter Leistungsbeschreibung und Auflistung aller Trainingsstunden.
 
-    4. Die Bezahlung erfolgt nach Erhalt der Rechnung per Überweisung (Paypal, Sofortüberweisung o.ä.). Der Betrag ist ohne Abzug zahlbar.
+    4. Die Bezahlung erfolgt nach Erhalt der Rechnung per Überweisung (PayPal, Sofortüberweisung o.ä.). Der Betrag ist ohne Abzug zahlbar.
 
 5. Sonstige Kosten  
-    1. Werden aufgrund der Trainingsziele und -wünsche des Klienten Tageskarten, monatliche Mitgliedsbeiträge im Fitnessstudio, oder ähnliches erforderlich, sind diese Kosten vom Kunden zu übernehmen.
+    1. Werden aufgrund der Trainingsziele und -wünsche des Klienten Tageskarten, monatliche Mitgliedsbeiträge im Fitnessstudio (oder ähnliches) erforderlich, sind diese Kosten vom Kunden zu übernehmen.
 
 6. Sporttauglichkeit/Gesundheitliche Voraussetzungen 
-    1. Der/Die Kund*in (der Einfachheit halber „Kunde“ in den folgenden Zeilen) hat dafür Sorge zu tragen, dass er/sie für alle sportlichen Aktivitäten in Zusammenhang mit dem Training von Tamara Dos Santos Góes eine ärztliche Genehmigung einholt. Grundsätzlich versichert der Kunde, sportgesund zu sein. Weiterhin versichert der Kunde, dass ihm keine Umstände bekannt sind, die ein Training ausschließen könnten. (Dazu gehören insbesondere Krankheiten, Verletzungen, Einnahme von Medikamenten). Auch über körperliche Einschränkungen oder operativ implantierte, lebensnotwendige Objekte, wie z.B. Herzschrittmacher, wird die Trainerin informiert.  
-    Liegen gesundheitliche Probleme vor, wird in Zusammenarbeit mit dem jeweiligen Facharzt über eine mögliche Trainingsgestaltung gesprochen. Über plötzlich auftretende Befindlichkeitsstörungen (wie Schwindel, Übelkeit, Schmerzen) vor, während oder nach dem Training sollte sofort berichtet werden. Der Kunde verpflichtet sich, sich in regelmäßigen Abständen auf seine Sporttauglichkeit hin ärztlich untersuchen zu lassen.
+    1. Der Kunde hat dafür Sorge zu tragen, dass er für alle sportlichen Aktivitäten in Zusammenhang mit dem Training von Tamara Dos Santos Góes eine ärztliche Genehmigung einholt. Grundsätzlich versichert der Kunde, sportgesund zu sein. Weiterhin versichert der Kunde, dass ihm keine Umstände bekannt sind, die ein Training ausschließen könnten. Dazu gehören insbesondere Krankheiten, Verletzungen, Einnahme von Medikamenten. Auch über körperliche Einschränkungen oder operativ implantierte, lebensnotwendige Objekte, wie z.B. Herzschrittmacher, wird die Trainerin informiert.  
+    Liegen gesundheitliche Probleme vor, wird eine Absprache des Kunden mit dem jeweiligen Facharzt über mögliche Trainingsgestaltungen vorausgesetzt. Über plötzlich auftretende Befindlichkeitsstörungen (wie Schwindel, Übelkeit, Schmerzen) vor, während oder nach dem Training sollte sofort berichtet werden. Der Kunde verpflichtet sich, sich in regelmäßigen Abständen auf seine Sporttauglichkeit hin ärztlich untersuchen zu lassen.
 
-    2. Alle Fragen zum derzeitigen / bisherigen Gesundheitszustand und zu Lebensumständen sind wahrheitsgemäß und vollständig zu beantworten. Alle Änderungen sind der Trainerin sofort mitzuteilen.
+    1. Alle Fragen zum derzeitigen/bisherigen Gesundheitszustand und zu Lebensumständen sind wahrheitsgemäß und vollständig zu beantworten. Alle Änderungen sind der Trainerin sofort mitzuteilen.
 
-    3. Die Teilnahme an den Trainings erfolgt auf eigene Gefahr / eigenes Risiko. Schadenersatzansprüche aller Art sind ausgeschlossen.
+    2. Die Teilnahme an den Trainings erfolgt auf eigene Gefahr/eigenes Risiko. Schadenersatzansprüche aller Art sind ausgeschlossen.
 
 7. Allgemeines  
     1. Persönliche und/oder firmenbezogene Daten werden, wie von DSGVO gefordert, vertraulich behandelt und nicht an Dritte weitergegeben. Vertrauliche Informationen und Betriebsgeheimnisse des Auftraggebers, die im Rahmen der Tätigkeit bekannt geworden sind, werden selbstverständlich vertraulich behandelt.
 
 8. Urheberrecht/Veröffentlichung 
-    1. Sämtliche auf meinen Internetseiten oder Social Media Accounts wiedergegebenen Inhalte werden mit großer Sorgfalt aufbereitet und zu Ihrer Information publiziert. Fehler und Irrtümer nicht ausgeschlossen. Alle Angaben erfolgen ohne Gewähr.
+    1. Sämtliche auf meinen Internetseiten oder Social Media Accounts wiedergegebenen Inhalte werden mit großer Sorgfalt aufbereitet und zu Ihrer Information publiziert. Fehler und Irrtümer nicht ausgeschlossen. Alle Angaben ohne Gewähr.
    
     2. Von mir publizierte Fotos und Texte dürfen ohne meine Zustimmung nicht für kommerzielle Zwecke verwendet werden.
    
