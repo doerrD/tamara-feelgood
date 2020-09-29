@@ -1,0 +1,4 @@
+baseURL = "https://www.tamara-feelgood.at"
+languageCode = "de-AT"
+title = "Tamara - feel goo"
+theme = "default"
