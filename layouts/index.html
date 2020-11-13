@@ -84,7 +84,16 @@
                 border: 2px solid white;
                 padding: 30px;
                 font-size: 10rem;
+                min-width: 264px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
             }
+
+            .main .area .col:first-child {
+                    margin-right: 10px;
+            }
+
 
             .main .area .icon-wrapper {
                 color:white;
@@ -194,6 +203,10 @@
                     font-size: 1.5em;
                     margin-left: 0;
                 }
+
+                .main .area .col:first-child {
+                    margin-right: 0;
+                }
             }
         </style>
     </head>
@@ -202,7 +215,7 @@
             <div class="bg"></div>
             <div class="area" style="opacity: 0;">
                 <div class="col"><a href="{{ .Site.BaseURL }}/fitness"><div class="icon-wrapper"><i class="fas fa-dumbbell"></i></div>FITNESS</a></div>
-                <!-- <div class="col"><div class="icon-wrapper"><i class="fas fa-paint-brush"></i></div>MAKEUP (Webseite in Erstellung)</div> -->
+                <div class="col"><a href="{{ .Site.BaseURL }}/makeup"><div class="icon-wrapper"><i class="fas fa-paint-brush"></i></div>MAKEUP</a></div>
             </div>
         </div>
         <script
