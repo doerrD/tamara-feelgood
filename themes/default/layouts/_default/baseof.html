@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="de">
-    {{- partial "head.html" . -}}
+    {{ partial "head.html" . }}
 	<body>
-        {{- partial "header.html" . -}}
+        {{ partial "header.html" . }}
         
 		<!-- Scroll to top button -->
 		<div class="scrolltotop">
@@ -12,8 +12,8 @@
         
         {{- block "main" . }}{{- end }}
 
-        {{- partial "footer.html" . -}}
+        {{ partial "footer.html" . }}
 
-        {{- partial "scripts.html" . -}}
+        {{ partial "scripts.html" . }}
 	</body>
-</html>
+</html> 

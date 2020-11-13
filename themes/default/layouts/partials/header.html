@@ -6,11 +6,19 @@
                 <img src="/images/logo_small.png" alt="Logo Tamara Feelgood">
             </a>
             <ul class="nav">
+                {{ if eq .Section "fitness" }}
                 <li class="nav-item"><a class="nav-link" href="{{ .Site.BaseURL }}/fitness">Home</a></li>
                 <li class="nav-item"><a class="nav-link" href="{{ .Site.BaseURL }}/fitness#move">Bewegungsangebote</a></li>
                 <li class="nav-item"><a class="nav-link" href="{{ .Site.BaseURL }}/fitness#companies">Firmenfitness</a></li>
                 <li class="nav-item"><a class="nav-link" href="{{ .Site.BaseURL }}/fitness#online-training">Online-Training</a></li>
                 <li class="nav-item"><a class="nav-link" href="{{ .Site.BaseURL }}/fitness#about-me">About me</a></li>
+                {{ end }}
+                {{ if eq .Section "makeup" }}
+                <li class="nav-item"><a class="nav-link" href="{{ .Site.BaseURL }}/makeup">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ .Site.BaseURL }}/makeup#services">Leistungsangebot</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ .Site.BaseURL }}/makeup#portfolio">Portfolio</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ .Site.BaseURL }}/makeup#about-me">About me</a></li>
+                {{ end }}
             </ul><!-- end nav -->
             <!-- Nav Toggle button -->
             <button class="nav-toggle-btn">

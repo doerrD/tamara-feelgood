@@ -7,6 +7,7 @@
                 </div>
                 <div class="col-12 col-md-6">
                     <h6 class="font-family-tertiary font-small font-weight-normal uppercase">Bereiche</h6>
+                    {{ if eq .Section "fitness" }}
                     <ul class="list-dash">
                         <li><a href="{{ .Site.BaseURL }}/fitness#move">Bewegungsangebote</a></li>
                         <li><a href="{{ .Site.BaseURL }}/fitness#companies">Firmenfitness</a></li>
@@ -15,6 +16,16 @@
                         <li><a href="{{ .Site.BaseURL }}/fitness/impressum">Impressum</a></li>
                         <li><a href="{{ .Site.BaseURL }}/fitness/agb">AGB</a></li>
                     </ul>
+                    {{ end }}
+                    {{ if eq .Section "makeup" }}
+                    <ul class="list-dash">
+                        <li><a href="{{ .Site.BaseURL }}/makeup#services">Leistungsangebot</a></li>
+                        <li><a href="{{ .Site.BaseURL }}/makeup#portfolio">Portfolio</a></li>
+                        <li><a href="{{ .Site.BaseURL }}/makeup#about-me">About me</a></li>
+                        <li><a href="{{ .Site.BaseURL }}/makeup/impressum">Impressum</a></li>
+                        <li><a href="{{ .Site.BaseURL }}/makeup/agb">AGB</a></li>
+                    </ul>
+                    {{ end }}
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <h6 class="font-family-tertiary font-small font-weight-normal uppercase">Kontaktdaten</h6>
