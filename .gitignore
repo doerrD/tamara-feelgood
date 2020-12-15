@@ -15,3 +15,4 @@
 # vendor/
 .vs
 public
+.DS_Store
