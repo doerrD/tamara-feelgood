@@ -110,23 +110,23 @@
             </ul>
         </div>
         <!-- end Portfolio filter -->
-        <div class="portfolio-wrapper column-3 spacing-10 hover-style-1">
+        <div class="row portfolio-wrapper spacing-10 hover-style-5">
             <!-- Portfolio box 1 -->
             {{ range (where .Site.RegularPages "Type" "portfolio" ) }}
-                <div class="portfolio-item {{ .Params.category }}">
-                    <div class="portfolio-box">
-                        <div class="portfolio-img">
-                            <img src="{{ .Site.BaseURL }}/{{ .Params.titleImage }}" alt="{{ .Title }}">
-                        </div>
-                        <a href="#"></a><!-- Portfolio Single link -->
-                        <div class="portfolio-title">
-                            <div>
-                                <h5 class="font-weight-normal margin-0">{{ .Title }}</h5>
-                                <span class="font-small">{{ .Params.subtitle }}</span>
-                            </div>
+            <div class="col-12 col-md-6 col-lg-4 portfolio-item {{ .Params.category }}">
+                <div class="portfolio-box">
+                    <div class="portfolio-img">
+                        <img src="{{ .Site.BaseURL }}/{{ .Params.titleImage }}" alt="{{ .Title }}">
+                    </div>
+                    <a href="{{ .Site.BaseURL }}/{{ .Params.image }}"></a><!-- Portfolio Single link -->
+                    <div class="portfolio-title">
+                        <div>
+                            <h5 class="font-weight-normal margin-0">{{ .Title }}</h5>
+                            <span class="font-small">{{ .Params.subtitle }}</span>
                         </div>
                     </div>
                 </div>
+            </div>
             {{ end }}  
         </div><!-- end portfolio-wrapper-->
         <!-- button -->

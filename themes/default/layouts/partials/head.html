@@ -39,5 +39,6 @@
     {{ $css := slice $bootstrap $carousel $theme $magnific $themify $app $custom | resources.Concat "css/bundle.css" }}
 
     <script defer src="https://use.fontawesome.com/releases/v5.12.0/js/all.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/2.7.0/simple-lightbox.css" integrity="sha512-8WAX0xL/cHZ38RXoX2gtuqkAwmDVAzGwoFVmHvn46IDHGWOjTHx0vcl9OapNrfOzpFtql0SNkv+0y0b5Fm8ZkA==" crossorigin="anonymous" />
     <link href="{{ $css.Permalink }}" rel="stylesheet">
 </head>
