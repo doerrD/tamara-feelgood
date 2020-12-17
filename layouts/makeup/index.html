@@ -103,7 +103,7 @@
         <!-- end Portfolio filter -->
         <div class="row portfolio-wrapper spacing-10 hover-style-5">
             <!-- Portfolio box 1 -->
-            {{ range shuffle ( where .Pages "Type" "portfolio" ) }}
+            {{ range shuffle ( where .Site.RegularPages "Type" "portfolio" ) }}
             {{ if .Params.showInIndex }}
             <div class="col-12 col-md-6 col-lg-4 portfolio-item {{ .Params.category }}">
                 <div class="portfolio-box">
