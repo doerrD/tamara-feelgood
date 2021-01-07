@@ -139,21 +139,26 @@
                 color: white;
                 font-size: 0.9em;
             }
-    
-            footer ul {
-                list-style: none;
-                padding: 0;
-                margin: 0;
+
+            footer > div {
+                display: flex;
+                width: 100%;
+                justify-content: space-between;
+                align-items: flex-end;
             }
-    
-            footer ul li {
-                padding: 5px 0;
+
+            footer p {
+                margin:0;
             }
-    
-            footer ul li i {
-                padding-right: 5px;   
+
+            footer .social {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-around;
+                min-width: 300px;
+                font-size: 2rem;
             }
-    
+
             .under-construction {
                 display: flex;
                 justify-content: center;
@@ -189,10 +194,28 @@
 
                 .main .area {
                     flex-direction: column;
+                    margin-bottom: 60px;
                 }
 
                 .main .area .col {
                     margin-bottom: 30px;
+                }
+
+                footer .social {
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-around;
+                    width: 100%;
+                    font-size: 1.5rem;
+                }
+
+                footer > div {
+                    flex-direction: column-reverse;
+                }
+
+                footer p {
+                    font-size: 0.9em;
+                    margin-top:10px;
                 }
             }
     
@@ -269,6 +292,19 @@
                 </div>
             </div>
         </div>
+        <footer>
+            <div>
+                <div class="col-6">
+                    <p>© 2020 Tamara Dos Santos Goes</p>
+                </div>
+                <div class="col-6 social">
+                    <div><a href="https://www.instagram.com/feelgood_tamara/" target="_blank" title="Instagram"><i class="fab fa-instagram" aria-label="Insagram Icon"></i></a></div>
+                    <div><a href="https://www.facebook.com/feelgoodfittam" target="_blank" title="Facebook"><i class="fab fa-facebook" aria-label="Facebook Icon"></i></a></div>
+                    <div><a href="https://www.youtube.com/channel/UCL77j3R6NB3UWLmDX-4txhQ" target="_blank" title="Youtube"><i class="fab fa-youtube" aria-label="Youtube Icon"></i></a></div>
+                    <div><a href="https://open.spotify.com/user/gvy0oqkkjdguxxsbu56zjcscp?si=wrHogFZ2Q1OT2WbsKXqrmA" target="_blank" title="Spotify"><i class="fab fa-spotify" aria-label="Spotify Icon"></i></a></div>
+                </div>
+            </div>
+        </footer>
         <script
             src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
             integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
