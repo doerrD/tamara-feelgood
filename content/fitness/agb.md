@@ -64,6 +64,6 @@ type = "fitness"
     2. Von mir publizierte Fotos, Texte und Videos dürfen ohne meine Zustimmung nicht für kommerzielle Zwecke verwendet werden.
    
 9.  Gerichtsstand  
-    1. Als Gerichtsstand werden der Standort der Firma der Auftragnehmerin (Wien), sowie die Anwendung österreichischen Rechts vereinbart. Abweichungen von diesen AGB sind im Einzelfall möglich, müssen aber vertraglich (schriftlich) festgehalten werden.
+    1. Als Gerichtsstand werden der Standort der Firma der Auftragnehmerin (Wien), sowie die Anwendung österreichischen Rechts vereinbart. Abweichungen von diesen AGB sind im Einzelfall möglich, müssen aber vertraglich festgehalten werden.
 
     STAND: 21.01.2021
