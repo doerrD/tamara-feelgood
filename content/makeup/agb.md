@@ -5,7 +5,7 @@ type = "makeup"
 +++
 
 1. Vertragsgegenstand  
-    Hiermit werden zwischen der Visagistin Tamara Dos Santos Góes (Firmensitz: Akkonplatz 6/1, 1150 Wien) und dem/der Kund*in folgende verbindliche Vereinbarungen getroffen. Entgegenstehenden Allgemeinen Geschäftsbedingungen des Kunden wird hiermit ausdrücklich widersprochen. Der/Die Auftraggeber*in bzw. Kund*in wird, wie folgt, der Einfachheit halber, Kunde genannt. Dabei kann es sich um eine Person, mehrere oder ein Unternehmen handeln. Tamara Dos Santos Góes ist die Auftragnehmerin, folgend Visagistin genannt. Der Vertrag kommt durch individuelle Vereinbarung zwischen Kunde und Visagistin zustande.
+    Hiermit werden zwischen der Visagistin Tamara Dos Santos Góes (Firmensitz: Akkonplatz 6/1, 1150 Wien) und dem/der KundIn folgende verbindliche Vereinbarungen getroffen. Entgegenstehenden Allgemeinen Geschäftsbedingungen des Kunden wird hiermit ausdrücklich widersprochen. Der/Die AuftraggeberIn bzw. KundIn wird, wie folgt, der Einfachheit halber, Kunde genannt. Dabei kann es sich um eine Person, mehrere oder ein Unternehmen handeln. Tamara Dos Santos Góes ist die Auftragnehmerin, folgend Visagistin genannt. Der Vertrag kommt durch individuelle Vereinbarung zwischen Kunde und Visagistin zustande.
 
 2. Leistung
     1. Die Visagistin verpflichtet sich, die Leistungen unter Beachtung der Interessen des Kunden zu erbringen. Ebenso zur gewissenhaften Beratung des Kunden und zur Einhaltung von Hygienestandards.
