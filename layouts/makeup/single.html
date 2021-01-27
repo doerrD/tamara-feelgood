@@ -9,6 +9,9 @@
 						<div class="divider-width-50px">
 							<hr class="bg-black-05">
 						</div>
+						{{ if .Page.Params.subtitle }}
+						<p>{{ .Page.Params.subtitle }}</p>
+						{{ end }}
 					</div>
 				</div>
 			</div>

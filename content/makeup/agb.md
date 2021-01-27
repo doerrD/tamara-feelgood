@@ -1,6 +1,7 @@
 +++
 draft = false
 title = "AGB"
+subtitle = "Stand: 23.01.2021"
 type = "makeup"
 +++
 
@@ -80,5 +81,3 @@ type = "makeup"
     3. Von mir publizierte, selbst produzierte Fotos, Texte und Videos dürfen ohne meine Zustimmung nicht für kommerzielle Zwecke verwendet werden.
 
     4. Die Visagistin ist berechtigt, die vorlegenden AGB jederzeit zu ändern. Für bereits vereinbarte Termine gelten die jeweilig aktuellen AGBs. 
-
-STAND: 23.01.2021

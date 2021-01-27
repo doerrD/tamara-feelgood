@@ -1,6 +1,7 @@
 +++
 draft = false
 title = "AGB"
+subtitle = "Stand: 21.01.2021"
 type = "fitness"
 +++
 
@@ -65,5 +66,3 @@ type = "fitness"
    
 9.  Gerichtsstand  
     1. Als Gerichtsstand werden der Standort der Firma der Auftragnehmerin (Wien), sowie die Anwendung österreichischen Rechts vereinbart. Abweichungen von diesen AGB sind im Einzelfall möglich, müssen aber vertraglich festgehalten werden.
-
-    STAND: 21.01.2021
