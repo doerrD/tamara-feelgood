@@ -1,30 +1,29 @@
 [
     {
         "Question": "Warum ein Personal Training?",
-        "Answer": "Jeder Mensch ist anders und hat unterschiedliche Bedürfnisse. In einem Personal Training kann ich ganz individuell auf dich eingehen und Bewegungsabläufe korrigieren. In einem Erstgespräch eruieren wir deine Ziele, danach erstelle ich einen Plan für dich und wir starten das Training."
+        "Answer": "Jeder Mensch ist anders und hat unterschiedliche Bedürfnisse. In einem Personal Training kann ich ganz individuell auf dich eingehen und, falls notwendig, Bewegungsabläufe korrigieren. In einem Erstgespräch eruieren wir deine Ziele, danach erstelle ich einen Plan für dich und wir starten das Training."
     },
     {
         "Question": "Kann ich auch einfach nur einen persönlichen Trainingsplan haben?",
         "Answer": "Yes. Dazu braucht es ein Erstgespräch und zumindest eine gemeinsame Personal Session, in der ich dir die Übungsabläufe genau erkläre. Du solltest nach ca. 3-4 Monaten auf einen neuen Plan umsteigen, um deinem Körper neue Trainingsreize zu bieten."
     },
     {
-        "Question": "Was ist der Vorteil von einem Kleingruppentraining?",
-        "Answer": "Mein KGT ist für Frauen gedacht, die sich in einem traditionellen Fitnessstudio vielleicht nicht so wohl fühlen, aber nicht ganz alleine trainieren wollen. Kontaktiere mich um rauszufinden, ob ich zurzeit KGT mit max. 6 Personen anbiete (Level: Basic & Medium)."
+        "Question": "Hast du irgendwo Infos zu deinem Stundenplan? Wo du unterrichtest? Machst du auch virtuelle Einheiten?",
+        "Answer": "Um zu erfahren, wo ich Gruppenfitness unterrichte, kontaktiere mich einfach oder folge mir auf Instagram (@feelgood_tamara). Gerne lass ich dir die Infos zukommen bzw. poste ich regelmäßig meinen Stundenplan in den Instagram-Storys. Und ja, seit März 2020 bin ich auch virtuell aktiv."
     },
     {
         "Question": "Kann bei dir immer jeder mitmachen?",
-        "Answer": "Ich versuche allen Fitnesslevels eine Teilnahme an meinen Einheiten zu ermöglichen. Basic = Du bist Bewegungsanfänger*in oder beginnst wieder mit Sport. Medium = Du betreibst regelmäßig Sport, alles auf einem relativ ruhigen Freizeit-Level. Advanced = Du betreibst regelmäßig Sport, Push-ups und Planks sind Teil deines Workouts."
-    },
-    {
-        "Question": "Bekomme ich von dir einen Ernährungsplan?",
-        "Answer": "Gerne gebe ich dir Tipps zum Thema Ernährung, jedoch erhältst du von mir keinen Ernährungsplan! Details zu diesem Thema überlasse ich gerne anderen Profis."
+        "Answer": "Ich versuche allen Fitnesslevels eine Teilnahme an meinen Einheiten zu ermöglichen. Basic = Du bist Bewegungsanfänger*in oder beginnst nach einer Pause wieder mit Sport. Medium = Du betreibst regelmäßig Sport, alles auf einem relativ ruhigen Freizeit-Level. Advanced = Du betreibst regelmäßig Sport, Push-ups und Planks sind ein fixer Bestandteil deines Workouts."
     },
     {
         "Question": "Auf deinen Social Media Kanälen schreibst du viel zu Body Positivity – wie passen Fitness und BoPo zusammen?",
         "Answer": "Bei BoPo geht es darum seinen Körper zu lieben bzw. zu akzeptieren. Durch Sport kann eine großartige Body-Mind-Balance entstehen, da wir ihn mit jeder Bewegung noch besser kennenlernen. Bei Fitness muss es nicht zwangsläufig darum gehen, ein Sixpack zu haben oder abzunehmen. Das möchte ich dir vermitteln!"
     },
     {
-        "Question": "Hast du irgendwo Infos zu deinem Stundenplan? Wo du unterrichtest? Machst du auch virtuelle Einheiten?",
-        "Answer": "Um zu erfahren, wo ich Gruppenfitness unterrichte, kontaktiere mich einfach oder folge mir auf Instagram (@feelgood_tamara). Gerne lass ich dir die Infos zukommen bzw. poste ich regelmäßig meinen Stundenplan in den Instagram-Storys. Und ja, seit März 2020 bin ich auch virtuell aktiv."
+        "Question": "Bekomme ich von dir einen Ernährungsplan?",
+        "Answer": "Gerne gebe ich dir Tipps zum Thema Ernährung, jedoch erhältst du von mir keinen Ernährungsplan! Details zu diesem Thema überlasse ich gerne anderen Profis."
+    },
+    {
+        
     }
 ]
