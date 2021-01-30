@@ -6,7 +6,7 @@ type = "fitness"
 +++
 
 1. Vertragsgegenstand  
-    Hiermit werden zwischen Trainerin Tamara Dos Santos Góes (Firmensitz: Akkonplatz 6/1, 1150 Wien) und dem/der Kund*in (der Einfachheit halber „Kunde“ in den folgenden Zeilen) folgende verbindliche Vereinbarungen getroffen. Diese gelten für alle künftigen Trainingseinheiten (Personal Training, Gruppenfitness, Online-Training. Im Studio, im Freien, an sonstigen Sportanlagen, zu Hause, zu Fitnessreisen, etc.), es sei denn, es wird schriftlich oder mündlich anderes vereinbart. Entgegenstehenden Allgemeinen Geschäftsbedingungen des Kunden wird hiermit ausdrücklich widersprochen. Tamara Dos Santos Góes übt die Tätigkeit als Fitness Trainerin als gewerbliche Tätigkeit aus. Der Status ist der eines freien Gewerbes. Es gilt die jeweils neueste Fassung der Allgemeinen Geschäftsbedingungen. Der Kunde akzeptiert mit dem Erwerb einer Trainingseinheit bei der Trainerin diese AGBs.
+    Hiermit werden zwischen Trainerin Tamara Dos Santos Góes (Firmensitz: Akkonplatz 6, Tür 1, 1150 Wien) und dem/der Kund*in (der Einfachheit halber „Kunde“ in den folgenden Zeilen) folgende verbindliche Vereinbarungen getroffen. Diese gelten für alle künftigen Trainingseinheiten (Personal Training, Gruppenfitness, Online-Training. Im Studio, im Freien, an sonstigen Sportanlagen, zu Hause, zu Fitnessreisen, etc.), es sei denn, es wird schriftlich oder mündlich anderes vereinbart. Entgegenstehenden Allgemeinen Geschäftsbedingungen des Kunden wird hiermit ausdrücklich widersprochen. Tamara Dos Santos Góes übt die Tätigkeit als Fitness Trainerin als gewerbliche Tätigkeit aus. Der Status ist der eines freien Gewerbes. Es gilt die jeweils neueste Fassung der Allgemeinen Geschäftsbedingungen. Der Kunde akzeptiert mit dem Erwerb einer Trainingseinheit bei der Trainerin diese AGBs.
 
 2. Leistungen der Trainerin (Personal Training)
     1. Der Inhalt wird gemeinsam erarbeitet, individuell an die Bedürfnisse des Kunden angepasst und im Personal Training umgesetzt.
@@ -50,7 +50,7 @@ type = "fitness"
 
     2. Liegen gesundheitliche Probleme vor, wird eine Absprache des Kunden mit dem jeweiligen Facharzt über mögliche Trainingsgestaltungen vorausgesetzt. Über plötzlich auftretende Befindlichkeitsstörungen (Schwindel, Übelkeit, Schmerzen, o.ä.) vor, während oder nach dem Training sollte sofort berichtet werden. Der Kunde verpflichtet sich, sich in regelmäßigen Abständen auf seine Sporttauglichkeit hin ärztlich untersuchen zu lassen.
 
-    3. Alle Fragen zum derzeitigen Gesundheitszustand und zu Lebensumständen sind wahrheitsgemäß und vollständige zu beantworten. Alle Änderungen sind der Trainerin sofort mitzuteilen.
+    3. Alle Fragen zum derzeitigen Gesundheitszustand und zu Lebensumständen sind wahrheitsgemäß und vollständig zu beantworten. Alle Änderungen sind der Trainerin sofort mitzuteilen.
    
     4. Die Teilnahme an den Trainings erfolgt auf eigene Gefahr/eigenes Risiko. Schadensersatzansprüche aller Art sind ausgeschlossen.
 
