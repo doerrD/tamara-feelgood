@@ -9,7 +9,7 @@ $(function(){ // .ready() callback, is only executed when the DOM is fully loade
     });
 
     tl.add({
-        targets: '.area',
+        targets: '.area-wrapper',
         opacity: 1,
         duration: 1500,
         easing: 'linear'
