@@ -5,10 +5,12 @@ subtitle = "Stand: 23.01.2021"
 type = "makeup"
 +++
 
-1. Vertragsgegenstand  
+1. Vertragsgegenstand
+
     Hiermit werden zwischen der Visagistin Tamara Dos Santos Góes (Firmensitz: Akkonplatz 6, Tür 1, 1150 Wien) und dem/der Kund*in folgende verbindliche Vereinbarungen getroffen. Entgegenstehenden Allgemeinen Geschäftsbedingungen des Kunden wird hiermit ausdrücklich widersprochen. Der/Die AuftraggeberIn bzw. KundIn wird, wie folgt, der Einfachheit halber, Kunde genannt. Dabei kann es sich um eine Person, mehrere oder ein Unternehmen handeln. Tamara Dos Santos Góes ist die Auftragnehmerin, folgend Visagistin genannt. Der Vertrag kommt durch individuelle Vereinbarung zwischen Kunde und Visagistin zustande.
 
 2. Leistung
+
     1. Die Visagistin verpflichtet sich, die Leistungen unter Beachtung der Interessen des Kunden zu erbringen. Ebenso zur gewissenhaften Beratung des Kunden und zur Einhaltung von Hygienestandards.
 
     2. Soweit nicht ausdrücklich etwas anderes vereinbart wurde, erfolgt die vereinbarte Leistung zum gebuchten Termin.
@@ -19,7 +21,8 @@ type = "makeup"
 
     5. Kann der Kunde den vereinbarten Termin nicht wahrnehmen oder erscheint er nicht zu diesem, ist die Visagistin berechtigt, vom Vertrag zurückzutreten und Schadensersatz wegen Verzug oder wegen Nichterfüllung zu beanspruchen.
    
-3. Zahlung  
+3. Zahlung
+
     1. Alle in Angeboten angegebenen Preise sind Endpreise (gemäß § 6 UStG keine Umsatzsteuer enthalten).
 
     2. Für eine fixe Buchung (private Kunden; Details zu Hochzeiten siehe § 4) ist eine Anzahlung bzw. Terminreservierungsgebühr i.H. von 20% des vereinbarten Honorars (exkl. Reisekosten & Kosten weiterer Dienstleister oder anderer Zusatzkosten) sofort zum Zeitpunkt der Buchung fällig, wenn nicht anders mit der Visagistin vereinbart.
@@ -36,7 +39,8 @@ type = "makeup"
    
     8. Die im Rahmen eines Testshootings erstellten Werke dürfen auch nur für Tests und Proben verwendet werden. Werden Teile oder das gesamte Testshooting zu einem späteren Zeitpunkt gewerblich verwertet, steht der Visagistin das übliche Honorar (falls zum damaligen Zeitpunkt zu weniger Honorar wegen Test/Probe angeboten) für die Leistungen im Nachhinein zu. 
 
-4. Hochzeiten  
+4. Hochzeiten
+
     1. Allgemeines: Hochzeits-Stylings umfassen zwei Teile - einen Probetermin und die Hochzeit. Es werden beide Termine getrennt in Rechnung gestellt.
 
     2. Probetermin: Der Kunde vereinbart mit der Visagistin einen Probetermin. Probetermine müssen bis spätestens 1 Woche vor dem festgesetzten Hochzeitstermin erfolgen. Dieser Termin wird durch eine Anzahlung von 20% des Betrages (Probetermin) fixiert. Der Restbetrag ist spätestens 14 Tage nach dem Probetermin fällig. Dieser ist in allem Fall zu begleichen, auch wenn der Kunde sich für einen anderen Make-up Artist für die Hochzeit entscheiden sollte.
@@ -47,33 +51,40 @@ type = "makeup"
    
     5. Stornierung: Bei Brautstyling-Buchungen die länger als 3 Monate vor dem Hochzeitstermin schriftlich bestätigt wurden, beträgt die Stornierungsfrist 6 Wochen. Bei späterem Stornierungswunsch verpflichtet sich der Kunde das vereinbarte Honorar, vollständig zu erstatten, wenn nicht anders vereinbart. Bei kurzfristigen Anfragen (ab 3 Monate vor Hochzeitstermin) beträgt die Stornierungsfrist die Hälfte des Zeitraumes bis zum Hochzeitstag.
 
-5. Pflichten des Kunden  
+5. Pflichten des Kunden 
+
     1. Der Kunde ist verpflichtet bei der Leistungserbringung von der Visagistin anwesend zu sein und mögliche Änderungen sofort vornehmen zu lassen. Jede Änderung im Nachhinein entspricht einer Neubeauftragung der Visagistin. Dem Kunden obliegt es der Visagistin in jeder Hinsicht bei der Leistungserbringung zu unterstützen. Dies betrifft insbesondere die Bereitstellung entsprechender Unterlagen und Informationen. Der Kunde ist verpflichtet jede Änderung der Auftrags-Location unverzüglich bekannt zu geben. Das Gleiche gilt für alle sonstigen wichtigen Daten im Zuge des Auftrages.
     
     2. Die Visagistin ist nicht für Leistungen und Dienste, die sich außerhalb ihres Einflussbereiches befinden, verantwortlich (darunter fallen auch Barbierarbeit, Haare schneiden und färben). Soweit von dem Kunden Requisiten zur Verwendung in den Werken gewünscht werden, kann die Visagistin entsprechendes Material im Namen und Auftrag des Kunden auf dessen Kosten erwerben.
 
-6. Widerrufsbelehrung 
+6. Widerrufsbelehrung
+
     1. Der Kunde hat das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag des Vertragsabschlusses. Um sein Widerrufsrecht auszuüben, müssen der Kunde der Visagistin (Tamara Dos Santos Góes, Akkonplatz 6/1, 1150 Wien, +436502825968, info@tamara-feelgood.at) mittels einer eindeutigen, schriftlichen Erklärung über seinen Entschluss, diesen Vertrag zu widerrufen, informieren. Zur Wahrung der Widerrufsfrist reicht es aus, dass der Kunde die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absendet.  
 
     2. Wenn der Kunde diesen Vertrag widerruft, hat die Visagistin alle Zahlungen, die sie vom Kunden (die nicht in die Stornobedingungen gem. § 3 fallen) erhalten hat, unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über den Widerruf des Vertrags bei der Visagistin eingegangen ist. Für diese Rückzahlung verwenden die Visagistin dasselbe Zahlungsmittel, das der Kunde bei der ursprünglichen Transaktion eingesetzt hat. Es sei denn, es wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden dem Kunde wegen dieser Rückzahlung Entgelte berechnet.Verlangt der Kunde, dass die Dienstleistungen während der Widerrufsfrist beginnen soll, so hat der Kunde einen angemessenen Betrag zu zahlen. Dieser entspricht dem Anteil der bis zu dem Zeitpunkt, zu dem der Kunde von der Ausübung des Widerrufsrechts hinsichtlich dieses Vertrags unterrichtet, bereits erbrachten Dienstleistungen im Vergleich zum Gesamtumfang der im Vertrag vorgesehenen Dienstleistungen.
 
     3. Das Widerrufsrecht des Kunden erlischt vorzeitig, wenn die Visagistin die Dienstleistung vollständig erbracht hat und/oder mit der Ausführung der Dienstleistung erst begonnen hat, nachdem der Kunde dazu ausdrückliche Zustimmung gegeben hat und gleichzeitig die Kenntnis davon bestätigt hat, dass der Kunde sein Widerrufsrecht bei vollständiger Vertragserfüllung durch die Visagistin verlieren.
 
-7. Haftung  
+7. Haftung
+
     1. Die Visagistin haftet unter nachstehendem Vorbehalt nur für Vorsatz oder grobe Fahrlässigkeit. Bei leichter Fahrlässigkeit betrifft die Haftung nur die Verletzung wesentlicher Vertragspflichten. Folglich solcher Pflichten, deren Einhaltung für die Erreichung des Vertragszwecks von besonderer Bedeutung ist. Dabei beschränkt sich die Haftung auf den vorhersehbaren, vertragstypischen, unmittelbaren Durchschnittsschaden. Gegenüber Kunde, die nicht Verbraucher sind, haftet die Visagistin im Falle eines grob fahrlässigen Verstoßes gegen nicht wesentliche Vertragspflichten nur in Höhe des vorhersehbaren, vertragstypischen, unmittelbaren Durchschnittsschadens.
    
     2. Der vorstehende Haftungsausschluss betrifft nicht die Haftung für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit. Auch die Vorschriften des Produkthaftungsgesetzes bleiben vom Haftungsausschluss unberührt.
 
-8. Kündigung durch die Firma Tamara Dos Santos Góes 
+8. Kündigung durch die Firma Tamara Dos Santos Góes
+
     1. Die Visagistin ist berechtigt, den Vertrag jederzeit und ohne Einhaltung einer Kündigungsfrist zu kündigen, wenn mindestens eines der folgenden Kriterien erfüllt ist: Der Kunde kommt trotz erfolgter Mahnung durch die Visagistin den Zahlungsverpflichtungen nicht nach. Der Kunde kommt seiner Mitwirkungspflicht (siehe dazu 5.) nicht nach.
    
-9.  Gewährleistung und Schadensersatz  
+9.  Gewährleistung und Schadensersatz
+
     1. Die Visagistin leistet im Rahmen der gesetzlich festgelegten Vorschriften Gewähr für die von ihr erbrachten Leistungen. Gewährleistungsansprüche gegen die Visagistin sind ausgeschlossen, sofern seitens des Kunden und/oder Dritter, die von der Visagistin im Namen und auf Rechnung des Kunden zur Erbringung von Leistungen beauftragt wurden, und/oder Dritter, deren Handlungen dem Kunden zugerechnet werden gegen Pläne oder ausdrückliche Anweisungen verstoßen wurde. Dies gilt auch ebenso für Fehler, die auf Informationen, Empfehlungen und/oder Weisungen des Kunden zurückzuführen sind.
 
-10.  Datenschutz  
+10.  Datenschutz
+
     1. Alle übermittelten Daten werden nach Vorgaben der gesetzlich geregelten DSGVO vertraulich behandelt. Sämtliche an die Visagistin übermittelten Daten der Kunde unterliegen dem Datenschutz und werden von der Visagistin an Dritte nur zur Erfüllung der vertraglichen Pflichten weitergegeben. Der Kunde stimmt mit der Unterfertigung einer solchen Weitergabe ihrer Daten zu. Die Visagistin behält sich das Recht vor, sämtliche Daten für die steuerrechtlich relevante Zeit von sieben Jahren aufzubewahren. Nach Ablauf dieser Frist hat der Kunde das Recht, eine Löschung zu beantragen.
 
-11.  Allgemeines  
+11.  Allgemeines
+
     1. Als Gerichtsstand werden der Standort der Firma der Visagistin (Wien), sowie die Anwendung österreichischen Rechts vereinbart. Abweichungen von diesen AGB sind im Einzelfall möglich, müssen aber vertraglich festgehalten werden.
 
     2. Sämtliche auf meinen Internetseiten oder Social Media Accounts wiedergegebenen Inhalte werden mit großer Sorgfalt aufbereitet und zur öffentlichen Information publiziert. Fehler und Irrtümer nicht ausgeschlossen. Alle Angaben ohne Gewähr. Änderungen möglich.
