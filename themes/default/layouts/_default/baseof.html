@@ -12,7 +12,8 @@
         
         {{- block "main" . }}{{- end }}
 
-        <div class="social-links">
+        {{ if eq .Section "fitness" }}
+        <div class="social-links fitness-bg">
             <ul>
                 <li><a href="https://www.instagram.com/feelgood_tamara/" target="_blank" title="Instagram"><i class="fab fa-instagram" aria-label="Insagram Icon"></i></a></li>
                 <li><a href="https://www.facebook.com/feelgoodfittam" target="_blank" title="Facebook"><i class="fab fa-facebook" aria-label="Facebook Icon"></i></a></li>
@@ -20,6 +21,16 @@
                 <li><a href="https://open.spotify.com/user/gvy0oqkkjdguxxsbu56zjcscp?si=wrHogFZ2Q1OT2WbsKXqrmA" target="_blank" title="Spotify"><i class="fab fa-spotify" aria-label="Spotify Icon"></i></a></li>
             </ul>
         </div>
+        {{ end }}
+        {{ if eq .Section "makeup" }}
+        <div class="social-links makeup-bg">
+            <ul>
+                <li><a href="https://www.instagram.com/feelgood_tamara/" target="_blank" title="Instagram"><i class="fab fa-instagram" aria-label="Insagram Icon"></i></a></li>
+                <li><a href="https://www.facebook.com/feelgoodfittam" target="_blank" title="Facebook"><i class="fab fa-facebook" aria-label="Facebook Icon"></i></a></li>
+                <li><a href="https://open.spotify.com/user/gvy0oqkkjdguxxsbu56zjcscp?si=wrHogFZ2Q1OT2WbsKXqrmA" target="_blank" title="Spotify"><i class="fab fa-spotify" aria-label="Spotify Icon"></i></a></li>
+            </ul>
+        </div>
+        {{ end }}
 
         {{ partial "footer.html" . }}
 

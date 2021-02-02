@@ -18,12 +18,21 @@
     margin-bottom: -100px;
 }
 
-.bg-primary-custom {
+.fitness-bg {
     background-color: rgba(0,83,126,1);
     color:white;
 }
 
-.bg-primary-custom h3 {
+.fitness-bg h3 {
+    color:white;
+}
+
+.makeup-bg {
+    background-color: rgb(230,0,126);
+    color:white;
+}
+
+.makeup-bg h3 {
     color:white;
 }
 
@@ -73,12 +82,19 @@
     right: 0;
     padding: 15px 10px 15px 15px;
     font-size: 1.5rem;
-    background-color: rgba(0,83,126,1);
     color: white;
     -webkit-box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.12);
     box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.12);
     border-radius: 10px 0 0 10px;
     border: 2px solid white;
+}
+
+.social-links.fitness {
+    background-color: rgba(0,83,126,1);
+}
+
+.social-links.makeup {
+    background-color: rgb(230,0,126);
 }
 
 .social-links a {
