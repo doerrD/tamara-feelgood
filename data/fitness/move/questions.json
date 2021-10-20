@@ -27,12 +27,12 @@
         "Question": "Finde ich auf deiner Homepage einen Stundenplan oder ähnliches?",
         "Answer": "Nachdem sich dieser wöchentlich ändern kann, nein. Melde dich für meinen Newsletter an und/oder folge mir auf Instagram (@feelgood_tamara)."
     },
-    {
-        "Question": "Auf deinen Social Media Kanälen schreibst du viel zu Body Positivity bzw. Body Acceptance – wie passt das mit Fitness zusammen?",
-        "Answer": "Das passt sogar sehr gut zusammen! Bei diesen Themen geht es darum seinen Körper zu lieben bzw. ihn zu akzeptieren. Regelmäßiger Sport hilft dir dabei mehr Body-Mind-Balance aufzubauen, da wir ihn mit jeder Bewegung noch besser kennenlernen. Bei Fitness muss es nicht zwangsläufig darum gehen, einem gewissen Körperideal zu entsprechen. Leider wird das heutzutage weiterhin noch so oft so vermittelt. Ich möchte dieses klassische Bild in die Vergangenheit schicken und diese Mythen auch in deinem Denken endgültig löschen - für einen gesünderen Zugang zu Bewegung, deinem Körper und Wohlbefinden! "
-    },
-    {
-        "Question": "Bekomme ich von dir einen Ernährungsplan?",
+    { "Question": "Bekomme ich von dir einen Ernährungsplan?",
         "Answer": "Gerne gebe ich dir Tipps zum Thema Ernährung, jedoch erhältst du von mir keinen Ernährungsplan! Details zu diesem Thema überlasse ich gerne anderen Profis."
     }
+    {
+        "Question": "Auf deinen Social Media Kanälen schreibst du viel zu Body Positivity bzw. Body Acceptance – wie passt das mit Fitness zusammen?",
+        "Answer": "Das passt sogar sehr gut zusammen! Bei diesen Themen geht es darum seinen Körper zu lieben bzw. ihn zu akzeptieren. Regelmäßiger Sport hilft dir dabei mehr Body-Mind-Balance aufzubauen, da wir ihn mit jeder Bewegung noch besser kennenlernen. Bei Fitness muss es nicht zwangsläufig darum gehen einem gewissen Körperideal zu entsprechen. Leider wird das heutzutage weiterhin noch so oft so vermittelt. Ich möchte dieses veraltete Image in die Vergangenheit schicken und diese Mythen auch in deinem Denken endgültig löschen - für einen gesünderen Zugang zu Bewegung, deinem Körper und Wohlbefinden! "
+    },
+       
 ]
