@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "AGB"
-subtitle = "Stand: 21.01.2021"
+subtitle = "Stand: 21.10.2021"
 type = "fitness"
 +++
 
