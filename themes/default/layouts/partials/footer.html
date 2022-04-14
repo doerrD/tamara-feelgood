@@ -9,9 +9,10 @@
                     <h6 class="font-family-tertiary font-small font-weight-normal uppercase">Bereiche</h6>
                     {{ if eq .Section "fitness" }}
                     <ul class="list-dash">
+                        <li><a href="{{ .Site.BaseURL }}/fitness#outdoor">Outdoor-Kurse</a></li>
+                        <li><a href="{{ .Site.BaseURL }}/fitness#online-training">Virtual Fitness</a></li>
                         <li><a href="{{ .Site.BaseURL }}/fitness#move">Bewegungsangebote</a></li>
                         <li><a href="{{ .Site.BaseURL }}/fitness#companies">Firmenfitness</a></li>
-                        <!-- <li><a href="{{ .Site.BaseURL }}/fitness#online-training">Online-Training</a></li> -->
                         <li><a href="{{ .Site.BaseURL }}/fitness#about-me">About me</a></li>
                         <li><a href="{{ .Site.BaseURL }}/fitness/impressum">Impressum</a></li>
                         <li><a href="{{ .Site.BaseURL }}/fitness/agb">AGB</a></li>
