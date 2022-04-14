@@ -87,7 +87,7 @@
             <h3 class="margin-0">{{ .Site.Data.fitness.references.title.Title }}</h3>
         </div>
         {{ end }}
-        <div class="owl-carousel icon-2xl" data-owl-items="{{ len $.Site.Data.fitness.references.data }}" data-owl-dots="false" data-owl-nav="true">
+        <div class="owl-carousel icon-2xl" data-owl-items="1" data-owl-dots="false" data-owl-nav="true">
             {{ range $index, $element := $.Site.Data.fitness.references.data }}
                 <div class="testimonial-box">
                     <i class="fas fa-quote-right text-dark margin-bottom-30"></i>
