@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<div class="section-2xl bg-image" data-bg-src="{{ .Site.BaseURL }}/images/TitelbildFIT_small.jpg" style="background-image: url(&quot;{{ .Site.BaseURL }}/images/TitelbildFIT_small.jpg&quot;); background-size: cover; background-repeat: no-repeat; background-position: center center;">
+<div class="section-2xl bg-image" data-bg-src="{{ .Site.BaseURL }}/images/TitelbildFIT_Okt2021_kleiner.jpg" style="background-image: url(&quot;{{ .Site.BaseURL }}/images/TitelbildFIT_Okt2021_kleiner.jpg&quot;); background-size: cover; background-repeat: no-repeat; background-position: center center;">
     <div class="container">
     </div><!-- end container -->
 </div>
@@ -79,16 +79,54 @@
     </div>
 </div>
 
-<div class="section-xl fitness-bg">
-    <div class="container text-center">
-        <div class="row">
-            <div class="col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
-                <h3 class="margin-bottom-20">{{ .Site.Data.fitness.move.getInTouch.Title }}</h3>
-                <p class="font-large">{{ .Site.Data.fitness.move.getInTouch.Text }}</p>
-                <a class="button button-lg button-radius button-outline-white margin-top-30" href="mailto:info@tamara-feelgood.at">{{ .Site.Data.fitness.move.getInTouch.ButtonText }}</a>
-            </div>
-        </div><!-- end row -->
-    </div><!-- end container -->
+{{ if $.Site.Data.fitness.references.data }}
+<div class="section">
+    <div class="container">
+        {{ if $.Site.Data.fitness.references.title.Title }}
+        <div class="margin-bottom-70 text-center">
+            <h3 class="margin-0">{{ .Site.Data.fitness.references.title.Title }}</h3>
+        </div>
+        {{ end }}
+        <div class="owl-carousel icon-2xl" data-owl-items="1" data-owl-dots="false" data-owl-nav="true">
+            {{ range $index, $element := $.Site.Data.fitness.references.data }}
+                <div class="testimonial-box">
+                    <i class="fas fa-quote-right text-dark margin-bottom-30"></i>
+                    <p class="margin-bottom-20">"{{ $element.Text }}"</p>
+                    {{ if $element.Name }}
+                    <h5 class="font-weight-normal line-height-140 margin-0">{{ $element.Name }}</h5>
+                    {{ end }}
+                </div>
+            {{ end }}
+        </div><!-- end owl-carousel -->
+    </div>
+</div>
+{{ end }}
+
+<div id="outdoor" class="section-xl bg-image parallax" data-bg-src="{{ .Site.BaseURL }}/images/DL_breitOutdoor.jpg" style="background-image: url(&quot;{{ .Site.BaseURL }}/images/home_training_1.jpg&quot;); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; background-position: center 193.94px;">
+    <div class="bg-black-07">
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+                    <h3 class="margin-bottom-20">{{ .Site.Data.fitness.outdoor.getInTouch.Title }}</h3>
+                    <p class="font-large">{{ .Site.Data.fitness.outdoor.getInTouch.Text }}</p>
+                    <div class="margin-top-60">
+                        <div style="font-size: 1rem;">{{ .Site.Data.fitness.outdoor.getInTouch.ButtonText }}</div>
+                        <div style="display: flex; justify-content: center; margin-top: 0.25rem;">
+                            <div style="margin-right: 1rem;">
+                                <a class="button button-lg button-radius button-outline-white" href="mailto:info@tamara-feelgood.at"><i class="fas fa-envelope" style=" font-size: 1.2rem" aria-label="Kontaktiere mich per E-Mail"></i></a>
+                            </div>
+                            <div style="margin-right: 1rem;">
+                                <a class="button button-lg button-radius button-outline-white" href="tel:+436502825968"><i class="fas fa-phone" style=" font-size: 1.2rem" aria-label="Kontaktiere mich per Telefon"></i></a>
+                            </div>
+                            <div>
+                                <a class="button button-lg button-radius button-outline-white" href="https://wa.me/436502825968"><i class="fab fa-whatsapp" style=" font-size: 1.2rem" aria-label="Kontaktiere mich per WhatsApp"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- end row -->
+        </div><!-- end container -->
+    </div>
 </div>
 
 <div class="section" id="companies">
@@ -131,10 +169,23 @@
                 <div class="col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
                     <h3 class="margin-bottom-20">{{ .Site.Data.fitness.online.title.Title }}</h3>
                     <p class="font-large">{{ .Site.Data.fitness.online.title.Text }}</p>
-                    <a class="button button-lg button-radius button-outline-white margin-top-30" href="mailto:info@tamara-feelgood.at">Kontaktiere mich</a>
+                    <div class="margin-top-60">
+                        <div style="font-size: 1rem;">Kontaktiere mich</div>
+                        <div style="display: flex; justify-content: center; margin-top: 0.25rem;">
+                            <div style="margin-right: 1rem;">
+                                <a class="button button-lg button-radius button-outline-white" href="mailto:info@tamara-feelgood.at"><i class="fas fa-envelope" style=" font-size: 1.2rem" aria-label="Kontaktiere mich per E-Mail"></i></a>
+                            </div>
+                            <div style="margin-right: 1rem;">
+                                <a class="button button-lg button-radius button-outline-white" href="tel:+436502825968"><i class="fas fa-phone" style=" font-size: 1.2rem" aria-label="Kontaktiere mich per Telefon"></i></a>
+                            </div>
+                            <div>
+                                <a class="button button-lg button-radius button-outline-white" href="https://wa.me/436502825968"><i class="fab fa-whatsapp" style=" font-size: 1.2rem" aria-label="Kontaktiere mich per WhatsApp"></i></a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-            </div><!-- end row -->
-        </div><!-- end container -->
+            </div>
+        </div>
     </div>
 </div>
 
@@ -146,7 +197,7 @@
         </div> -->
         <div class="row align-items-center col-spacing-50">
             <div class="col-12 col-lg-4">
-                <img src="{{ .Site.BaseURL }}/images/about_me.jpg" alt="Tamara Dos Santos Goes Portrait"><!-- Image source -->
+                <img src="{{ .Site.BaseURL }}/images/Aboutme_fitness_Okt2021.jpg" alt="Tamara Dos Santos Goes Portrait"><!-- Image source -->
             </div>
             <div class="col-12 col-lg-8 p-padding">
                 {{ template "fitness/_internal/about-me.html" . }}
@@ -154,4 +205,17 @@
         </div><!-- end row -->
     </div><!-- end container -->
 </div>
+
+<div class="section-xl fitness-bg" id="outdoor">
+    <div class="container text-center">
+        <div class="row">
+            <div class="col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+                <h3 class="margin-bottom-20">{{ .Site.Data.fitness.move.getInTouch.Title }}</h3>
+                <p class="font-large">{{ .Site.Data.fitness.move.getInTouch.Text }}</p>
+                <a class="button button-lg button-radius button-outline-white margin-top-30" href="mailto:info@tamara-feelgood.at">{{ .Site.Data.fitness.move.getInTouch.ButtonText }}</a>
+            </div>
+        </div><!-- end row -->
+    </div><!-- end container -->
+</div>
+
 {{ end }}

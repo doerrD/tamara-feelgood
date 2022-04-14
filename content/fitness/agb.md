@@ -1,12 +1,12 @@
 +++
 draft = false
 title = "AGB"
-subtitle = "Stand: 21.01.2021"
+subtitle = "Stand: 21.10.2021"
 type = "fitness"
 +++
 
 1. Vertragsgegenstand  
-    Hiermit werden zwischen Trainerin Tamara Dos Santos Góes (Firmensitz: Akkonplatz 6, Tür 1, 1150 Wien) und dem/der Kund*in (der Einfachheit halber „Kunde“ in den folgenden Zeilen) folgende verbindliche Vereinbarungen getroffen. Diese gelten für alle künftigen Trainingseinheiten (Personal Training, Gruppenfitness, Online-Training. Im Studio, im Freien, an sonstigen Sportanlagen, zu Hause, zu Fitnessreisen, etc.), es sei denn, es wird schriftlich oder mündlich anderes vereinbart. Entgegenstehenden Allgemeinen Geschäftsbedingungen des Kunden wird hiermit ausdrücklich widersprochen. Tamara Dos Santos Góes übt die Tätigkeit als Fitness Trainerin als gewerbliche Tätigkeit aus. Der Status ist der eines freien Gewerbes. Es gilt die jeweils neueste Fassung der Allgemeinen Geschäftsbedingungen. Der Kunde akzeptiert mit dem Erwerb einer Trainingseinheit bei der Trainerin diese AGBs.
+    Hiermit werden zwischen Trainerin Tamara Dos Santos Góes (Firmensitz: Moserbachstr. 5b/5, 4614 Marchtrenk) und dem/der Kund*in (der Einfachheit halber in den folgenden Zeilen „Kunde“ genannt) folgende verbindliche Vereinbarungen getroffen. Diese gelten für alle künftigen Trainingseinheiten (Personal Training, Gruppenfitness, Online-Training, im Studio, im Freien, an sonstigen Sportanlagen, zu Hause, zu Fitnessreisen, etc.), es sei denn, es wird schriftlich oder mündlich anderes vereinbart. Entgegenstehenden Allgemeinen Geschäftsbedingungen des Kunden (Firmenkunden) wird hiermit ausdrücklich widersprochen. Es gilt die jeweils neueste Fassung der Allgemeinen Geschäftsbedingungen. Der Kunde akzeptiert mit dem Erwerb einer Trainingseinheit bei der Trainerin diese AGBs.
 
 2. Leistungen der Trainerin (Personal Training)
     1. Der Inhalt wird gemeinsam erarbeitet, individuell an die Bedürfnisse des Kunden angepasst und im Personal Training umgesetzt.
@@ -38,12 +38,12 @@ type = "fitness"
 
     4. Die Bezahlung erfolgt innerhalb von 14 Tagen nach Erhalt der Rechnung per Überweisung (PayPal, Sofortüberweisung o.ä.). Der Betrag ist ohne Abzug zahlbar.
    
-    5. Anfahrtskosten: Bei Terminen innerhalb Wiens (Grenze: Wiener Linien Netz), bei denen die Anfahrt vom Standort (Firmensitz oder anderer Ort eines Trainingstermins) der Trainerin mit öffentlichen Verkehrsmitteln länger als 45 Minuten beträgt, wird, wenn nicht anders vereinbart, eine Anfahrtspauschale in Höhe von € 15,- verrechnet. Für diese zeitliche Berechnung gilt der Wiener Linien Normalbetrieb und Google-Maps für die Berechnung Anfahrtszeit. Für Anreisen außerhalb Wiens (Grenze: Österreich) berechnet die Auftragnehmerin, wenn nicht anders vereinbart, zusätzliche Fahrtkosten. Grundlage für die Berechnung ist die Anfahrtspauschale plus die Anzahl der gefahrenen Kilometer ab dem Firmensitz, wobei pro Kilometer 0,50 Cent berechnet werden.
+    5. Anfahrtskosten: Bei Terminen, bei denen die Anfahrt vom Standort (Firmensitz oder anderer Ort eines Geschäftstermins) der Trainerin länger als 30 Minuten beträgt, wird, wenn nicht anders vereinbart, eine Anfahrtspauschale in Höhe von € 10,- verrechnet. Für diese zeitliche Berechnung gilt Google-Maps für die Berechnung Anfahrtszeit. Für Anreisen die länger als 30 Minuten dauern (Grenze: Österreich) berechnet die Auftragnehmerin, wenn nicht anders vereinbart, zusätzliche Fahrtkosten. Grundlage für die Berechnung ist die Anfahrtspauschale plus die Anzahl der gefahrenen Kilometer ab dem Firmensitz, wobei pro Kilometer 0,50 Cent berechnet werden.
 
 5. Fremd- und Nebenkosten  
     1. Werden aufgrund der Trainingsziele und -wünsche des Klienten Tageskarten, monatliche Mitgliedsbeiträge im Fitnessstudio (o.ä.) erforderlich, sind diese Kosten vom Kunden zu übernehmen.
    
-    2. Der Kunde hat auch weitere anfallende Nebenkosten zu tragen. Beispiele dafür sind: Trainingsgeräte, die ausdrücklich vom Kunden gewünscht sind und nicht im Repertoire der Trainerin vorhanden sind, zusätzliche Trainer*innen, Reise- und Übernachtungskosten.
+    2. 2.	Der Kunde hat auch weitere anfallende Nebenkosten zu tragen. Beispiele dafür sind: Trainingsgeräte, die ausdrücklich vom Kunden gewünscht sind und nicht im Repertoire der Trainerin vorhanden sind, zusätzliche Trainer*innen, Reise- und Übernachtungskosten.
 
 6. Sporttauglichkeit & gesundheitliche Voraussetzungen 
     1. Der Kunde hat dafür Sorge zu tragen, dass er für alle sportlichen Aktivitäten in Zusammenhang mit dem Training von der Trainerin eine ärztliche Genehmigung einholt. Grundsätzlich versichert der Kunde sportgesund zu sein. Weiterhin versichert der Kunde, dass ihm keine Umstände bekannt sind, die ein Training ausschließen könnten. Dazu gehören insbesondere Krankheiten, Verletzungen, Einnahme von Medikamenten. Auch über körperliche Einschränkungen oder operativ implantierte, lebensnotwendige Objekte, wie z.B. Herzschrittmacher, wird die Trainerin informiert.
@@ -65,4 +65,4 @@ type = "fitness"
     2. Von mir publizierte Fotos, Texte und Videos dürfen ohne meine Zustimmung nicht für kommerzielle Zwecke verwendet werden.
    
 9.  Gerichtsstand  
-    1. Als Gerichtsstand werden der Standort der Firma der Auftragnehmerin (Wien), sowie die Anwendung österreichischen Rechts vereinbart. Abweichungen von diesen AGB sind im Einzelfall möglich, müssen aber vertraglich festgehalten werden.
+    1. Als Gerichtsstand werden der Standort der Firma der Auftragnehmerin (Oberösterreich), sowie die Anwendung österreichischen Rechts vereinbart. Abweichungen von diesen AGB sind im Einzelfall möglich, müssen aber vertraglich festgehalten werden.
