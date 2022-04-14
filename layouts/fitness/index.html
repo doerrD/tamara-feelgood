@@ -92,7 +92,9 @@
                 <div class="testimonial-box">
                     <i class="fas fa-quote-right text-dark margin-bottom-30"></i>
                     <p class="margin-bottom-20">"{{ $element.Text }}"</p>
+                    {{ if $element.Name }}
                     <h5 class="font-weight-normal line-height-140 margin-0">{{ $element.Name }}</h5>
+                    {{ end }}
                 </div>
             {{ end }}
         </div><!-- end owl-carousel -->
