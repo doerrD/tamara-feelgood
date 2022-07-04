@@ -7,7 +7,7 @@ $(function(){ // .ready() callback, is only executed when the DOM is fully loade
         duration: 1500,
         easing: 'linear',
         complete: function() {
-            window.location.href =  window.location.href + '/fitness';
+            window.location.href =  window.location.href + 'fitness';
         }
     });
 
