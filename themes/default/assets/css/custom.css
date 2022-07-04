@@ -23,6 +23,12 @@
     color:white;
 }
 
+.gradient-bg {
+    background: rgb(230,0,126);
+    background: linear-gradient(0deg, rgba(230,0,126,1) 0%, rgba(0,93,137,1) 100%);
+    color:white;
+}
+
 .fitness-bg h3 {
     color:white;
 }
@@ -89,9 +95,6 @@
     border: 2px solid white;
 }
 
-.social-links.fitness {
-    background-color: rgba(0,83,126,1);
-}
 
 .social-links.makeup {
     background-color: rgb(230,0,126);
