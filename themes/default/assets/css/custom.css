@@ -3,8 +3,8 @@
 }
 
 .bg-default-gradient {
-    background: rgb(230,0,126);
-    background: linear-gradient(0deg, rgba(230,0,126,1) 0%, rgba(0,83,126,1) 100%);
+    background: rgb(229, 0, 118);
+    background: linear-gradient(0deg, rgba(229, 0, 118,1) 0%, rgba(0, 74, 173,1) 100%);
     color:white;
 }
 
@@ -24,8 +24,8 @@
 }
 
 .gradient-bg {
-    background: rgb(230,0,126);
-    background: linear-gradient(0deg, rgba(230,0,126,1) 0%, rgba(0,93,137,1) 100%);
+    background: rgb(229, 0, 118);
+    background: linear-gradient(0deg, rgba(229, 0, 118,1) 0%, rgba(0, 74, 173,1) 100%);
     color:white;
 }
 
@@ -34,7 +34,7 @@
 }
 
 .makeup-bg {
-    background-color: rgb(230,0,126);
+    background-color: rgb(229, 0, 118);
     color:white;
 }
 
@@ -97,7 +97,7 @@
 
 
 .social-links.makeup {
-    background-color: rgb(230,0,126);
+    background-color: rgb(229, 0, 118);
 }
 
 .social-links a {
