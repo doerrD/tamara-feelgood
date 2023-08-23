@@ -1,279 +1,221 @@
-<!DOCTYPE html>
-<html lang="de">
-    <head>
-        <meta charset="utf-8">
-        <title>Tamara - feel good</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="author" content="Tamara Dos Santos G&oacute;es">
-        <meta name="publisher" content="Tamara Dos Santos G&oacute;es">
-        <meta name="copyright" content="Tamara Dos Santos G&oacute;es">
-        <meta name="keywords" content="Tamara, Dos, Santos G&oacute;es, Make, up, Visagistin, Fitness, Fitnesstrainer, Fitnesstrainerin, Personal, Training">
-        <meta name="page-topic" content="Dienstleistung">
-        <meta name="audience" content="Alle"><meta http-equiv="content-language" content="de">
-        <meta name="robots" content="index, nofollow">
-        <link rel="apple-touch-icon" sizes="57x57" href="img/apple-icon-57x57.png">
-        <link rel="apple-touch-icon" sizes="60x60" href="img/apple-icon-60x60.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="img/apple-icon-72x72.png">
-        <link rel="apple-touch-icon" sizes="76x76" href="img/apple-icon-76x76.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="img/apple-icon-114x114.png">
-        <link rel="apple-touch-icon" sizes="120x120" href="img/apple-icon-120x120.png">
-        <link rel="apple-touch-icon" sizes="144x144" href="img/apple-icon-144x144.png">
-        <link rel="apple-touch-icon" sizes="152x152" href="img/apple-icon-152x152.png">
-        <link rel="apple-touch-icon" sizes="180x180" href="img/apple-icon-180x180.png">
-        <link rel="icon" type="image/png" sizes="192x192"  href="img/android-icon-192x192.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="96x96" href="img/favicon-96x96.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
-        <link rel="shortcut icon"  href="img/favicon.ico" type="image/x-icon" >
-        <link rel="manifest" href="manifest.json">
-        <meta name="msapplication-TileColor" content="#ffffff">
-        <meta name="msapplication-TileImage" content="img/ms-icon-144x144.png">
-        <meta name="theme-color" content="#ffffff">
-        <script defer src="https://use.fontawesome.com/releases/v5.12.0/js/all.js"></script>
-        <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,500,700&display=swap" rel="stylesheet">
-        <style type="text/css">
-            body {
-                background: rgb(229, 0, 118);
-                background: linear-gradient(0deg, rgba(229, 0, 118,1) 0%, rgba(0, 74, 173,1) 100%);
-                width: 100vw;
-                height: 100vh;
-                margin: 0;
-                padding: 0;
-                font-family: 'IBM Plex Sans', sans-serif;
-                font-weight: 300;
-            }
-    
-            a, a:active {
-                color: white;
-                text-decoration: none;
-            }
-    
-            a:hover {
-                color: white;
-                text-decoration: underline;
-            }
-    
-            .main {
-                width: 100vw;
-                height: 100vh;
-                display: flex;
-                flex-direction: column;
-            }
+{{ define "main" }}
 
-            .main .bg {
-                flex: 1;
-                display: flex;
-                background-image: url(/img/logo.png);
-                background-position: 50% 50%;
-                background-repeat: no-repeat;
-                background-size: 50% auto;
-                justify-content: center;
-                align-items: center;
-            }
+<div class="section-2xl bg-image" data-bg-src="{{ .Site.BaseURL }}/images/TitelbildFIT_Okt2021_kleiner.jpg" style="background-image: url(&quot;{{ .Site.BaseURL }}/images/TitelbildFIT_Okt2021_kleiner.jpg&quot;); background-size: cover; background-repeat: no-repeat; background-position: center center;">
+    <div class="container">
+    </div><!-- end container -->
+</div>
 
-            .main .area-wrapper {
-                position: absolute;
-                width: 100vw;
-                height: 100vh;
-                display: flex;
-                justify-content: center;
-                align-items: center;
-            }
-
-            .main .area {
-                margin: 20px;
-                display: flex;
-                justify-content: center;
-                align-items: center;
-            }
-
-            .main .area .icon-wrapper {
-                border: 2px solid white;
-                padding: 30px;
-                font-size: 10rem;
-                min-width: 264px;
-                display: flex;
-                justify-content: center;
-                align-items: center;
-            }
-
-            .main .area .col:first-child {
-                    margin-right: 10px;
-            }
-
-
-            .main .area .icon-wrapper {
-                color:white;
-                background-color: transparent;
-            }
-
-            .main .area .icon-wrapper svg {
-                width: 100%;
-            }
-
-            .main .area .icon-wrapper svg path {
-                fill:white;
-            }
-
-            .main .area a:hover  {
-                text-decoration: none;
-            }
-
-            .main .area a:hover .icon-wrapper  {
-                color:rgb(229, 0, 118);
-                background-color: white;
-            }
-
-            .main .area a:hover .icon-wrapper svg path {
-                fill:rgb(229, 0, 118);
-            }
-    
-            footer {
-                position: fixed;
-                bottom: 0;
-                width: calc(100vw - 30px);
-                display: flex;
-                justify-content: space-between;
-                align-items: flex-end;
-                padding: 15px;
-                color: white;
-                font-size: 0.9em;
-            }
-
-            footer > div {
-                display: flex;
-                width: 100%;
-                justify-content: space-between;
-                align-items: flex-end;
-            }
-
-            footer p {
-                margin:0;
-            }
-
-            footer .social {
-                display: flex;
-                flex-direction: row;
-                justify-content: space-around;
-                min-width: 300px;
-                font-size: 2rem;
-            }
-
-            .under-construction {
-                display: flex;
-                justify-content: center;
-                width: 100%;
-                margin-top: 20px;
-                color:white;
-            }
-
-            .text {
-                font-size: 2em;
-                position: absolute;
-                display: flex;
-                font-weight: 600;
-                color: white;
-                margin-top: 400px;
-                margin-left: 400px;
-                letter-spacing: 5px;
-            }
-    
-            @media (max-width: 576px) { 
-                footer {
-                    align-items: flex-start;
-                    flex-direction: column;
-                }
-    
-                footer ul {
-                    margin-top: 15px;
-                }
-    
-                .main {
-                    background-size: 100% auto;
-                }
-
-                .main .area {
-                    flex-direction: column;
-                    margin-bottom: 60px;
-                }
-
-                .main .area .col {
-                    margin-bottom: 30px;
-                }
-
-                footer .social {
-                    display: flex;
-                    flex-direction: row;
-                    justify-content: space-around;
-                    width: 100%;
-                    font-size: 1.5rem;
-                }
-
-                footer > div {
-                    flex-direction: column-reverse;
-                }
-
-                footer p {
-                    font-size: 0.9em;
-                    margin-top:10px;
-                }
-            }
-    
-            @media (max-width: 1200px) { 
-                .main {
-                    background-size: 70% auto;
-                }
-            }
-    
-            @media (max-width: 1024px) { 
-                .main {
-                    background-size: 80% auto;
-                }
-
-                .text {
-                    font-size: 1.8em;
-                    margin-left: 0;
-                }
-            }
-    
-            @media (max-width: 800px) { 
-                .main {
-                    background-size: 100% auto;
-                }
-
-                .text {
-                    font-size: 1.5em;
-                    margin-left: 0;
-                }
-
-                .main .area .col:first-child {
-                    margin-right: 0;
-                }
-            }
-        </style>
-    </head>
-    <body>
-        <div class="main">
-            <div class="bg"></div>
-        </div>
-        <footer>
-            <div>
-                <div class="col-6">
-                    <p>© 2020 Tamara Dos Santos Goes</p>
+<div class="section" id="move">
+    <div class="container">
+        <div class="margin-bottom-70">
+            <div class="row">
+                <div class="col-12 col-md-10 col-lg-8 col-xl-7">
+                    <h2 class="margin-0" style="text-transform: uppercase">{{ .Site.Data.fitness.move.title.Title }}</h2>
+                    <p>{{ .Site.Data.fitness.move.title.Text }}</p>
                 </div>
-                <div class="col-6 social">
-                    <div><a href="https://www.instagram.com/feelgood_tamara/" target="_blank" title="Instagram"><i class="fab fa-instagram" aria-label="Insagram Icon"></i></a></div>
-                    <div><a href="https://www.facebook.com/feelgoodfittam" target="_blank" title="Facebook"><i class="fab fa-facebook" aria-label="Facebook Icon"></i></a></div>
-                    <div><a href="https://www.youtube.com/channel/UCL77j3R6NB3UWLmDX-4txhQ" target="_blank" title="Youtube"><i class="fab fa-youtube" aria-label="Youtube Icon"></i></a></div>
-                    <div><a href="https://open.spotify.com/user/gvy0oqkkjdguxxsbu56zjcscp?si=wrHogFZ2Q1OT2WbsKXqrmA" target="_blank" title="Spotify"><i class="fab fa-spotify" aria-label="Spotify Icon"></i></a></div>
+            </div><!-- end row -->
+        </div>
+        <div class="row col-spacing-20">
+            <div class="col-12 col-lg-4">
+                <div class="index-images">
+                    <img src="{{ .Site.BaseURL }}{{ .Site.Data.fitness.move.types.Image1 }}" alt="{{ .Site.Data.fitness.move.types.Title1 }}">
+                    <div class="content">
+                        <h5>{{ .Site.Data.fitness.move.types.Title1 }}</h5>
+                        <p>{{ .Site.Data.fitness.move.types.Text1 }}</p>
+                    </div>
                 </div>
             </div>
-        </footer>
-        <script
-            src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
-            integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
-            crossorigin="anonymous"></script>
-        <script src="/js/anime.min.js"></script>
-        <script src="/js/home.js"></script>
-    </body>
-</html>
+            <div class="col-12 col-lg-4">
+                <div class="index-images">
+                    <img src="{{ .Site.BaseURL }}{{ .Site.Data.fitness.move.types.Image2 }}" alt="{{ .Site.Data.fitness.move.types.Title2 }}">
+                    <div class="content">
+                        <h5>{{ .Site.Data.fitness.move.types.Title2 }}</h5>
+                        <p>{{ .Site.Data.fitness.move.types.Text2 }}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-lg-4">
+                <div class="index-images">
+                    <img src="{{ .Site.BaseURL }}{{ .Site.Data.fitness.move.types.Image3 }}" alt="{{ .Site.Data.fitness.move.types.Title3 }}">
+                    <div class="content">
+                        <h5>{{ .Site.Data.fitness.move.types.Title3 }}</h5>
+                        <p>{{ .Site.Data.fitness.move.types.Text3 }}</p>
+                    </div>
+                </div>
+            </div>
+        </div><!-- end row -->       
+    </div>
+
+    <div class="padding-top-0 margin-top-70">
+        <div class="container">
+            <div class="row col-spacing-60 align-items-center">
+                <div class="col-12">
+                    <ul class="accordion single-open rounded">
+                        {{ range $index, $element := $.Site.Data.fitness.move.questions }}
+                        {{ if (eq $index 0) }}
+                        <li class="active">
+                            <div class="accordion-title">
+                                <h6 class="font-weight-normal">{{ $element.Question }}</h6>
+                            </div>
+                            <div class="accordion-content">
+                                <p>{{ $element.Answer }}</p>
+                            </div>
+                        </li>
+                        {{ else }}
+                        <li>
+                            <div class="accordion-title">
+                                <h6 class="font-weight-normal">{{ $element.Question }}</h6>
+                            </div>
+                            <div class="accordion-content">
+                                <p>{{ $element.Answer }}</p>
+                            </div>
+                        </li>
+                        {{ end }}
+                        {{ end }}
+                    </ul>
+                </div>
+            </div><!-- end row -->
+        </div><!-- end container -->
+    </div>
+</div>
+
+{{ if $.Site.Data.fitness.references.data }}
+<div class="section">
+    <div class="container">
+        {{ if $.Site.Data.fitness.references.title.Title }}
+        <div class="margin-bottom-70 text-center">
+            <h3 class="margin-0">{{ .Site.Data.fitness.references.title.Title }}</h3>
+        </div>
+        {{ end }}
+        <div class="owl-carousel icon-2xl" data-owl-items="1" data-owl-dots="false" data-owl-nav="true">
+            {{ range $index, $element := $.Site.Data.fitness.references.data }}
+                <div class="testimonial-box">
+                    <i class="fas fa-quote-right text-dark margin-bottom-30"></i>
+                    <p class="margin-bottom-20">"{{ $element.Text }}"</p>
+                    {{ if $element.Name }}
+                    <h5 class="font-weight-normal line-height-140 margin-0">{{ $element.Name }}</h5>
+                    {{ end }}
+                </div>
+            {{ end }}
+        </div><!-- end owl-carousel -->
+    </div>
+</div>
+{{ end }}
+
+<div id="outdoor" class="section-xl bg-image parallax" data-bg-src="{{ .Site.BaseURL }}/images/DL_breitOutdoor.jpg" style="background-image: url(&quot;{{ .Site.BaseURL }}/images/home_training_1.jpg&quot;); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; background-position: center 193.94px;">
+    <div class="bg-black-07">
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+                    <h3 class="margin-bottom-20">{{ .Site.Data.fitness.outdoor.getInTouch.Title }}</h3>
+                    <p class="font-large">{{ .Site.Data.fitness.outdoor.getInTouch.Text }}</p>
+                    <div class="margin-top-60">
+                        <div style="font-size: 1rem;">{{ .Site.Data.fitness.outdoor.getInTouch.ButtonText }}</div>
+                        <div style="display: flex; justify-content: center; margin-top: 0.25rem;">
+                            <div style="margin-right: 1rem;">
+                                <a class="button button-lg button-radius button-outline-white" href="mailto:info@tamara-feelgood.at"><i class="fas fa-envelope" style=" font-size: 1.2rem" aria-label="Kontaktiere mich per E-Mail"></i></a>
+                            </div>
+                            <div style="margin-right: 1rem;">
+                                <a class="button button-lg button-radius button-outline-white" href="tel:+436502825968"><i class="fas fa-phone" style=" font-size: 1.2rem" aria-label="Kontaktiere mich per Telefon"></i></a>
+                            </div>
+                            <div>
+                                <a class="button button-lg button-radius button-outline-white" href="https://wa.me/436502825968"><i class="fab fa-whatsapp" style=" font-size: 1.2rem" aria-label="Kontaktiere mich per WhatsApp"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- end row -->
+        </div><!-- end container -->
+    </div>
+</div>
+
+<div class="section" id="companies">
+    <div class="container">
+        <div class="margin-bottom-70">
+            <div class="row">
+                <div class="col-12 col-md-10 col-lg-8 col-xl-7">
+                    <h2 class="margin-0" style="text-transform: uppercase">{{ .Site.Data.fitness.company.title.Title }}</h2>
+                    <p>{{ .Site.Data.fitness.company.title.Text }}</p>
+                </div>
+            </div><!-- end row -->
+        </div>
+        <div class="row col-spacing-20 icon-5xl">
+            <div class="col-12 col-lg-4">
+                <div class="border-all padding-30 padding-x-lg-40 padding-y-lg-50">
+                    <h5 class="font-weight-normal margin-top-20">{{ .Site.Data.fitness.company.types.Title1 }}</h5>
+                    <p>{{ .Site.Data.fitness.company.types.Text1 }}</p>
+                </div>
+            </div>
+            <div class="col-12 col-lg-4">
+                <div class="border-all padding-30 padding-x-lg-40 padding-y-lg-50">
+                    <h5 class="font-weight-normal margin-top-20">{{ .Site.Data.fitness.company.types.Title2 }}</h5>
+                    <p>{{ .Site.Data.fitness.company.types.Text2 }}</p>
+                </div>
+            </div>
+            <div class="col-12 col-lg-4">
+                <div class="border-all padding-30 padding-x-lg-40 padding-y-lg-50">
+                    <h5 class="font-weight-normal margin-top-20">{{ .Site.Data.fitness.company.types.Title3 }}</h5>
+                    <p>{{ .Site.Data.fitness.company.types.Text3 }}</p>
+                </div>
+            </div>
+        </div><!-- end row -->
+    </div><!-- end container -->
+</div>
+
+<div id="online-training" class="section-xl bg-image parallax" data-bg-src="{{ .Site.BaseURL }}/images/home_training_1.jpg" style="background-image: url(&quot;{{ .Site.BaseURL }}/images/home_training_1.jpg&quot;); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; background-position: center 193.94px;">
+    <div class="bg-black-07">
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+                    <h3 class="margin-bottom-20">{{ .Site.Data.fitness.online.title.Title }}</h3>
+                    <p class="font-large">{{ .Site.Data.fitness.online.title.Text }}</p>
+                    <div class="margin-top-60">
+                        <div style="font-size: 1rem;">Kontaktiere mich</div>
+                        <div style="display: flex; justify-content: center; margin-top: 0.25rem;">
+                            <div style="margin-right: 1rem;">
+                                <a class="button button-lg button-radius button-outline-white" href="mailto:info@tamara-feelgood.at"><i class="fas fa-envelope" style=" font-size: 1.2rem" aria-label="Kontaktiere mich per E-Mail"></i></a>
+                            </div>
+                            <div style="margin-right: 1rem;">
+                                <a class="button button-lg button-radius button-outline-white" href="tel:+436502825968"><i class="fas fa-phone" style=" font-size: 1.2rem" aria-label="Kontaktiere mich per Telefon"></i></a>
+                            </div>
+                            <div>
+                                <a class="button button-lg button-radius button-outline-white" href="https://wa.me/436502825968"><i class="fab fa-whatsapp" style=" font-size: 1.2rem" aria-label="Kontaktiere mich per WhatsApp"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="section border-bottom" id="about-me">
+    <div class="container">
+        <!-- <div class="section-title text-center">
+            <h2>We Develop Digital Products</h2>
+            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Integer tincidunt.</p>
+        </div> -->
+        <div class="row align-items-center col-spacing-50">
+            <div class="col-12 col-lg-4">
+                <img src="{{ .Site.BaseURL }}/images/Aboutme_fitness_Okt2021.jpg" alt="Tamara Dos Santos Goes Portrait"><!-- Image source -->
+            </div>
+            <div class="col-12 col-lg-8 p-padding">
+                {{ template "_internal/about-me.html" . }}
+            </div>
+        </div><!-- end row -->
+    </div><!-- end container -->
+</div>
+
+<div class="section-xl gradient-bg" id="outdoor">
+    <div class="container text-center">
+        <div class="row">
+            <div class="col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+                <h3 class="margin-bottom-20" style="color: white;">{{ .Site.Data.fitness.move.getInTouch.Title }}</h3>
+                <p class="font-large">{{ .Site.Data.fitness.move.getInTouch.Text }}</p>
+                <a class="button button-lg button-radius button-outline-white margin-top-30" href="mailto:info@tamara-feelgood.at">{{ .Site.Data.fitness.move.getInTouch.ButtonText }}</a>
+            </div>
+        </div><!-- end row -->
+    </div><!-- end container -->
+</div>
+
+{{ end }}

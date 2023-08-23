@@ -72,6 +72,23 @@
     height: 100%;
 }
 
+.navbar .nav-toggle-btn .lines, .navbar .nav-toggle-btn .lines::before, .navbar .nav-toggle-btn .lines::after {
+    background-color:white;
+}
+
+.navbar .nav.nav-show {
+    background-color: rgb(229, 0, 118);
+}
+
+.navbar {
+    background-color: rgb(229, 0, 118);
+}
+
+.navbar .nav .nav-item .nav-link {
+    color:white;
+    font-weight: bold;
+}
+
 .navbar .navbar-brand img {
     width: auto;
     height: 60px;
