@@ -5,3 +5,6 @@
 {{ $js := slice $plugins $global $functions $main | resources.Concat "js/bundle.js" }}
 <script src="{{ $js.Permalink }}"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/2.7.0/simple-lightbox.jquery.js" integrity="sha512-9jjfnijbP6XAEwXJ75lDqSg+lN2BYyDPaGzKL+85+8GubsJWqI6UvsYJ+rJ1615ixzqkHQxNZ3DFfilyAVUqAg==" crossorigin="anonymous"></script>
+{{ if .Params.js }}
+<script src="{{ .Params.js }}"></script>
+{{ end }}
