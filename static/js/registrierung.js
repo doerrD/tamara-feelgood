@@ -13,6 +13,8 @@ $(function(){ // .ready() callback, is only executed when the DOM is fully loade
         }
 
         if (!exitSubmit) {
+            formData.delete("goodinput");
+
             fetch("/", {
                 method: "POST",
                 headers: { "Content-Type": "application/x-www-form-urlencoded" },
