@@ -132,3 +132,23 @@
         display: none;
     }
 }
+
+select {
+    color: #7C7C7C;
+}
+
+select {
+    background: transparent;
+    width: 100%;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    margin-bottom: 1rem;
+    padding: 15px 20px;
+    box-shadow: none;
+    font: 300 16px "Open Sans", sans-serif;
+    -webkit-transition: ease-out 0.2s;
+    transition: ease-out 0.2s;
+}
+
+.good-input {
+    display:none;
+}

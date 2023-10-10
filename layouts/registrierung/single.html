@@ -1,0 +1,52 @@
+{{ define "main" }}
+<div class="section-lg">
+	<div class="bg-white-08">
+		<div class="container">
+			<div class="margin-bottom-70">
+				<div class="row text-center">
+					<div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+						<h2 class="font-weight-light">{{ .Page.Title }}</h2>
+						<div class="divider-width-50px">
+							<hr class="bg-black-05">
+						</div>
+					</div>
+				</div>
+			</div>
+			<div>
+				<div class="container">
+                    <div class="contact-form">
+                        <form method="post" id="contactform">
+                            <div class="form-group">
+                                <label>Auswahl</label><br />
+                                <select>
+                                    <option value="ZuyklusAdaptiertesTraining">Her mit dem Video ZYKLUS ADAPTIERTES TRAINING, bitte</option>
+                                    <option value="InfosZuFitnessSessions">Bitte Infos zu deinen #feelgood FITNESS Sessions</option>
+                                    <option value="KostenlosesErstgespräch">Ich hätte gerne ein kostenloses Erstgespräch mit dir</option>
+                                </select>
+                            </div>
+                            <div class="form-row">
+                                <div class="col-12 col-sm-6">
+                                    
+                                    <input type="text" id="firstname" name="firstname" placeholder="Vorname" required>
+                                </div>
+                                <div class="col-12 col-sm-6">
+                                    <input type="text" id="lastname" name="lastname" placeholder="Nachname" required>
+                                </div>
+                            </div>
+                            <input type="email" id="email" name="email" placeholder="E-Mail-Adresse" required>
+                            <textarea name="comment" id="comment" placeholder="Kommentar"></textarea>
+                            <input class="good-input" />
+                            <button class="button button-lg button-border-1px button-outline-dark-2" type="submit">Absenden</button>
+                        </form>
+                        <!-- Submit result -->
+                        <div class="submit-result">
+                            <span id="success">Thank you! Your Message has been sent.</span>
+                            <span id="error">Something went wrong, Please try again!</span>
+                        </div>
+                    </div><!-- end contact-form -->
+                </div>
+			</div>
+		</div>
+	</div>
+</div>
+{{ end }}
