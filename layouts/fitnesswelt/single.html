@@ -14,16 +14,32 @@
 			</div>
 			<div>
 				<div class="container">
+                    <p>
+                        Du bist oft planlos, wenn es um Fitness und Bewegung geht? Du fühlst dich als Frau teilweise missverstanden? Du haderst öfter mit dir selbst? Tamara hilft dir dabei mit smarter Bewegung und gezielten Pausen wieder zu dir selbst zu finden. Für mehr Stärke, Freude und Ausgeglichenheit in deinem Leben!
+                    </p>
                     <div class="contact-form">
                         <form method="post" name="registrierung" action="/registrierung/erfolg" netlify>
-                            <div class="form-group">
-                                <label>Auswahl</label><br />
-                                <select name="Auswahl">
-                                    <option value="ZuyklusAdaptiertesTraining">Her mit dem Video ZYKLUS ADAPTIERTES TRAINING, bitte</option>
-                                    <option value="InfosZuFitnessSessions">Bitte Infos zu deinen #feelgood FITNESS Sessions</option>
-                                    <option value="KostenlosesErstgespräch">Ich hätte gerne ein kostenloses Erstgespräch mit dir</option>
-                                </select>
+                            <div class="form-check" style="margin-top: 1rem;">
+                                <input class="form-check-input" type="checkbox" value="" id="ZuyklusAdaptiertesTraining">
+                                <label class="form-check-label" for="ZuyklusAdaptiertesTraining">
+                                    Her mit dem Wissensworkshop "Zyklus adaptiertes Fitnesstraining", bitte
+                                </label>
                             </div>
+
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="InfosZuFitnessSessions">
+                                <label class="form-check-label" for="InfosZuFitnessSessions">
+                                    Bitte schick mir mehr Infos zu deinen virtuellen #feelgood FITNESS Angeboten
+                                </label>
+                            </div>
+
+                            <div class="form-check" style="margin-bottom: 1rem;">
+                                <input class="form-check-input" type="checkbox" value="" id="KostenlosesErstgespräch">
+                                <label class="form-check-label" for="KostenlosesErstgespräch">
+                                    Ich würde gerne ein kostenloses Erstgespräche mit dir buchen
+                                </label>
+                            </div>
+
                             <div class="form-row">
                                 <div class="col-12 col-sm-6">
                                     
@@ -40,7 +56,7 @@
                                 <label>
                                   Don’t fill this out if you’re human: <input name="goodinput" />
                                 </label>
-                              </p>
+                            </p>
                             <button class="button button-lg button-border-1px button-outline-dark-2" type="submit">Absenden</button>
                         </form>
                         <!-- Submit result -->
