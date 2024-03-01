@@ -1,0 +1,44 @@
+[
+    {
+        "Title": "#feelgood Fitness Plan",
+        "Text": "",
+        "Image": "/images/coaching_1.jpg",
+        "Color": "#ECCC4B",
+        "Link": "personaltraining#fitness-plan"
+    },
+    {
+        "Title": "#feelgood Fitness Support",
+        "Text": "",
+        "Image": "/images/coaching_1.jpg",
+        "Color": "#ECCC4B",
+        "Link": "personaltraining#fitness-support"
+    },  
+    {
+        "Title": "#feelgood Fitness Coaching",
+        "Text": "",
+        "Image": "/images/coaching_1.jpg",
+        "Color": "#ECCC4B",
+        "Link": "personaltraining#fitness-coaching"
+    },
+    {
+        "Title": "#feelgood Fitness Welt",
+        "Text": "",
+        "Image": "/images/coaching_1.jpg",
+        "Color": "#ECCC4B",
+        "Link": "fitnessweltaufzeichnungen"
+    },
+    {
+        "Title": "#feelgood Fitness Workshops",
+        "Text": "",
+        "Image": "/images/coaching_1.jpg",
+        "Color": "#ECCC4B",
+        "Link": "workshops"
+    },
+    {
+        "Title": "#feelgood TRE",
+        "Text": "",
+        "Image": "/images/coaching_1.jpg",
+        "Color": "#ECCC4B",
+        "Link": "tre"
+    }
+]

@@ -2,11 +2,11 @@
 draft = false
 title = "AGB"
 subtitle = "Stand: 21.10.2021"
-type = "fitness"
+type = "default"
 +++
 
 1. Vertragsgegenstand  
-    Hiermit werden zwischen Trainerin Tamara Dos Santos Góes (Firmensitz: Moserbachstr. 5b/5, 4614 Marchtrenk) und dem/der Kund*in (der Einfachheit halber in den folgenden Zeilen „Kunde“ genannt) folgende verbindliche Vereinbarungen getroffen. Diese gelten für alle künftigen Trainingseinheiten (Personal Training, Gruppenfitness, Online-Training, im Studio, im Freien, an sonstigen Sportanlagen, zu Hause, zu Fitnessreisen, etc.), es sei denn, es wird schriftlich oder mündlich anderes vereinbart. Entgegenstehenden Allgemeinen Geschäftsbedingungen des Kunden (Firmenkunden) wird hiermit ausdrücklich widersprochen. Es gilt die jeweils neueste Fassung der Allgemeinen Geschäftsbedingungen. Der Kunde akzeptiert mit dem Erwerb einer Trainingseinheit bei der Trainerin diese AGBs.
+    Hiermit werden zwischen Trainerin Tamara Dörr (Firmensitz: Moserbachstr. 5b/5, 4614 Marchtrenk) und dem/der Kund*in (der Einfachheit halber in den folgenden Zeilen „Kunde“ genannt) folgende verbindliche Vereinbarungen getroffen. Diese gelten für alle künftigen Trainingseinheiten (Personal Training, Gruppenfitness, Online-Training, im Studio, im Freien, an sonstigen Sportanlagen, zu Hause, zu Fitnessreisen, etc.), es sei denn, es wird schriftlich oder mündlich anderes vereinbart. Entgegenstehenden Allgemeinen Geschäftsbedingungen des Kunden (Firmenkunden) wird hiermit ausdrücklich widersprochen. Es gilt die jeweils neueste Fassung der Allgemeinen Geschäftsbedingungen. Der Kunde akzeptiert mit dem Erwerb einer Trainingseinheit bei der Trainerin diese AGBs.
 
 2. Leistungen der Trainerin (Personal Training)
     1. Der Inhalt wird gemeinsam erarbeitet, individuell an die Bedürfnisse des Kunden angepasst und im Personal Training umgesetzt.
