@@ -54,6 +54,10 @@
     border-top-right-radius: 25%;
 }
 
+.index-images h5 {
+    border-top-right-radius: 25%;
+}
+
 .index-images .content {
     bottom: 0;
     left: 0;
@@ -61,8 +65,15 @@
     margin: 1rem;
     position: absolute;
     z-index: 1;
-    background-color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(255, 255, 255, 0.95);
     color: black;
+}
+
+.index-images .content .title {
+    line-height: 1.8rem;
+    font-size: 1.3rem;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
 }
 
 .navbar .nav-toggle-btn .lines, .navbar .nav-toggle-btn .lines::before, .navbar .nav-toggle-btn .lines::after {

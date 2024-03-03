@@ -1,0 +1,50 @@
+{{ define "main" }}
+<div class="section-lg">
+	<div class="bg-white-08">
+		<div class="container">
+			<div class="margin-bottom-70">
+				<div class="row text-center">
+					<div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+						<h2 class="font-weight-light">{{ .Page.Title }}</h2>
+						<div class="divider-width-50px">
+							<hr class="bg-black-05">
+						</div>
+					</div>
+				</div>
+			</div>
+			<div>
+				<div class="container">
+                    <div class="margin-bottom-20">
+						{{ .Content }}
+                    </div>
+                    <div class="contact-form">
+                        <form method="post" name="kontakt" action="/kontakt/erfolg" netlify>
+                            <div class="form-row">
+                                <div class="col-12 col-sm-6">                
+                                    <input type="text" id="Vorname" name="Vorname" placeholder="Vorname" required>
+                                </div>
+                                <div class="col-12 col-sm-6">
+                                    <input type="text" id="Nachname" name="Nachname" placeholder="Nachname" required>
+                                </div>
+                            </div>
+                            <input type="email" id="Email" name="Email" placeholder="E-Mail-Adresse" required>
+                            <textarea name="Kommentar" id="Kommentar" placeholder="Kommentar"></textarea>
+
+                            <p class="good-input">
+                                <label>
+                                  Don’t fill this out if you’re human: <input name="goodinput" />
+                                </label>
+                            </p>
+                            <button class="button button-lg button-border-1px button-outline-dark-2" type="submit">Absenden</button>
+                        </form>
+                        <!-- Submit result -->
+                        <div class="submit-result">
+                            <span id="success">Danke! Deine Daten wurden an mich gesendet und ich melde mich so schnell wie möglich</span>
+                        </div>
+                    </div><!-- end contact-form -->
+                </div>
+			</div>
+		</div>
+	</div>
+</div>
+{{ end }}

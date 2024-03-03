@@ -2,7 +2,8 @@
 draft = false
 title = "Kontakt"
 subtitle = ""
-type = "default"
+type = "kontakt"
+js = "../js/fitnesswelt.js"
 +++
 
-test
+Text
