@@ -1,11 +1,11 @@
 {{ define "main" }}
-<div class="section-xl bg-image parallax" data-bg-src="../assets/images/background.jpg" style="background-image: none; z-index: 0; margin-top:70px;" data-jarallax-original-styles="background-image: url(&quot;../assets/images/background.jpg&quot;);">
+<div class="section-xl bg-image parallax" data-bg-src="{{ .Site.BaseURL }}{{ .Params.imageUrl }}" style="background-image: none; z-index: 0; margin-top:70px;" data-jarallax-original-styles="background-image: url(&quot;{{ .Site.BaseURL }}{{ .Params.imageUrl }}&quot;);">
 	<div class="bg-black-06">
 		<div class="container text-center">
 			<h1 class="font-weight-light no-margin">{{ .Page.Title }}</h1>
 		</div><!-- end container -->
 	</div>
-	<div id="jarallax-container-0" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; overflow: hidden; pointer-events: none; z-index: -100;"><div style="background-position: 50% 50%; background-size: cover; background-repeat: no-repeat; background-image: url(&quot;file:///D:/Repos/Tamsi/Theme/Mono%20v5.1.3/assets/images/background.jpg&quot;); position: fixed; top: 0px; left: 0px; width: 1354.67px; height: 809.571px; overflow: hidden; pointer-events: none; margin-top: 44.2146px; transform: translate3d(0px, -26.2146px, 0px);"></div></div>
+	<!-- <div id="jarallax-container-0" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; overflow: hidden; pointer-events: none; z-index: -100;"><div style="background-position: 50% 50%; background-size: cover; background-repeat: no-repeat; background-image: url(&quot;{{ .Site.BaseURL }}{{ .Params.imageUrl }}&quot;); position: fixed; top: 0px; left: 0px; width: 1354.67px; height: 809.571px; overflow: hidden; pointer-events: none; margin-top: 44.2146px; transform: translate3d(0px, -26.2146px, 0px);"></div></div> -->
 </div>
 <div class="section-md ">
 	<div class="bg-white-08">

@@ -3,7 +3,7 @@
         "Title": "Fitness Plan",
         "Text": "",
         "Image": "/images/coaching_1.jpg",
-        "BgColor": "#F4CB1F",
+        "BgColor": "#004AAD",
         "FeelgoodColor": "#E50076",
         "TitleColor": "#004AAD",
         "Link": "personaltraining#fitness-plan"
@@ -13,17 +13,17 @@
         "Text": "",
         "Image": "/images/coaching_1.jpg",
         "BgColor": "#004AAD",
-        "FeelgoodColor": "#F4CB1F",
-        "TitleColor": "#E50076",
+        "FeelgoodColor": "#E50076",
+        "TitleColor": "#004AAD",
         "Link": "personaltraining#fitness-support"
     },  
     {
         "Title": "Fitness Coaching",
         "Text": "",
         "Image": "/images/coaching_1.jpg",
-        "BgColor": "#E50076",
-        "FeelgoodColor": "#004AAD",
-        "TitleColor": "#F4CB1F",
+        "BgColor": "#004AAD",
+        "FeelgoodColor": "#E50076",
+        "TitleColor": "#004AAD",
         "Link": "personaltraining#fitness-coaching"
     },
     {
@@ -32,15 +32,15 @@
         "Image": "/images/coaching_1.jpg",
         "BgColor": "#F4CB1F",
         "FeelgoodColor": "#E50076",
-        "TitleColor": "#004AAD",
+        "TitleColor": "#F4CB1F",
         "Link": "fitnessweltaufzeichnungen"
     },
     {
         "Title": "Fitness Workshops",
         "Text": "",
         "Image": "/images/coaching_1.jpg",
-        "BgColor": "#004AAD",
-        "FeelgoodColor": "#F4CB1F",
+        "BgColor": "#E50076",
+        "FeelgoodColor": "#004AAD",
         "TitleColor": "#E50076",
         "Link": "workshops"
     },
@@ -48,9 +48,9 @@
         "Title": "TRE",
         "Text": "",
         "Image": "/images/coaching_1.jpg",
-        "BgColor": "#E50076",
-        "FeelgoodColor": "#004AAD",
-        "TitleColor": "#F4CB1F",
+        "BgColor": "#8E069F",
+        "FeelgoodColor": "#E50076",
+        "TitleColor": "#8E069F",
         "Link": "tre"
     }
 ]

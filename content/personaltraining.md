@@ -3,7 +3,16 @@ draft = false
 title = "Personal Training"
 subtitle = ""
 type = "imageHeader"
+imageUrl = "images/personaltraining_header.webp"
 +++
+
+Jede Frau ist anders und hat eine andere Ausgangssituation und Wünsche. Darum ist mir die persönliche Herangehensweise wichtig. Persönliche Betreuung mit Empathie, Wissen und Leidenschaft – für #feelgood Moments auf unterschiedlichen Ebenen!
+
+Bei einem KOSTENLOSEN und UNVERBINDLICHEN ERSTGESPRÄCH finden wir raus, wie ich dich am besten bei deinen Zielen unterstützen kann. Ich stehe dir virtuell zur Verfügung und je nach Location/Wunsch auch vor Ort.
+
+* Alle Personal Trainings-Kundinnen erhalten zusätzlich kostenlosen Zugang zu meiner #feelgood FITNESS WELT
+* **PREIS: 1h PT (Personal Training) - € 65,-**
+
 
 ## Fitness Plan
 

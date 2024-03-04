@@ -3,10 +3,17 @@ draft = false
 title = "Fitness Welt"
 subtitle = ""
 type = "imageHeader"
+imageUrl = "images/fitnessweltaufz_header.webp"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque cursus tincidunt elit, eu sodales magna accumsan vitae. Morbi nec enim ut libero eleifend ultrices. Nulla euismod iaculis ante non tincidunt. Suspendisse hendrerit enim et dolor rutrum maximus. Integer efficitur, sapien quis dignissim euismod, turpis nisi commodo sapien, sed finibus erat ipsum vitae velit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent pharetra non dui vitae elementum. Praesent rutrum dui neque, quis porta purus vulputate quis. Vestibulum suscipit turpis sem, eget egestas massa molestie in.
+**KOSTENLOS** bis Juni 2024: Eine Art Tamara-YouTube mit dem Vorteil, dass du mich bei Fragen kontaktieren kannst. Und dass ich, im Gegenzug zu vielen YouTuber:innen/Influencer:innen, auch wirklich Fitness-Ausbildungen besitze. Pro Monat kommen 1-3 neue Videos dazu.
 
-Aliquam nec dictum nunc, eget sodales arcu. Integer sollicitudin elit nulla, nec congue felis consectetur a. Nunc interdum, diam non fringilla luctus, risus diam efficitur lectus, eget mollis nunc diam sit amet sem. Donec pretium neque felis, et tempus sapien interdum vitae. Proin vitae libero rutrum, fermentum mi eu, auctor sapien. Donec maximus nibh ut nisi vulputate, euismod laoreet ex tristique. Suspendisse ultricies nulla molestie metus sodales, sed eleifend est tempor. Vestibulum lacinia arcu eu elementum vehicula. Mauris auctor odio at tellus pulvinar, et vehicula mauris consequat. Donec libero turpis, porta nec est eget, dignissim cursus eros. Ut consectetur orci vel odio ultricies, eget consectetur metus lacinia. Nam sollicitudin porta pulvinar. Vestibulum mollis placerat enim volutpat egestas. Duis neque risus, accumsan tincidunt erat vitae, viverra semper lorem.
+Momentan findest du in meiner #feelgood FITNESS WELT:
 
-Proin quis semper diam. Suspendisse vel tincidunt tortor, id auctor lorem. Fusce efficitur urna dapibus rutrum pellentesque. Mauris volutpat, mi eleifend tincidunt pellentesque, mauris est porta mauris, quis feugiat mi dui cursus odio. Sed dapibus, mi nec malesuada egestas, neque eros condimentum orci, eget semper dolor metus in risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pretium, lorem in commodo scelerisque, nisl massa consequat mi, nec accumsan augue risus ac tortor.
+* Pilates Basic & Advanced
+* HIIT Moments (mit Sprung, ohne Sprung)
+* Somatic Moments
+* Recovery Sessions
+* Mobility/Rücken Training
+* 20 MIN WORKOUT (spezielle Trainingsreihe)
+* ZUMBA®

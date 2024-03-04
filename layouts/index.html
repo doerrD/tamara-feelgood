@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<div class="section-2xl bg-image" data-bg-src="{{ .Site.BaseURL }}/images/TitelbildFIT_Okt2021_kleiner.jpg" style="background-image: url(&quot;{{ .Site.BaseURL }}/images/TitelbildFIT_Okt2021_kleiner.jpg&quot;); background-size: cover; background-repeat: no-repeat; background-position: center center;">
+<div class="section-2xl bg-image" data-bg-src="{{ .Site.BaseURL }}/images/index_title_image.webp" style="background-image: url(&quot;{{ .Site.BaseURL }}/images/TitelbildFIT_Okt2021_kleiner.jpg&quot;); background-size: cover; background-repeat: no-repeat; background-position: center center;">
     <div class="container">
     </div><!-- end container -->
 </div>
@@ -8,17 +8,14 @@
 <div class="section" id="BewegungsAngebote">
     <div class="container">
         <div class="margin-bottom-70">
-            <div class="row">
-                <div class="col-12 col-md-10 col-lg-8 col-xl-7">
-                    <h2 class="margin-0" style="text-transform: uppercase">{{ .Site.Data.fitness.move.title.Title }}</h2>
-                    <p>{{ .Site.Data.fitness.move.title.Text }}</p>
-                </div>
-            </div><!-- end row -->
+            <h2 style="text-transform: uppercase">{{ .Site.Data.fitness.home.Title }}</h2>
+            <p>{{ .Site.Data.fitness.home.Text }}</p>
+            <p class="uppercase font-large margin-top-20">{{ .Site.Data.fitness.home.SubText }}</p>
         </div>
         <div class="row col-spacing-20">
             {{ range $index, $element := $.Site.Data.fitness.areas }}
             <div class="col-12 col-lg-4">
-                <a href="{{ .Site.BaseURL }}{{ $element.Link }}">
+                <a href="{{ .Site.BaseURL }}{{ $element.Link }}" class="index-images-link">
                     <div class="index-images" style="background-color:{{ $element.BgColor }};">
                         <img src="{{ .Site.BaseURL }}{{ $element.Image }}" alt="{{ $element.Title }}">
                         <div class="content">
