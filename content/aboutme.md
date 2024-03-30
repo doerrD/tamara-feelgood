@@ -2,10 +2,24 @@
 draft = false
 title = "About Me"
 type = "imageHeader"
+imageUrl = "images/About_me_header.webp"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque cursus tincidunt elit, eu sodales magna accumsan vitae. Morbi nec enim ut libero eleifend ultrices. Nulla euismod iaculis ante non tincidunt. Suspendisse hendrerit enim et dolor rutrum maximus. Integer efficitur, sapien quis dignissim euismod, turpis nisi commodo sapien, sed finibus erat ipsum vitae velit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent pharetra non dui vitae elementum. Praesent rutrum dui neque, quis porta purus vulputate quis. Vestibulum suscipit turpis sem, eget egestas massa molestie in.
+{{< sections/topText >}}
+* holistische Fitness & Personal Trainerin
+* Instruktorin für Pilates, Mobilisation, Zumba®, u.v.m. 
+* Zielgruppe: Frauen, aber auch Senioren
+* Meine Arbeit als Trainerin bezeichne ich als HOLISTISCH, also ganzheitlich, weil für langfristige Fortschritte mehr betrachtet werden muss, als nur deine Bewegungsroutine.
+* über 20 Jahre Erfahrung als Coachin im Sport
+* empathische, ehrliche, verständnisvolle Betreuung mit Weitblick und Wissen
+{{</ sections/topText >}}
 
-Aliquam nec dictum nunc, eget sodales arcu. Integer sollicitudin elit nulla, nec congue felis consectetur a. Nunc interdum, diam non fringilla luctus, risus diam efficitur lectus, eget mollis nunc diam sit amet sem. Donec pretium neque felis, et tempus sapien interdum vitae. Proin vitae libero rutrum, fermentum mi eu, auctor sapien. Donec maximus nibh ut nisi vulputate, euismod laoreet ex tristique. Suspendisse ultricies nulla molestie metus sodales, sed eleifend est tempor. Vestibulum lacinia arcu eu elementum vehicula. Mauris auctor odio at tellus pulvinar, et vehicula mauris consequat. Donec libero turpis, porta nec est eget, dignissim cursus eros. Ut consectetur orci vel odio ultricies, eget consectetur metus lacinia. Nam sollicitudin porta pulvinar. Vestibulum mollis placerat enim volutpat egestas. Duis neque risus, accumsan tincidunt erat vitae, viverra semper lorem.
-
-Proin quis semper diam. Suspendisse vel tincidunt tortor, id auctor lorem. Fusce efficitur urna dapibus rutrum pellentesque. Mauris volutpat, mi eleifend tincidunt pellentesque, mauris est porta mauris, quis feugiat mi dui cursus odio. Sed dapibus, mi nec malesuada egestas, neque eros condimentum orci, eget semper dolor metus in risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pretium, lorem in commodo scelerisque, nisl massa consequat mi, nec accumsan augue risus ac tortor.
+{{< sections/section title="Fun Facts" >}}
+* geb. 1983 – ich bin ein „elder“ Millenial
+* seit 2021 wieder in OÖ wohnhaft, davor 7 Jahr in Wien, davor ca. 6 Jahre im Ausland (Spanien, Argentinien, Brasilien)
+* Ich spreche 4 Sprachen (Deutsch, Englisch, Spanisch, Portugiesisch).
+* Ich war 6 Saisonen Skilehrerin und hab über 1.000 Personen das Skifahren beigebracht.
+* Was macht mich glücklich? Sonnenuntergänge, Bewegung (Krafttraining, Radfahren, Skifahren, Tanzen,…), Neues lernen, schlafen, reisen, tiefe Gespräche, Umarmungen von lieben Menschen,…
+* Was ich glaube, dass die Welt mehr bräuchte? Mehr Verständnis und Empathie für einen selbst und füreinander, plus mehr Willen zum persönlichen und emotionalen Wachstum.
+* Und: Die Klopapier-Rolle muss „richtig“ hängen!
+{{</ sections/section >}}

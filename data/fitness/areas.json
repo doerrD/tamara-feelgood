@@ -2,7 +2,7 @@
     {
         "Title": "Fitness Plan",
         "Text": "",
-        "Image": "/images/coaching_1.jpg",
+        "Image": "/images/DL_2024_01_Plan.webp",
         "BgColor": "#004AAD",
         "FeelgoodColor": "#E50076",
         "TitleColor": "#004AAD",
@@ -11,7 +11,7 @@
     {
         "Title": "Fitness Support",
         "Text": "",
-        "Image": "/images/coaching_1.jpg",
+        "Image": "/images/DL_2024_02_Support.webp",
         "BgColor": "#004AAD",
         "FeelgoodColor": "#E50076",
         "TitleColor": "#004AAD",
@@ -20,7 +20,7 @@
     {
         "Title": "Fitness Coaching",
         "Text": "",
-        "Image": "/images/coaching_1.jpg",
+        "Image": "/images/DL_2024_03_Coaching.webp",
         "BgColor": "#004AAD",
         "FeelgoodColor": "#E50076",
         "TitleColor": "#004AAD",
@@ -29,7 +29,7 @@
     {
         "Title": "Fitness Welt",
         "Text": "",
-        "Image": "/images/coaching_1.jpg",
+        "Image": "/images/DL_2024_04_Welt.webp",
         "BgColor": "#F4CB1F",
         "FeelgoodColor": "#E50076",
         "TitleColor": "#F4CB1F",
@@ -38,16 +38,16 @@
     {
         "Title": "Fitness Workshops",
         "Text": "",
-        "Image": "/images/coaching_1.jpg",
+        "Image": "/images/DL_2024_05_Workshops.webp",
         "BgColor": "#E50076",
         "FeelgoodColor": "#004AAD",
         "TitleColor": "#E50076",
         "Link": "workshops"
     },
     {
-        "Title": "TRE",
+        "Title": "TRE®",
         "Text": "",
-        "Image": "/images/coaching_1.jpg",
+        "Image": "/images/DL_2024_06_TRE.webp",
         "BgColor": "#8E069F",
         "FeelgoodColor": "#E50076",
         "TitleColor": "#8E069F",

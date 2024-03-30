@@ -1,12 +1,33 @@
 +++
 draft = false
-title = "Workshops"
+title = "#feelgood WORKSHOPS"
 subtitle = ""
 type = "imageHeader"
+imageUrl = "images/workshops_header.webp"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque cursus tincidunt elit, eu sodales magna accumsan vitae. Morbi nec enim ut libero eleifend ultrices. Nulla euismod iaculis ante non tincidunt. Suspendisse hendrerit enim et dolor rutrum maximus. Integer efficitur, sapien quis dignissim euismod, turpis nisi commodo sapien, sed finibus erat ipsum vitae velit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent pharetra non dui vitae elementum. Praesent rutrum dui neque, quis porta purus vulputate quis. Vestibulum suscipit turpis sem, eget egestas massa molestie in.
+{{< sections/topText >}}
+Erweitere dein Wissen und probier mal was Neues – nur für dich! Meine digitalen Workshops, die du einmal gekauft, kannst du jederzeit abrufen und wiederholen. Mehr Wissen zu deinem Körper wird dir mehr Verständnis für ihn bringen und dadurch wirst du ihn noch mehr akzeptieren lernen. Stichworte: Selbstakzeptanz und Selbstliebe!
+{{</ sections/topText >}}
 
-Aliquam nec dictum nunc, eget sodales arcu. Integer sollicitudin elit nulla, nec congue felis consectetur a. Nunc interdum, diam non fringilla luctus, risus diam efficitur lectus, eget mollis nunc diam sit amet sem. Donec pretium neque felis, et tempus sapien interdum vitae. Proin vitae libero rutrum, fermentum mi eu, auctor sapien. Donec maximus nibh ut nisi vulputate, euismod laoreet ex tristique. Suspendisse ultricies nulla molestie metus sodales, sed eleifend est tempor. Vestibulum lacinia arcu eu elementum vehicula. Mauris auctor odio at tellus pulvinar, et vehicula mauris consequat. Donec libero turpis, porta nec est eget, dignissim cursus eros. Ut consectetur orci vel odio ultricies, eget consectetur metus lacinia. Nam sollicitudin porta pulvinar. Vestibulum mollis placerat enim volutpat egestas. Duis neque risus, accumsan tincidunt erat vitae, viverra semper lorem.
+{{< sections/section title="ZYKLUS ADAPTIERTES TRAINING" >}}
+Du bekommst in einfacher Sprache klaren Input zu deinem biologischen Zyklus und du erfährst wie du die 4 Zyklusphasen positiv für deinen Alltag, aber natürlich in erster Linie für dein Training nutzen kannst.
 
-Proin quis semper diam. Suspendisse vel tincidunt tortor, id auctor lorem. Fusce efficitur urna dapibus rutrum pellentesque. Mauris volutpat, mi eleifend tincidunt pellentesque, mauris est porta mauris, quis feugiat mi dui cursus odio. Sed dapibus, mi nec malesuada egestas, neque eros condimentum orci, eget semper dolor metus in risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pretium, lorem in commodo scelerisque, nisl massa consequat mi, nec accumsan augue risus ac tortor.
+Dieses Wissen kann dich wie eine kleine Superkraft in deinem Workout unterstützen, denn du weißt dann, wann du Pausen machen solltest, wann dein Verletzungsrisiko erhöht sein kann und wann du Gas geben kannst. 
+
+Du wirst dich und deinen Körper durch diesen ca. 60 Minuten langen Workshop noch mehr verstehen - „Wissen ist Macht“!
+
+Du bist interessiert an diesem Workshop? Dann klicke hier. TODO
+{{</ sections/section >}}
+
+{{< sections/section title="COMING SOON: RUNTERKOMMEN" >}}
+Dieser Workshop ist ein 12-Wochen-Programm, indem du unterschiedliche somatische Tools erlernst, eine Routine damit aufbaust und dadurch positiv zu deinem „Entstressen“ beiträgst.
+
+Unser Alltag wird immer schnelllebiger, so viele Frauen sind überarbeitet und überlastet. Darum ist das Entspannen mindestens genauso wichtig, wie regelmäßige Bewegung! 
+
+Jedoch scheitern viele Frauen am Zeitfaktor und an der Aufgabe Neues in ihren Alltag zu integrieren, weil sie schon so viele Aufgaben haben. Darum sind die einzelnen Elemente dieses Workshops kurz und vor allem einfach! Täglich investierst du in diesem Workshop 2 bis max. 10 Minuten.
+
+Du bekommst alle Übungen in Form von Videos, einem Sammel-Pdf und Print-Out-Cards. Für mehr Entspannung, Resilienz und Momente für dich!
+
+Du möchtest runterkommen? Dann klicke hier. TODO
+{{</ sections/section >}}

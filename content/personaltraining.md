@@ -1,39 +1,62 @@
 +++
 draft = false
-title = "Personal Training"
+title = "#feelgood PERSONAL TRAINING"
 subtitle = ""
 type = "imageHeader"
 imageUrl = "images/personaltraining_header.webp"
 +++
 
+{{< sections/topText >}}
 Jede Frau ist anders und hat eine andere Ausgangssituation und Wünsche. Darum ist mir die persönliche Herangehensweise wichtig. Persönliche Betreuung mit Empathie, Wissen und Leidenschaft – für #feelgood Moments auf unterschiedlichen Ebenen!
 
 Bei einem KOSTENLOSEN und UNVERBINDLICHEN ERSTGESPRÄCH finden wir raus, wie ich dich am besten bei deinen Zielen unterstützen kann. Ich stehe dir virtuell zur Verfügung und je nach Location/Wunsch auch vor Ort.
 
 * Alle Personal Trainings-Kundinnen erhalten zusätzlich kostenlosen Zugang zu meiner #feelgood FITNESS WELT
 * **PREIS: 1h PT (Personal Training) - € 65,-**
+{{</ sections/topText >}}
 
+{{< sections/section title="Fitness Plan - Paket 01" >}}
+Dieses Paket ist für dich, wenn du nur einen Trainings-Plan (Fitnessstudio, Heimtraining, Mobilisationsroutine, sanfte Kräftigung, etc…) möchtest und damit selbständig trainieren willst. Du kannst dich selbst gut motivieren und/oder hast ausreichend Trainingserfahrung.
 
-## Fitness Plan
+* 1x Plan (Gym oder Hometraining)
+* 1x Aufzeichnung in Form eines Erklärvideos 
+* 1x Trainingsplan in schriftlicher Form
+* **PREIS: 1 PT EH (€ 65,-) + Aufzeichnungszeit + ev. Präsenzzeit**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque cursus tincidunt elit, eu sodales magna accumsan vitae. Morbi nec enim ut libero eleifend ultrices. Nulla euismod iaculis ante non tincidunt. Suspendisse hendrerit enim et dolor rutrum maximus. Integer efficitur, sapien quis dignissim euismod, turpis nisi commodo sapien, sed finibus erat ipsum vitae velit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent pharetra non dui vitae elementum. Praesent rutrum dui neque, quis porta purus vulputate quis. Vestibulum suscipit turpis sem, eget egestas massa molestie in.
+Hier geht’s zum kostenlosen Erstgespräch. TODO
 
-Aliquam nec dictum nunc, eget sodales arcu. Integer sollicitudin elit nulla, nec congue felis consectetur a. Nunc interdum, diam non fringilla luctus, risus diam efficitur lectus, eget mollis nunc diam sit amet sem. Donec pretium neque felis, et tempus sapien interdum vitae. Proin vitae libero rutrum, fermentum mi eu, auctor sapien. Donec maximus nibh ut nisi vulputate, euismod laoreet ex tristique. Suspendisse ultricies nulla molestie metus sodales, sed eleifend est tempor. Vestibulum lacinia arcu eu elementum vehicula. Mauris auctor odio at tellus pulvinar, et vehicula mauris consequat. Donec libero turpis, porta nec est eget, dignissim cursus eros. Ut consectetur orci vel odio ultricies, eget consectetur metus lacinia. Nam sollicitudin porta pulvinar. Vestibulum mollis placerat enim volutpat egestas. Duis neque risus, accumsan tincidunt erat vitae, viverra semper lorem.
+{{</ sections/section >}}
 
-Proin quis semper diam. Suspendisse vel tincidunt tortor, id auctor lorem. Fusce efficitur urna dapibus rutrum pellentesque. Mauris volutpat, mi eleifend tincidunt pellentesque, mauris est porta mauris, quis feugiat mi dui cursus odio. Sed dapibus, mi nec malesuada egestas, neque eros condimentum orci, eget semper dolor metus in risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pretium, lorem in commodo scelerisque, nisl massa consequat mi, nec accumsan augue risus ac tortor.
+{{< sections/section title="Fitness Support - Paket 02" >}}
+Dieses Paket ist für dich, wenn du Probleme mit der Motivation oder Routinenfindung hast. Vielleicht hast du körperliche Themen (Verspannungen, vor/während/nach Schwangerschaft, nach Verletzungen, orthopädische Diagnosen, etc.), die auf alle Fälle Check-Ins benötigen. Die regelmäßigen Zwischengespräche mit mir werden dich motivieren. Durch die Möglichkeit von zusätzlichem Video-Austausch bzw. WhatsApp-Kommunikation gehen wir sicher, dass du deine Übungen korrekt durchführst.
 
-## Fitness Support
+* 3 Monate Betreuung
+* 1x Plan + Adaptation + Aufzeichnung Erklärvideo
+* 1x Trainingsplan in schriftlicher Form
+* WhatsApp Support (Rückmeldungen so schnell wie möglich)
+* 6x 30 Minuten Check-In-Gespräche via Zoom
+* **PREIS: € 320,-**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque cursus tincidunt elit, eu sodales magna accumsan vitae. Morbi nec enim ut libero eleifend ultrices. Nulla euismod iaculis ante non tincidunt. Suspendisse hendrerit enim et dolor rutrum maximus. Integer efficitur, sapien quis dignissim euismod, turpis nisi commodo sapien, sed finibus erat ipsum vitae velit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent pharetra non dui vitae elementum. Praesent rutrum dui neque, quis porta purus vulputate quis. Vestibulum suscipit turpis sem, eget egestas massa molestie in.
+Check dir jetzt deinen Ersttermin. TODO
 
-Aliquam nec dictum nunc, eget sodales arcu. Integer sollicitudin elit nulla, nec congue felis consectetur a. Nunc interdum, diam non fringilla luctus, risus diam efficitur lectus, eget mollis nunc diam sit amet sem. Donec pretium neque felis, et tempus sapien interdum vitae. Proin vitae libero rutrum, fermentum mi eu, auctor sapien. Donec maximus nibh ut nisi vulputate, euismod laoreet ex tristique. Suspendisse ultricies nulla molestie metus sodales, sed eleifend est tempor. Vestibulum lacinia arcu eu elementum vehicula. Mauris auctor odio at tellus pulvinar, et vehicula mauris consequat. Donec libero turpis, porta nec est eget, dignissim cursus eros. Ut consectetur orci vel odio ultricies, eget consectetur metus lacinia. Nam sollicitudin porta pulvinar. Vestibulum mollis placerat enim volutpat egestas. Duis neque risus, accumsan tincidunt erat vitae, viverra semper lorem.
+{{</ sections/section >}}
 
-Proin quis semper diam. Suspendisse vel tincidunt tortor, id auctor lorem. Fusce efficitur urna dapibus rutrum pellentesque. Mauris volutpat, mi eleifend tincidunt pellentesque, mauris est porta mauris, quis feugiat mi dui cursus odio. Sed dapibus, mi nec malesuada egestas, neque eros condimentum orci, eget semper dolor metus in risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pretium, lorem in commodo scelerisque, nisl massa consequat mi, nec accumsan augue risus ac tortor.
+{{< sections/section title="Fitness Coaching - Paket 03" >}}
+Dieses Paket ist für dich, wenn du mit den Themen vom Paket 02 kämpfst UND/ODER du dich aber, zusätzlich zu deinen Fitness-Goals, auch um deine emotionale und mentale Gesundheit kümmern möchtest PLUS eine bessere Beziehung zu deinem Körper aufbauen möchtest. Wir schauen uns u.a. deine Glaubenssätze an, arbeiten ergänzend mit somatischen Übungen, die den Vagusnerv „trainieren“ und die Recovery Sessions helfen dir beim Entspannen und sanft Mobilisieren. 
 
-## Fitness Coaching
+Die zusätzlichen Ziele sind: Fitness-Fortschritte PLUS mehr Resilienz, verbesserter Schlaf, mehr emotionale Balance und gesteigerte Selbstakzeptanz. Wichtig: Dieses #feelgood Paket ersetzt keine traditionelle physiologische oder psychologische Therapie. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque cursus tincidunt elit, eu sodales magna accumsan vitae. Morbi nec enim ut libero eleifend ultrices. Nulla euismod iaculis ante non tincidunt. Suspendisse hendrerit enim et dolor rutrum maximus. Integer efficitur, sapien quis dignissim euismod, turpis nisi commodo sapien, sed finibus erat ipsum vitae velit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent pharetra non dui vitae elementum. Praesent rutrum dui neque, quis porta purus vulputate quis. Vestibulum suscipit turpis sem, eget egestas massa molestie in.
+* 3 Monate Betreuung
+* 1x Plan + Adaptation + Aufzeichnung Erklärvideo
+* 1x Trainingsplan in schriftlicher Form
+* WhatsApp Support (Rückmeldungen so schnell wie möglich)
+* 6x 60 Minuten Check-In-Gespräche via Zoom
+* Selbstreflektionsfragebogen
+* Wochenplan zum Ausdrucken
+* 2x Recovery Sessions
+* Somatik Übungen (persönliche Tool-Box)
+* **PREIS: € 690,-**
 
-Aliquam nec dictum nunc, eget sodales arcu. Integer sollicitudin elit nulla, nec congue felis consectetur a. Nunc interdum, diam non fringilla luctus, risus diam efficitur lectus, eget mollis nunc diam sit amet sem. Donec pretium neque felis, et tempus sapien interdum vitae. Proin vitae libero rutrum, fermentum mi eu, auctor sapien. Donec maximus nibh ut nisi vulputate, euismod laoreet ex tristique. Suspendisse ultricies nulla molestie metus sodales, sed eleifend est tempor. Vestibulum lacinia arcu eu elementum vehicula. Mauris auctor odio at tellus pulvinar, et vehicula mauris consequat. Donec libero turpis, porta nec est eget, dignissim cursus eros. Ut consectetur orci vel odio ultricies, eget consectetur metus lacinia. Nam sollicitudin porta pulvinar. Vestibulum mollis placerat enim volutpat egestas. Duis neque risus, accumsan tincidunt erat vitae, viverra semper lorem.
+Buche jetzt dein kostenloses und unverbindliches Erstgespräch mit mir. TODO
 
-Proin quis semper diam. Suspendisse vel tincidunt tortor, id auctor lorem. Fusce efficitur urna dapibus rutrum pellentesque. Mauris volutpat, mi eleifend tincidunt pellentesque, mauris est porta mauris, quis feugiat mi dui cursus odio. Sed dapibus, mi nec malesuada egestas, neque eros condimentum orci, eget semper dolor metus in risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pretium, lorem in commodo scelerisque, nisl massa consequat mi, nec accumsan augue risus ac tortor.
+{{</ sections/section >}}

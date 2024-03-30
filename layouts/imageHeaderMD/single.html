@@ -7,7 +7,13 @@
 	</div>
 	<!-- <div id="jarallax-container-0" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; overflow: hidden; pointer-events: none; z-index: -100;"><div style="background-position: 50% 50%; background-size: cover; background-repeat: no-repeat; background-image: url(&quot;{{ .Site.BaseURL }}{{ .Params.imageUrl }}&quot;); position: fixed; top: 0px; left: 0px; width: 1354.67px; height: 809.571px; overflow: hidden; pointer-events: none; margin-top: 44.2146px; transform: translate3d(0px, -26.2146px, 0px);"></div></div> -->
 </div>
-<div class="bg-white-08">
-	{{ .Content }}
+<div class="section-md ">
+	<div class="bg-white-08">
+		<div class="container">
+			<div class="single-page">
+                {{ .Content }}
+			</div>
+		</div><!-- end container -->
+	</div>
 </div>
 {{ end }}

@@ -19,7 +19,7 @@
                     <div class="index-images" style="background-color:{{ $element.BgColor }};">
                         <img src="{{ .Site.BaseURL }}{{ $element.Image }}" alt="{{ $element.Title }}">
                         <div class="content">
-                            <div class="title"><span style="color:{{ $element.FeelgoodColor }};">#feelgood</span> <span style="color:{{ $element.TitleColor }}; text-wrap: nowrap;">{{ $element.Title }}</span></div>
+                            <div class="title"><span style="color:{{ $element.FeelgoodColor }};">#feelgood</span> <span style="color:{{ $element.TitleColor }}; text-wrap: nowrap; text-transform: uppercase;">{{ $element.Title }}</span></div>
                             <p>{{ $element.Text }}</p>
                         </div>
                     </div>
@@ -145,7 +145,7 @@
         </div> -->
         <div class="row align-items-center col-spacing-50">
             <div class="col-12 col-lg-4">
-                <img src="{{ .Site.BaseURL }}/images/Aboutme_fitness_Okt2021.jpg" alt="Tamara Dörr Portrait"><!-- Image source -->
+                <img src="{{ .Site.BaseURL }}/images/About_me.webp" alt="Tamara Dörr Portrait"><!-- Image source -->
             </div>
             <div class="col-12 col-lg-8 p-padding">
                 {{ template "_internal/about-me.html" . }}

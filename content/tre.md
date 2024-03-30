@@ -1,12 +1,24 @@
 +++
 draft = false
-title = "TRE"
+title = "#feelgood TRE®"
 subtitle = ""
-type = "imageHeader"
+type = "imageHeaderMD"
+imageUrl = "images/tre_header.webp"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque cursus tincidunt elit, eu sodales magna accumsan vitae. Morbi nec enim ut libero eleifend ultrices. Nulla euismod iaculis ante non tincidunt. Suspendisse hendrerit enim et dolor rutrum maximus. Integer efficitur, sapien quis dignissim euismod, turpis nisi commodo sapien, sed finibus erat ipsum vitae velit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent pharetra non dui vitae elementum. Praesent rutrum dui neque, quis porta purus vulputate quis. Vestibulum suscipit turpis sem, eget egestas massa molestie in.
+**TRE®** steht für „Trauma/Tension Release Exercises“ und wurde von Dr. David Berceli (einem italo-amerikanischen Traumatherapeuten) erfunden. Er ist internationaler Experte auf den Gebieten Traumaintervention und Konfliktlösung, und beschäftigt sich seit über 25 Jahre mit den körperlichen Folgen von Trauma UND Stress.
 
-Aliquam nec dictum nunc, eget sodales arcu. Integer sollicitudin elit nulla, nec congue felis consectetur a. Nunc interdum, diam non fringilla luctus, risus diam efficitur lectus, eget mollis nunc diam sit amet sem. Donec pretium neque felis, et tempus sapien interdum vitae. Proin vitae libero rutrum, fermentum mi eu, auctor sapien. Donec maximus nibh ut nisi vulputate, euismod laoreet ex tristique. Suspendisse ultricies nulla molestie metus sodales, sed eleifend est tempor. Vestibulum lacinia arcu eu elementum vehicula. Mauris auctor odio at tellus pulvinar, et vehicula mauris consequat. Donec libero turpis, porta nec est eget, dignissim cursus eros. Ut consectetur orci vel odio ultricies, eget consectetur metus lacinia. Nam sollicitudin porta pulvinar. Vestibulum mollis placerat enim volutpat egestas. Duis neque risus, accumsan tincidunt erat vitae, viverra semper lorem.
+**TRE®** besteht aus einer einfachen Übungsreihenfolge, die u.a. bei folgenden Themen helfen kann:
+* muskuläre Verspannungen
+* Stressabbau
+* Schlafproblemen
+* chronische Krankheiten
+* schnellere Regeneration für Sportler:innen
 
-Proin quis semper diam. Suspendisse vel tincidunt tortor, id auctor lorem. Fusce efficitur urna dapibus rutrum pellentesque. Mauris volutpat, mi eleifend tincidunt pellentesque, mauris est porta mauris, quis feugiat mi dui cursus odio. Sed dapibus, mi nec malesuada egestas, neque eros condimentum orci, eget semper dolor metus in risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pretium, lorem in commodo scelerisque, nisl massa consequat mi, nec accumsan augue risus ac tortor.
+Es ist ein Selbsthilfe-Tool, dass du jederzeit für das eigene Wohlbefinden einsetzen kannst. Ich, als (zukünftige) **TRE®**-Providerin, stehe dir bei dem Lernprozess und natürlich auch danach zur Verfügung – virtuell oder Präsenz.
+
+**TRE®** ist ein spannendes Tool aus der somatischen Welt (in der Somatik arbeitet man mit Heilung über den Körper), dass dir viel Entspannung und sogar persönliche Weiterentwicklung bieten kann. 
+
+Wichtig: **TRE®** ersetzt keine traditionelle physiologische oder psychologische Therapie, kann aber ein geniales Zusatztool sein.
+
+**Vereinbare deinen kostenlosen 15 Minuten TRE® Call, um mehr darüber zu erfahren und/oder deine Session zu buchen.**

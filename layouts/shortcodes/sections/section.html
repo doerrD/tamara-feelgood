@@ -1,0 +1,9 @@
+<div class="section border-top">
+    <div class="container">
+        <div class="section-title text-center">
+            <h2 class="font-weight-normal"><span class="uppercase">{{ .Get "title" }}</span></h2>
+        </div>
+
+        {{ trim .Inner "\r\n" | .Page.RenderString }}
+    </div>
+</div>
