@@ -3,7 +3,7 @@ draft = false
 title = "#feelgood WORKSHOPS"
 subtitle = ""
 type = "imageHeader"
-imageUrl = "images/workshops_header.webp"
+imageUrl = "/images/workshops_header.webp"
 +++
 
 {{< sections/topText >}}

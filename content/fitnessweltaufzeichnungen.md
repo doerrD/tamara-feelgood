@@ -3,7 +3,7 @@ draft = false
 title = "#feelgood FITNESS WELT"
 subtitle = ""
 type = "imageHeaderMD"
-imageUrl = "images/fitnessweltaufz_header.webp"
+imageUrl = "/images/fitnessweltaufz_header.webp"
 +++
 
 Trainiere **KOSTENLOS** zu Hause bis Juni 2024: Eine Art Tamara-YouTube mit dem Vorteil, dass du mich bei Fragen kontaktieren kannst. Und dass ich, im Gegenzug zu vielen YouTuber:innen bzw. Influencer:innen, auch wirklich Fitness-Ausbildungen besitze. Pro Monat kommen 1-3 neue Videos dazu.

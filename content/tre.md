@@ -3,7 +3,7 @@ draft = false
 title = "#feelgood TRE®"
 subtitle = ""
 type = "imageHeaderMD"
-imageUrl = "images/tre_header.webp"
+imageUrl = "/images/tre_header.webp"
 +++
 
 **TRE®** steht für „Trauma/Tension Release Exercises“ und wurde von Dr. David Berceli (einem italo-amerikanischen Traumatherapeuten) erfunden. Er ist internationaler Experte auf den Gebieten Traumaintervention und Konfliktlösung, und beschäftigt sich seit über 25 Jahre mit den körperlichen Folgen von Trauma UND Stress.

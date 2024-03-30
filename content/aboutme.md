@@ -2,7 +2,7 @@
 draft = false
 title = "About Me"
 type = "imageHeader"
-imageUrl = "images/About_me_header.webp"
+imageUrl = "/images/About_me_header.webp"
 +++
 
 {{< sections/topText >}}
