@@ -4,6 +4,10 @@
             <h2 class="font-weight-normal"><span class="uppercase">{{ .Get "title" }}</span></h2>
         </div>
 
-        {{ trim .Inner "\r\n" | .Page.RenderString }}
+        {{ if (eq ( .Get "onlyText") "false") }}
+            {{ .Inner }}
+        {{ else }}
+            {{ trim .Inner "\r\n" | .Page.RenderString }}
+        {{ end }}
     </div>
 </div>

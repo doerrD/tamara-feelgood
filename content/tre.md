@@ -21,4 +21,6 @@ Es ist ein Selbsthilfe-Tool, dass du jederzeit für das eigene Wohlbefinden eins
 
 Wichtig: **TRE®** ersetzt keine traditionelle physiologische oder psychologische Therapie, kann aber ein geniales Zusatztool sein.
 
-**Vereinbare deinen kostenlosen 15 Minuten TRE® Call, um mehr darüber zu erfahren und/oder deine Session zu buchen.**
+{{< sections/lonlyLink link="/kontakt#TRE30min" >}}
+Vereinbare deinen kostenlosen 15 Minuten TRE® Call
+{{</ sections/lonlyLink >}}

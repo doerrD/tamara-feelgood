@@ -1,9 +1,7 @@
 +++
 draft = false
-title = "Kontakt"
-subtitle = ""
+title = "#feelgood FITNESS mit Tamara"
 type = "kontakt"
 js = "../js/fitnesswelt.js"
 +++
 
-Text

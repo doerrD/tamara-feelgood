@@ -166,3 +166,9 @@ select {
 .good-input {
     display:none;
 }
+
+@media (max-width: 620px) {
+    .no-padding-sm {
+        padding: 0;
+    }
+}

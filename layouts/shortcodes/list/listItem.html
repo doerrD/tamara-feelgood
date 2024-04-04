@@ -1,0 +1,7 @@
+<li>
+    {{ if (eq ( .Get "bold") "true") }}
+        <strong>{{ .Inner }}</strong>
+    {{ else }}
+        {{ .Inner }}        
+    {{ end }}
+</li>

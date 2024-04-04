@@ -5,7 +5,7 @@
 			<div class="margin-bottom-70">
 				<div class="row text-center">
 					<div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-						<h2 class="font-weight-light">{{ .Page.Title }}</h2>
+						<h1 class="font-weight-light">{{ .Page.Title }}</h1>
 						<div class="divider-width-50px">
 							<hr class="bg-black-05">
 						</div>
@@ -13,12 +13,48 @@
 				</div>
 			</div>
 			<div>
-				<div class="container">
-                    <div class="margin-bottom-20">
-						{{ .Content }}
-                    </div>
+				<div class="container no-padding-sm">
+                    <h3>Du bist hier richtig, wenn…</h3>
+                    <p>
+                        …du mehr Kraft im Alltag willst. Wenn du weniger Verspannungen haben möchtest. Wenn du bei deinem Training Fortschritte machen willst. Wenn du wieder besser schlafen willst und stressresistenter werden möchtest. Wenn du mit deinen Körper-Themen gesehen und gehört werden willst und dir einen neuen Zugang zu deiner Beziehung zu deinem Körper wünscht… LADIES, FITNESS IST VIEL MEHR ALS ABNEHMEN ODER WETTKAMPF. LET ME SHOW YOU!                        
+                    </p>
                     <div class="contact-form">
-                        <form method="post" name="kontakt" action="/kontakt/erfolg" netlify>
+                        <form method="post" name="registrierung" action="/registrierung/erfolg" netlify>
+                            <div class="form-check" style="margin-top: 1.5rem;">
+                                <input class="form-check-input" type="checkbox" value="Ja" id="Fitness60Min" name="Fitness60Min">
+                                <label class="form-check-label" for="Fitness60Min">
+                                    Ich möchte ein kostenloses Erstgespräch FITNESS (max. 60 Min.) buchen
+                                </label>
+                            </div>
+
+                            <div class="form-check" style="margin-top: 0.5rem;">
+                                <input class="form-check-input" type="checkbox" value="Ja" id="TRE30min" name="TRE30min">
+                                <label class="form-check-label" for="TRE30min">
+                                    Ich möchte ein kostenloses Erstgespräch TRE® (max. 30 Min.) vereinbaren.
+                                </label>
+                            </div>
+
+                            <div class="form-check" style="margin-top: 0.5rem;">
+                                <input class="form-check-input" type="checkbox" value="Ja" id="FitnessWelt" name="FitnessWelt">
+                                <label class="form-check-label" for="FitnessWelt">
+                                    Ich möchte deine virtuelle „Fitness Welt“ nützen
+                                </label>
+                            </div>
+
+                            <div class="form-check" style="margin-top: 0.5rem;">
+                                <input class="form-check-input" type="checkbox" value="Ja" id="ZuyklusAdaptiertesTraining" name="ZuyklusAdaptiertesTraining">
+                                <label class="form-check-label" for="ZuyklusAdaptiertesTraining">
+                                    Ich möchte den Wissensworkshop „Zyklus adaptiertes Fitnesstraining“ kaufen
+                                </label>
+                            </div>
+
+                            <div class="form-check" style="margin-top: 0.5rem; margin-bottom: 1.5rem;">
+                                <input class="form-check-input" type="checkbox" value="Ja" id="12WochenRunterkommen" name="12WochenRunterkommen">
+                                <label class="form-check-label" for="12WochenRunterkommen">
+                                    Ich möchte den Workshop „12 Wochen Runterkommen“ kaufen
+                                </label>
+                            </div>
+
                             <div class="form-row">
                                 <div class="col-12 col-sm-6">                
                                     <input type="text" id="Vorname" name="Vorname" placeholder="Vorname" required>

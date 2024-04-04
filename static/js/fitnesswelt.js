@@ -25,9 +25,17 @@ $(function(){ // .ready() callback, is only executed when the DOM is fully loade
         } else {
             console.log('bot-alert');
         }
-      };
-      
-      document
+    };
+    
+    document
         .querySelector("form")
         .addEventListener("submit", handleSubmit);
+
+    if(window.location.hash) {
+        var hash = window.location.hash.substring(1); //Puts hash in variable, and removes the # character
+        const element = document.getElementById(hash);
+        if (element) {
+            element.checked = true;
+        }
+    }
 });
