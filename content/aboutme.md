@@ -6,18 +6,20 @@ imageUrl = "/images/About_me_header.webp"
 +++
 
 {{< sections/topText >}}
-* holistische Fitness & Personal Trainerin
-* Instruktorin für Pilates, Mobilisation, Zumba®, u.v.m. 
+* Fitness & Personal Trainerin
+* Instruktorin für Pilates, Mobilisation, Zumba®, u.v.m.
+* TRE® Providerin
+* Expertin für Entspannungsübungen
 * Zielgruppe: Frauen, aber auch Senioren
+* Betreuung in 4 Sprachen möglich (Deutsch, Englisch, Spanisch, Portugiesisch)
 * Meine Arbeit als Trainerin bezeichne ich als HOLISTISCH, also ganzheitlich, weil für langfristige Fortschritte mehr betrachtet werden muss, als nur deine Bewegungsroutine.
 * über 20 Jahre Erfahrung als Coachin im Sport
 * empathische, ehrliche, verständnisvolle Betreuung mit Weitblick und Wissen
 {{</ sections/topText >}}
 
 {{< sections/section title="Fun Facts" >}}
-* geb. 1983 – ich bin ein „elder“ Millenial
-* seit 2021 wieder in OÖ wohnhaft, davor 7 Jahr in Wien, davor ca. 6 Jahre im Ausland (Spanien, Argentinien, Brasilien)
-* Ich spreche 4 Sprachen (Deutsch, Englisch, Spanisch, Portugiesisch).
+* Ich bin ein „elder“ Millenial - geboren 1983.
+* Seit 2021 wohne ich wieder in OÖ. Davor war ich 7 Jahr in Wien und davor ca. 6 Jahre im Ausland (Spanien, Argentinien, Brasilien).
 * Ich war 6 Saisonen Skilehrerin und hab über 1.000 Personen das Skifahren beigebracht.
 * Was macht mich glücklich? Sonnenuntergänge, Bewegung (Krafttraining, Radfahren, Skifahren, Tanzen,…), Neues lernen, schlafen, reisen, tiefe Gespräche, Umarmungen von lieben Menschen,…
 * Was ich glaube, dass die Welt mehr bräuchte? Mehr Verständnis und Empathie für einen selbst und füreinander, plus mehr Willen zum persönlichen und emotionalen Wachstum.

@@ -7,7 +7,7 @@ imageUrl = "/images/personaltraining_header.webp"
 +++
 
 {{< sections/topText >}}
-Jede Frau ist anders und hat eine andere Ausgangssituation und Wünsche. Darum ist mir die persönliche Herangehensweise wichtig. Persönliche Betreuung mit Empathie, Wissen und Leidenschaft – für #feelgood Moments auf unterschiedlichen Ebenen!
+Jede Frau ist anders und hat eine andere Ausgangssituation und Wünsche. Darum ist mir die individuelle Herangehensweise wichtig. Persönliche Betreuung mit Empathie, Wissen und Leidenschaft – für #feelgood Moments auf unterschiedlichen Ebenen! Onlinebetreuung hat den Vorteil, dass sie nicht ortsgebunden ist und oft eine Zeitersparnis mit sich bringt. 
 
 Bei einem KOSTENLOSEN und UNVERBINDLICHEN ERSTGESPRÄCH finden wir raus, wie ich dich am besten bei deinen Zielen unterstützen kann. Ich stehe dir virtuell zur Verfügung und je nach Location/Wunsch auch vor Ort.
 

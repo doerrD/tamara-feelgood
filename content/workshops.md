@@ -7,7 +7,7 @@ imageUrl = "/images/workshops_header.webp"
 +++
 
 {{< sections/topText >}}
-Erweitere dein Wissen und probier mal was Neues – nur für dich! Meine digitalen Workshops, die du einmal gekauft, kannst du jederzeit abrufen und wiederholen. Mehr Wissen zu deinem Körper wird dir mehr Verständnis für ihn bringen und dadurch wirst du ihn noch mehr akzeptieren lernen. Stichworte: Selbstakzeptanz und Selbstliebe!
+Erweitere dein Wissen und probier mal was Neues – nur für dich! Meine digitalen Workshops kannst du, einmal gekauft, jederzeit abrufen und wiederholen. Mehr Wissen zu deinem Körper wird dir mehr Verständnis für ihn bringen und dadurch wirst du ihn noch mehr akzeptieren lernen. Stichworte: Selbstakzeptanz und Selbstliebe!
 {{</ sections/topText >}}
 
 {{< sections/section title="ZYKLUS ADAPTIERTES TRAINING" onlyText="false" >}}
@@ -27,7 +27,7 @@ Du bist interessiert an diesem Workshop? Dann klicke hier
 {{< sections/content >}}
 Dieser Workshop ist ein 12-Wochen-Programm, indem du unterschiedliche somatische Tools erlernst, eine Routine damit aufbaust und dadurch positiv zu deinem „Entstressen“ beiträgst.
 
-Unser Alltag wird immer schnelllebiger, so viele Frauen sind überarbeitet und überlastet. Darum ist das Entspannen mindestens genauso wichtig, wie regelmäßige Bewegung! 
+Unser Alltag wird immer schnelllebiger, so viele Frauen sind überarbeitet und überlastet. Deswegen ist das Entspannen mindestens genauso wichtig, wie regelmäßige Bewegung! 
 
 Jedoch scheitern viele Frauen am Zeitfaktor und an der Aufgabe Neues in ihren Alltag zu integrieren, weil sie schon so viele Aufgaben haben. Darum sind die einzelnen Elemente dieses Workshops kurz und vor allem einfach! Täglich investierst du in diesem Workshop 2 bis max. 10 Minuten.
 
