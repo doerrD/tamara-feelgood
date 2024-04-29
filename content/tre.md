@@ -16,7 +16,7 @@ imageUrl = "/images/tre_header.webp"
 * chronische Krankheiten
 
 \
-Es ist ein Selbsthilfe-Tool, dass du jederzeit für das eigene Wohlbefinden einsetzen kannst. Ich, als (zukünftige) **TRE®**-Providerin, stehe dir bei dem Lernprozess und natürlich auch danach zur Verfügung – virtuell oder Präsenz.
+Es ist ein Selbsthilfe-Tool, dass du jederzeit für das eigene Wohlbefinden einsetzen kannst. Ich, als zertifizierte **TRE®**-Providerin, stehe dir bei dem Lernprozess und natürlich auch danach zur Verfügung – virtuell oder Präsenz.
 
 **TRE®** ist ein spannendes Tool aus der somatischen Welt (in der Somatik arbeitet man mit Heilung über den Körper), dass dir viel Entspannung und sogar persönliche Weiterentwicklung bieten kann. 
 
