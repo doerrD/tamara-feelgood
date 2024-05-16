@@ -25,3 +25,5 @@ Wichtig: **TRE®** ersetzt keine traditionelle physiologische oder psychologisch
 {{< sections/lonlyLink link="/kontakt#TRE30min" >}}
 Vereinbare deinen kostenlosen 15 Minuten TRE® Call
 {{</ sections/lonlyLink >}}
+
+{{< sections/treReferences />}}
