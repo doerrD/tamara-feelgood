@@ -38,6 +38,7 @@ Dieses Paket ist für dich, wenn du Probleme mit der Motivation oder Routinenfin
     {{< list/listItem >}}3 Monate Betreuung{{</ list/listItem >}}
     {{< list/listItem >}}1x Plan + Adaptation + Aufzeichnung Erklärvideo{{</ list/listItem >}}
     {{< list/listItem >}}1x Trainingsplan in schriftlicher Form{{</ list/listItem >}}
+    {{< list/listItem >}}6x 30 Minuten Check-In-Gespräche via Zoom{{</ list/listItem >}}
     {{< list/listItem >}}WhatsApp Support (Rückmeldungen so schnell wie möglich){{</ list/listItem >}}
     {{< list/listItem bold="true" >}}PREIS: € 320,-{{</ list/listItem >}}
 {{</ list/unsortedList >}}

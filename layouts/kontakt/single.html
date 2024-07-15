@@ -75,6 +75,13 @@
                             <input type="email" id="Email" name="Email" placeholder="E-Mail-Adresse" required>
                             <textarea name="Kommentar" id="Kommentar" placeholder="Kommentar"></textarea>
 
+                            <div class="form-check" style="margin-top: 0.5rem; margin-bottom: 1.5rem;">
+                                <input class="form-check-input" type="checkbox" value="Ja" id="DSGVO" name="Privacy">
+                                <label class="form-check-label" for="Privacy">
+                                    Hiermit nimmst du die <a style="color:rgb(229, 0, 118);" href="{{ .Site.BaseURL }}/privacy" target="_blank">Datenschutzerklärung</a> zur Kenntnis
+                                </label>
+                            </div>
+
                             <p class="good-input">
                                 <label>
                                   Don’t fill this out if you’re human: <input name="goodinput" />
