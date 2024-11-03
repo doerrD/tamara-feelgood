@@ -1,99 +1,200 @@
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>{{ .Site.Title }} | {{ .Page.Title }}</title>
-    <meta name="author" content="Tamara Dörr">
-    <meta name="publisher" content="Tamara Dörr">
-    <meta name="copyright" content="Tamara Dörr">
-    <meta name="page-topic" content="Dienstleistung">
-    <meta name="audience" content="Alle"><meta http-equiv="content-language" content="de">
-    <meta name="robots" content="index, nofollow">
-    {{ if eq .Section "fitness" }}
-    <meta name="description" content="FEEL GOOD & FIT – Du hast nur einen Körper, beweg‘ ihn! Das ist Tamara’s Motto. Fitness mit Body Positive Ansatz.">
-    <meta name="keywords" content="Tamara, Dörr, Fitness, Fitnesstrainer, Fitnesstrainerin, Personal, Training">
-    {{ end }}
-    {{ if eq .Section "makeup" }}
-    <meta name="description" content="YOU ARE BEAUTIFUL – Make-up mit #feelgood Feeling. Für Fotoshootings aller Art, Hochzeiten, Videodrehs und noch viel mehr.">
-    <meta name="keywords" content="Tamara, Dörr, Make, up, Visagistin">
-    {{ end }}
-    <link rel="apple-touch-icon" sizes="57x57" href="{{ .Site.BaseURL }}/img/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="{{ .Site.BaseURL }}/img/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="{{ .Site.BaseURL }}/img/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="{{ .Site.BaseURL }}/img/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="{{ .Site.BaseURL }}/img/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="{{ .Site.BaseURL }}/img/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="{{ .Site.BaseURL }}/img/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="{{ .Site.BaseURL }}/img/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ .Site.BaseURL }}/img/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="{{ .Site.BaseURL }}/img/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ .Site.BaseURL }}/img/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="{{ .Site.BaseURL }}/img/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.BaseURL }}/img/favicon-16x16.png">
-    <link rel="shortcut icon"  href="{{ .Site.BaseURL }}/img/favicon.ico" type="image/x-icon" >
-    <link rel="manifest" href="{{ .Site.BaseURL }}manifest.json">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="img/ms-icon-144x144.png">
-    <meta name="theme-color" content="#ffffff">
-    <link rel="canonical" href="{{ .Site.BaseURL }}"/>
+  <meta charset="utf-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
+  <title>{{ .Site.Title }} | {{ .Page.Title }}</title>
+  <meta name="author" content="Tamara Dörr" />
+  <meta name="publisher" content="Tamara Dörr" />
+  <meta name="copyright" content="Tamara Dörr" />
+  <meta name="page-topic" content="Dienstleistung" />
+  <meta name="audience" content="Alle" />
+  <meta http-equiv="content-language" content="de" />
+  <meta name="robots" content="index, nofollow" />
+  {{ if eq .Section "fitness" }}
+  <meta
+    name="description"
+    content="FEEL GOOD & FIT – Du hast nur einen Körper, beweg‘ ihn! Das ist Tamara’s Motto. Fitness mit Body Positive Ansatz."
+  />
+  <meta
+    name="keywords"
+    content="Tamara, Dörr, Fitness, Fitnesstrainer, Fitnesstrainerin, Personal, Training"
+  />
+  {{ end }} {{ if eq .Section "makeup" }}
+  <meta
+    name="description"
+    content="YOU ARE BEAUTIFUL – Make-up mit #feelgood Feeling. Für Fotoshootings aller Art, Hochzeiten, Videodrehs und noch viel mehr."
+  />
+  <meta name="keywords" content="Tamara, Dörr, Make, up, Visagistin" />
+  {{ end }}
+  <link
+    rel="apple-touch-icon"
+    sizes="57x57"
+    href="{{ .Site.BaseURL }}/img/apple-icon-57x57.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="60x60"
+    href="{{ .Site.BaseURL }}/img/apple-icon-60x60.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="72x72"
+    href="{{ .Site.BaseURL }}/img/apple-icon-72x72.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="76x76"
+    href="{{ .Site.BaseURL }}/img/apple-icon-76x76.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="114x114"
+    href="{{ .Site.BaseURL }}/img/apple-icon-114x114.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="120x120"
+    href="{{ .Site.BaseURL }}/img/apple-icon-120x120.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="144x144"
+    href="{{ .Site.BaseURL }}/img/apple-icon-144x144.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="152x152"
+    href="{{ .Site.BaseURL }}/img/apple-icon-152x152.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="180x180"
+    href="{{ .Site.BaseURL }}/img/apple-icon-180x180.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="192x192"
+    href="{{ .Site.BaseURL }}/img/android-icon-192x192.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="32x32"
+    href="{{ .Site.BaseURL }}/img/favicon-32x32.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="96x96"
+    href="{{ .Site.BaseURL }}/img/favicon-96x96.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="16x16"
+    href="{{ .Site.BaseURL }}/img/favicon-16x16.png"
+  />
+  <link
+    rel="shortcut icon"
+    href="{{ .Site.BaseURL }}/img/favicon.ico"
+    type="image/x-icon"
+  />
+  <link rel="manifest" href="{{ .Site.BaseURL }}manifest.json" />
+  <meta name="msapplication-TileColor" content="#ffffff" />
+  <meta name="msapplication-TileImage" content="img/ms-icon-144x144.png" />
+  <meta name="theme-color" content="#ffffff" />
+  <link rel="canonical" href="{{ .Site.BaseURL }}" />
 
-    {{ $bootstrap := resources.Get "plugins/bootstrap/bootstrap.min.css" }}
-    {{ $carousel := resources.Get "plugins/owl-carousel/owl.carousel.min.css" }}
-    {{ $theme := resources.Get "plugins/owl-carousel/owl.theme.default.min.css" }}
-    {{ $magnific := resources.Get "plugins/magnific-popup/magnific-popup.min.css" }}
-    {{ $themify := resources.Get "plugins/themify/themify-icons.min.css" }}
-    {{ $app := resources.Get "css/app.css" }}
-    {{ $custom := resources.Get "css/custom.css" }}
-    {{ $css := slice $bootstrap $carousel $theme $magnific $themify $app $custom | resources.Concat "css/bundle.css" }}
+  {{ $bootstrap := resources.Get "plugins/bootstrap/bootstrap.min.css" }} {{
+  $carousel := resources.Get "plugins/owl-carousel/owl.carousel.min.css" }} {{
+  $theme := resources.Get "plugins/owl-carousel/owl.theme.default.min.css" }} {{
+  $magnific := resources.Get "plugins/magnific-popup/magnific-popup.min.css" }}
+  {{ $themify := resources.Get "plugins/themify/themify-icons.min.css" }} {{
+  $app := resources.Get "css/app.css" }} {{ $custom := resources.Get
+  "css/custom.css" }} {{ $css := slice $bootstrap $carousel $theme $magnific
+  $themify $app $custom | resources.Concat "css/bundle.css" }}
 
-    <script defer src="https://use.fontawesome.com/releases/v5.12.0/js/all.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/2.7.0/simple-lightbox.css" integrity="sha512-8WAX0xL/cHZ38RXoX2gtuqkAwmDVAzGwoFVmHvn46IDHGWOjTHx0vcl9OapNrfOzpFtql0SNkv+0y0b5Fm8ZkA==" crossorigin="anonymous" />
-    <link href="{{ $css.Permalink }}" rel="stylesheet">
-    <!-- Begin Brevo Form -->
-    <!-- START - We recommend to place the below code in head tag of your website html  -->
-    <style>
-        @font-face {
-        font-display: block;
-        font-family: Roboto;
-        src: url(https://assets.brevo.com/font/Roboto/Latin/normal/normal/7529907e9eaf8ebb5220c5f9850e3811.woff2) format("woff2"), url(https://assets.brevo.com/font/Roboto/Latin/normal/normal/25c678feafdc175a70922a116c9be3e7.woff) format("woff")
-        }
-    
-        @font-face {
-        font-display: fallback;
-        font-family: Roboto;
-        font-weight: 600;
-        src: url(https://assets.brevo.com/font/Roboto/Latin/medium/normal/6e9caeeafb1f3491be3e32744bc30440.woff2) format("woff2"), url(https://assets.brevo.com/font/Roboto/Latin/medium/normal/71501f0d8d5aa95960f6475d5487d4c2.woff) format("woff")
-        }
-    
-        @font-face {
-        font-display: fallback;
-        font-family: Roboto;
-        font-weight: 700;
-        src: url(https://assets.brevo.com/font/Roboto/Latin/bold/normal/3ef7cf158f310cf752d5ad08cd0e7e60.woff2) format("woff2"), url(https://assets.brevo.com/font/Roboto/Latin/bold/normal/ece3a1d82f18b60bcce0211725c476aa.woff) format("woff")
-        }
-    
-        #sib-container input:-ms-input-placeholder {
-        text-align: left;
-        font-family: "Helvetica", sans-serif;
-        color: #ffffff;
-        }
-    
-        #sib-container input::placeholder {
-        text-align: left;
-        font-family: "Helvetica", sans-serif;
-        color: #ffffff;
-        }
-    
-        #sib-container textarea::placeholder {
-        text-align: left;
-        font-family: "Helvetica", sans-serif;
-        color: #ffffff;
-        }
-    
-        #sib-container a {
-        text-decoration: underline;
-        color: #ffffff;
-        }
-    </style>
-    <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
-    <!--  END - We recommend to place the above code in head tag of your website html -->
+  <script
+    defer
+    src="https://use.fontawesome.com/releases/v5.12.0/js/all.js"
+  ></script>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/2.7.0/simple-lightbox.css"
+    integrity="sha512-8WAX0xL/cHZ38RXoX2gtuqkAwmDVAzGwoFVmHvn46IDHGWOjTHx0vcl9OapNrfOzpFtql0SNkv+0y0b5Fm8ZkA=="
+    crossorigin="anonymous"
+  />
+  <link href="{{ $css.Permalink }}" rel="stylesheet" />
+  <!-- Begin Brevo Form -->
+  <!-- START - We recommend to place the below code in head tag of your website html  -->
+  <style>
+    @font-face {
+      font-display: block;
+      font-family: Roboto;
+      src: url(https://assets.brevo.com/font/Roboto/Latin/normal/normal/7529907e9eaf8ebb5220c5f9850e3811.woff2)
+          format("woff2"),
+        url(https://assets.brevo.com/font/Roboto/Latin/normal/normal/25c678feafdc175a70922a116c9be3e7.woff)
+          format("woff");
+    }
+
+    @font-face {
+      font-display: fallback;
+      font-family: Roboto;
+      font-weight: 600;
+      src: url(https://assets.brevo.com/font/Roboto/Latin/medium/normal/6e9caeeafb1f3491be3e32744bc30440.woff2)
+          format("woff2"),
+        url(https://assets.brevo.com/font/Roboto/Latin/medium/normal/71501f0d8d5aa95960f6475d5487d4c2.woff)
+          format("woff");
+    }
+
+    @font-face {
+      font-display: fallback;
+      font-family: Roboto;
+      font-weight: 700;
+      src: url(https://assets.brevo.com/font/Roboto/Latin/bold/normal/3ef7cf158f310cf752d5ad08cd0e7e60.woff2)
+          format("woff2"),
+        url(https://assets.brevo.com/font/Roboto/Latin/bold/normal/ece3a1d82f18b60bcce0211725c476aa.woff)
+          format("woff");
+    }
+
+    #sib-container input:-ms-input-placeholder {
+      text-align: left;
+      font-family: "Helvetica", sans-serif;
+      color: #ffffff;
+    }
+
+    #sib-container input::placeholder {
+      text-align: left;
+      font-family: "Helvetica", sans-serif;
+      color: #ffffff;
+    }
+
+    #sib-container textarea::placeholder {
+      text-align: left;
+      font-family: "Helvetica", sans-serif;
+      color: #ffffff;
+    }
+
+    #sib-container a {
+      text-decoration: underline;
+      color: #ffffff;
+    }
+  </style>
+  <link
+    rel="stylesheet"
+    href="https://sibforms.com/forms/end-form/build/sib-styles.css"
+  />
+  <style>
+    .sib-form {
+      padding: 0;
+    }
+
+    #sib-container {
+      padding: 0;
+    }
+  </style>
+  <!--  END - We recommend to place the above code in head tag of your website html -->
 </head>
