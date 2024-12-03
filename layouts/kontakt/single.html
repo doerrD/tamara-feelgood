@@ -1,110 +1,237 @@
 {{ define "main" }}
 <div class="section-lg">
-	<div class="bg-white-08">
-		<div class="container">
-			<div class="margin-bottom-70">
-				<div class="row text-center">
-					<div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-						<h1 class="font-weight-light">{{ .Page.Title }}</h1>
-						<div class="divider-width-50px">
-							<hr class="bg-black-05">
-						</div>
-					</div>
-				</div>
-			</div>
-			<div>
-				<div class="container no-padding-sm">
-                    <h3>Du bist hier richtig, wenn…</h3>
-                    <p>
-                        …du mehr Kraft im Alltag willst. Wenn du weniger Verspannungen haben möchtest. Wenn du bei deinem Training Fortschritte machen willst. Wenn du wieder besser schlafen willst und stressresistenter werden möchtest. Wenn du mit deinen Körper-Themen gesehen und gehört werden willst und dir einen neuen Zugang zu deiner Beziehung zu deinem Körper wünscht… LADIES, FITNESS IST VIEL MEHR ALS ABNEHMEN ODER WETTKAMPF. LET ME SHOW YOU!                        
-                    </p>
-                    <div class="text-center">
-                        <a class="button button-lg button-reveal-right-dark button-rounded"
-                           href="https://wa.me/436502825968"><i class="ti-arrow-right"></i>
-                            <span>Kontaktiere mich per WhatsApp</span>
-                        </a>
-                    </div>
-                    <div style="font-size:1.2rem; margin-top: 2rem; font-weight: bolder;">
-                        oder nutze das Kontaktformular:
-                    </div>                
-                    <div class="contact-form">
-                        <form method="post" name="registrierung" action="/registrierung/erfolg" netlify>
-                            <div class="form-check" style="margin-top: 0.5rem;">
-                                <input class="form-check-input" type="checkbox" value="Ja" id="ErgesprächFittness15" name="ErgesprächFittness15">
-                                <label class="form-check-label" for="ErgesprächFittness15">
-                                    Ich möchte ein kostenloses Erstgespräch FITNESS (ca. 15 Min) buchen.
-                                </label>
-                            </div>
-                            <div class="form-check" style="margin-top: 0.5rem;">
-                                <input class="form-check-input" type="checkbox" value="Ja" id="ErgesprächTRE15" name="ErgesprächTRE15">
-                                <label class="form-check-label" for="ErgesprächTRE15">
-                                    Ich möchte ein kostenloses Erstgespräch TRE® (ca. 15 Min) buchen.
-                                </label>
-                            </div>
-                            <div class="form-check" style="margin-top: 0.5rem;">
-                                <input class="form-check-input" type="checkbox" value="Ja" id="Beratung30Min" name="Beratung30Min">
-                                <label class="form-check-label" for="Beratung30Min">
-                                    Ich möchte ein 30-Min-Beratungsgespräch buchen. - € 35,00
-                                </label>
-                            </div>
-                            <div class="form-check" style="margin-top: 0.5rem;">
-                                <input class="form-check-input" type="checkbox" value="Ja" id="Beratung60Min" name="Beratung60Min">
-                                <label class="form-check-label" for="Beratung60Min">
-                                    Ich möchte ein 60-Min-Beratungsgespräch buchen. - € 60,00
-                                </label>
-                            </div>
-                            <div class="form-check" style="margin-top: 0.5rem;">
-                                <input class="form-check-input" type="checkbox" value="Ja" id="FitnessWelt" name="FitnessWelt">
-                                <label class="form-check-label" for="FitnessWelt">
-                                    Ich möchte deine virtuelle #feelgood FITNESS WELT nützen. – bis auf Widerruf kostenlos
-                                </label>
-                            </div>
-                            <div class="form-check" style="margin-top: 0.5rem;">
-                                <input class="form-check-input" type="checkbox" value="Ja" id="ZuyklusAdaptiertesTraining" name="ZuyklusAdaptiertesTraining">
-                                <label class="form-check-label" for="ZuyklusAdaptiertesTraining">
-                                    Ich möchte den Wissensworkshop „Zyklus adaptiertes Fitnesstraining“ kaufen - € 25,00
-                                </label>
-                            </div>
-                            <div class="form-check" style="margin-top: 0.5rem; margin-bottom: 1.5rem;">
-                                <input class="form-check-input" type="checkbox" value="Ja" id="12WochenRunterkommen" name="12WochenRunterkommen">
-                                <label class="form-check-label" for="12WochenRunterkommen">
-                                    Ich möchte den Workshop „12 Wochen Runterkommen“ kaufen - € 59,00
-                                </label>
-                            </div>
+  <div class="bg-white-08">
+    <div class="container">
+      <div class="margin-bottom-70">
+        <div class="row text-center">
+          <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+            <h1 class="font-weight-light">{{ .Page.Title }}</h1>
+            <div class="divider-width-50px">
+              <hr class="bg-black-05" />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="container no-padding-sm">
+          <h3>Du bist hier richtig, wenn…</h3>
+          <p>
+            …du mehr Kraft im Alltag willst. Wenn du weniger Verspannungen haben
+            möchtest. Wenn du bei deinem Training Fortschritte machen willst.
+            Wenn du wieder besser schlafen willst und stressresistenter werden
+            möchtest. Wenn du mit deinen Körper-Themen gesehen und gehört werden
+            willst und dir einen neuen Zugang zu deiner Beziehung zu deinem
+            Körper wünscht… LADIES, FITNESS IST VIEL MEHR ALS ABNEHMEN ODER
+            WETTKAMPF. LET ME SHOW YOU!
+          </p>
+          <div class="text-center">
+            <a
+              class="button button-lg button-reveal-right-dark button-rounded"
+              href="https://wa.me/436502825968"
+              ><i class="ti-arrow-right"></i>
+              <span>Kontaktiere mich per WhatsApp</span>
+            </a>
+          </div>
+          <div style="font-size: 1.2rem; margin-top: 2rem; font-weight: bolder">
+            oder nutze das Kontaktformular:
+          </div>
+          <div class="contact-form">
+            <form
+              method="post"
+              name="registrierung"
+              action="/registrierung/erfolg"
+              netlify
+            >
+              <div class="form-check" style="margin-top: 0.5rem">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  value="Ja"
+                  id="Ergespräch15"
+                  name="Ergespräch15"
+                />
+                <label class="form-check-label" for="Ergespräch15">
+                  Ich möchte ein Kennenlerngespräch (ca. 15 Min) buchen. -
+                  kostenlos
+                </label>
+              </div>
+              <div class="form-check" style="margin-top: 0.5rem">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  value="Ja"
+                  id="Beratung30Min"
+                  name="Beratung30Min"
+                />
+                <label class="form-check-label" for="Beratung30Min">
+                  Ich möchte ein 30-Min-Beratungsgespräch buchen. - € 37,00
+                </label>
+              </div>
+              <div class="form-check" style="margin-top: 0.5rem">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  value="Ja"
+                  id="Beratung60Min"
+                  name="Beratung60Min"
+                />
+                <label class="form-check-label" for="Beratung60Min">
+                  Ich möchte ein 60-Min-Beratungsgespräch buchen. - € 70,00
+                </label>
+              </div>
+              <div class="form-check" style="margin-top: 0.5rem">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  value="Ja"
+                  id="TRESession"
+                  name="TRESession"
+                />
+                <label class="form-check-label" for="TRESession">
+                  Ich möchte eine TRE® Session buchen. - € 70,00
+                </label>
+              </div>
+              <div class="form-check" style="margin-top: 0.5rem">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  value="Ja"
+                  id="FitnessWelt"
+                  name="FitnessWelt"
+                />
+                <label class="form-check-label" for="FitnessWelt">
+                  Ich möchte deine virtuelle #feelgood FITNESS WELT nützen. –
+                  bis auf Widerruf kostenlos
+                </label>
+              </div>
+              <div class="form-check" style="margin-top: 0.5rem">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  value="Ja"
+                  id="ZuyklusAdaptiertesTraining"
+                  name="ZuyklusAdaptiertesTraining"
+                />
+                <label
+                  class="form-check-label"
+                  for="ZuyklusAdaptiertesTraining"
+                >
+                  Ich möchte den Wissensworkshop „Zyklus adaptiertes
+                  Fitnesstraining“ kaufen - € 25,00
+                </label>
+              </div>
+              <div
+                class="form-check"
+                style="margin-top: 0.5rem; margin-bottom: 1.5rem"
+              >
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  value="Ja"
+                  id="12WochenRunterkommen"
+                  name="12WochenRunterkommen"
+                />
+                <label class="form-check-label" for="12WochenRunterkommen">
+                  Ich möchte den Workshop „12 Wochen Runterkommen“ kaufen - €
+                  59,00
+                </label>
+              </div>
 
-                            <div class="form-row">
-                                <div class="col-12 col-sm-6">                
-                                    <input type="text" id="Vorname" name="Vorname" placeholder="Vorname" required>
-                                </div>
-                                <div class="col-12 col-sm-6">
-                                    <input type="text" id="Nachname" name="Nachname" placeholder="Nachname" required>
-                                </div>
-                            </div>
-                            <input type="email" id="Email" name="Email" placeholder="E-Mail-Adresse" required>
-                            <textarea name="Kommentar" id="Kommentar" placeholder="Kommentar"></textarea>
-
-                            <div class="form-check" style="margin-top: 0.5rem; margin-bottom: 1.5rem;">
-                                <input class="form-check-input" type="checkbox" value="Ja" id="DSGVO" name="Privacy">
-                                <label class="form-check-label" for="Privacy">
-                                    Hiermit nimmst du die <a style="color:rgb(229, 0, 118);" href="{{ .Site.BaseURL }}/privacy" target="_blank">Datenschutzerklärung</a> zur Kenntnis
-                                </label>
-                            </div>
-
-                            <p class="good-input">
-                                <label>
-                                  Don’t fill this out if you’re human: <input name="goodinput" />
-                                </label>
-                            </p>
-                            <button class="button button-lg button-border-1px button-outline-dark-2" type="submit">Absenden</button>
-                        </form>
-                        <!-- Submit result -->
-                        <div class="submit-result">
-                            <span id="success">Danke! Deine Daten wurden an mich gesendet und ich melde mich so schnell wie möglich</span>
-                        </div>
-                    </div><!-- end contact-form -->
+              <div class="form-row">
+                <div class="col-12 col-sm-6">
+                  <input
+                    type="text"
+                    id="Vorname"
+                    name="Vorname"
+                    placeholder="Vorname"
+                    required
+                  />
                 </div>
-			</div>
-		</div>
-	</div>
+                <div class="col-12 col-sm-6">
+                  <input
+                    type="text"
+                    id="Nachname"
+                    name="Nachname"
+                    placeholder="Nachname"
+                    required
+                  />
+                </div>
+              </div>
+              <input
+                type="email"
+                id="Email"
+                name="Email"
+                placeholder="E-Mail-Adresse"
+                required
+              />
+              <textarea
+                name="Kommentar"
+                id="Kommentar"
+                placeholder="Kommentar"
+              ></textarea>
+
+              <div class="form-check" style="margin-top: 0.5rem">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  value="Ja"
+                  id="DSGVO"
+                  name="Privacy"
+                />
+                <label class="form-check-label" for="Privacy">
+                  Hiermit nimmst du die
+                  <a
+                    style="color: rgb(229, 0, 118)"
+                    href="{{ .Site.BaseURL }}/privacy"
+                    target="_blank"
+                    >Datenschutzerklärung</a
+                  >
+                  zur Kenntnis
+                </label>
+              </div>
+
+              <div
+                class="form-check"
+                style="margin-top: 0.5rem; margin-bottom: 1.5rem"
+              >
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  value="Ja"
+                  id="Newsletter"
+                  name="Newsletter"
+                />
+                <label class="form-check-label" for="Newsletter">
+                  Ich möchte deinen #feelgood Newsletter empfangen – für
+                  wertvollen Input zu all deinen #feelgood Themen
+                </label>
+              </div>
+
+              <p class="good-input">
+                <label>
+                  Don’t fill this out if you’re human:
+                  <input name="goodinput" />
+                </label>
+              </p>
+              <button
+                class="button button-lg button-border-1px button-outline-dark-2"
+                type="submit"
+              >
+                Absenden
+              </button>
+            </form>
+            <!-- Submit result -->
+            <div class="submit-result">
+              <span id="success"
+                >Danke! Deine Daten wurden an mich gesendet und ich melde mich
+                so schnell wie möglich</span
+              >
+            </div>
+          </div>
+          <!-- end contact-form -->
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 {{ end }}
