@@ -59,22 +59,6 @@ Check dir jetzt dein Kennenlerngespräch
 {{</ sections/section >}}
 
 {{< sections/section title="Package \"ERPSE\"" onlyText="false" id="package-erpse" >}}
-Lorem ipsum
-
-{{< list/unsortedList >}}
-{{< list/listItem >}}3 Monate Betreuung{{</ list/listItem >}}
-{{< list/listItem >}}1x Plan + Adaptation + Aufzeichnung Erklärvideo{{</ list/listItem >}}
-{{< list/listItem >}}1x Trainingsplan in schriftlicher Form{{</ list/listItem >}}
-{{< list/listItem >}}WhatsApp Support (Rückmeldungen so schnell wie möglich){{</ list/listItem >}}
-{{< list/listItem >}}6x 60 Minuten Check-In-Gespräche via Zoom{{</ list/listItem >}}
-{{< list/listItem >}}Selbstreflektionsfragebogen{{</ list/listItem >}}
-{{< list/listItem >}}Wochenplan zum Ausdrucken{{</ list/listItem >}}
-{{< list/listItem >}}Somatik Übungen (persönliche Tool-Box){{</ list/listItem >}}
-{{< list/listItem bold="true" >}}PREIS: € 690,-{{</ list/listItem >}}
-{{</ list/unsortedList >}}
-
-{{< sections/lonlyLink link="/kontakt" >}}
-Hier geht’s zum kostenlosen Kennenlerngespräch
-{{</ sections/lonlyLink >}}
+Infos folgen bald.
 
 {{</ sections/section >}}
