@@ -7,67 +7,58 @@ imageUrl = "/images/personaltraining_header.webp"
 +++
 
 {{< sections/topText >}}
-Jede Frau ist anders und hat eine andere Ausgangssituation und Wünsche. Darum ist mir die individuelle Herangehensweise wichtig. Persönliche Betreuung mit Empathie, Wissen und Leidenschaft – für #feelgood Moments auf unterschiedlichen Ebenen! Onlinebetreuung hat den Vorteil, dass sie nicht ortsgebunden ist und oft eine Zeitersparnis mit sich bringt.
+Jede Frau ist anders und hat eine eigene Ausgangssituation und Wünsche. Darum ist mir die individuelle Herangehensweise wichtig. Du bekommst persönliche Betreuung mit Empathie, Wissen und Leidenschaft – für #feelgood Moments auf unterschiedlichen Ebenen! Und ohne falsche Versprechen oder Ignoranz bezüglich langfristiger negativer Konsequenzen. Ich arbeite fast ausschließlich virtuell, was unglaublich praktisch ist, weil du dir Zeit sparst und von überall aus mit mir arbeiten kannst.
 
-Bei einem KOSTENLOSEN und UNVERBINDLICHEN ERSTGESPRÄCH finden wir raus, wie ich dich am besten bei deinen Zielen unterstützen kann. Ich stehe dir virtuell zur Verfügung und je nach Location/Wunsch auch vor Ort.
+In einem KOSTENLOSEN und UNVERBINDLICHEN KENNENLERNGESPRÄCH kannst du mich löchern, um rauszufinden, ob ich die ideale Coachin für dich bin.
 
-- Alle Personal Trainings-Kundinnen erhalten zusätzlich kostenlosen Zugang zu meiner #feelgood FITNESS WELT
-- **PREIS: 1h PT (Personal Training) - € 70,-**
+- Kennenlerngespräch (ca. 15 Min.) - kostenlos
+- **1 Einheit Personal Training (50-60 Min.) - € 70,00**
   {{</ sections/topText >}}
 
-{{< sections/section title="Fitness Plan - Paket 01" onlyText="false" >}}
-Dieses Paket ist für dich, wenn du nur einen Trainings-Plan (Fitnessstudio, Heimtraining, Mobilisationsroutine, sanfte Kräftigung, etc…) möchtest und damit selbständig trainieren willst. Du kannst dich selbst gut motivieren und/oder hast ausreichend Trainingserfahrung.
+{{< sections/section title="Package \"Basic\"" onlyText="false" id="package-basic" >}}
+Dieses Paket ist für dich, wenn du bereits Trainingserfahrung hast. Oder wenn du weißt, dass du gut allein zurechtkommst, aber dennoch gezielten, persönlichen und vor allem holistischen Profi-Input möchtest. Ich sehe dich als Individuum mit eigenem Alltag und deiner aktuellen Ausgangssituation.
 
 {{< list/unsortedList >}}
-{{< list/listItem >}}1x Plan (Gym oder Hometraining){{</ list/listItem >}}
-{{< list/listItem >}}1x Aufzeichnung in Form eines Erklärvideos{{</ list/listItem >}}
-{{< list/listItem >}}1x Trainingsplan in schriftlicher Form{{</ list/listItem >}}
-{{< list/listItem bold="true" >}}PREIS: 1 PT EH (€ 70,-) + Aufzeichnungszeit + ev. Präsenzzeit{{</ list/listItem >}}
+{{< list/listItem >}}1x virtuelles Erstgespräch (30-60 Min.){{</ list/listItem >}}
+{{< list/listItem >}}1x individueller Trainingsplan (Gym oder Hometraining){{</ list/listItem >}}
+{{< list/listItem >}}Plan in schriftlicher Form + Aufzeichnung Erklärvideo (Video nur für Hometraining){{</ list/listItem >}}
+{{< list/listItem >}}Tipps zur Wochenplangestaltung{{</ list/listItem >}}
+{{< list/listItem >}}Ernährungs-/Alltagstipps{{</ list/listItem >}}
+{{< list/listItem bold="true" >}}PREIS: € 149,00 (Du buchst erneut innerhalb von 4 Monaten - € 99,00){{</ list/listItem >}}
 {{</ list/unsortedList >}}
 
 {{< sections/lonlyLink link="/kontakt" >}}
-Hier geht’s zum kostenlosen Erstgespräch
+Hier geht’s zum kostenlosen Kennenlerngespräch
 {{</ sections/lonlyLink >}}
 
 {{</ sections/section >}}
 
-{{< sections/section title="Fitness Support - Paket 02"  onlyText="false" >}}
-Dieses Paket ist für dich, wenn du Probleme mit der Motivation oder Routinenfindung hast. Vielleicht hast du körperliche Themen (Verspannungen, vor/während/nach Schwangerschaft, nach Verletzungen, orthopädische Diagnosen, etc.), die auf alle Fälle Check-Ins benötigen. Die regelmäßigen Zwischengespräche mit mir werden dich motivieren. Durch die Möglichkeit von zusätzlichem Video-Austausch bzw. WhatsApp-Kommunikation gehen wir sicher, dass du deine Übungen korrekt durchführst.
+{{< sections/section title="Package \"Support\"" onlyText="false" id="package-support" >}}
+Dieses Paket ist für dich, wenn du die Benefits von Austausch kennst und motivierend findest. Durch regelmäßige Zwischengespräche kann ich ideal für dich da sein, deine Trainingsfortschritte anpassen und dir Sicherheit geben. Der #feelgood SUPPORT lebt durch deine Kommunikation mit mir. Dadurch gehen wir sicher, dass du deine Übungen korrekt durchführst und Fortschritte machst. Wenn du es möchtest, gehen wir auch etwas tiefer und arbeiten an Glaubenssätzen und Mindset. Die Spots für den #feelgood SUPPORT sind aus Qualitätsgründen limitiert, darum zögere nicht allzu lange bei Interesse, um auf die Warteliste zu kommen.
 
 {{< list/unsortedList >}}
-{{< list/listItem >}}3 Monate Betreuung{{</ list/listItem >}}
-{{< list/listItem >}}1x Plan + Adaptation + Aufzeichnung Erklärvideo{{</ list/listItem >}}
-{{< list/listItem >}}1x Trainingsplan in schriftlicher Form{{</ list/listItem >}}
-{{< list/listItem >}}6x 30 Minuten Check-In-Gespräche via Zoom{{</ list/listItem >}}
-{{< list/listItem >}}WhatsApp Support (Rückmeldungen so schnell wie möglich){{</ list/listItem >}}
-{{< list/listItem bold="true" >}}PREIS: € 320,-{{</ list/listItem >}}
+{{< list/listItem >}}#feelgood Betreuungs-Paket (3 Monate oder 6 Monate){{</ list/listItem >}}
+{{< list/listItem >}}1x virtuelles Erstgespräch (30-60 Min.){{</ list/listItem >}}
+{{< list/listItem >}}1x individueller Trainingsplan (Gym oder Hometraining){{</ list/listItem >}}
+{{< list/listItem >}}Plan in schriftlicher Form + Aufzeichnung Erklärvideo (Video nur für Hometraining){{</ list/listItem >}}
+{{< list/listItem >}}Trainingsplanadaptionen{{</ list/listItem >}}
+{{< list/listItem >}}angepasste Tipps zur aktuellen Wochenplangestaltung{{</ list/listItem >}}
+{{< list/listItem >}}individuellere Ernährungstipps als bei #feelgood BASIC{{</ list/listItem >}}
+{{< list/listItem >}}Input zum Stressmanagement{{</ list/listItem >}}
+{{< list/listItem >}}Selbstreflektionsfragebogen & Mindsetarbeit (Glaubenssätze etc. – wenn gewünscht){{</ list/listItem >}}
+{{< list/listItem >}}Somatik/Entspannungs-Übungen & Tipps{{</ list/listItem >}}
+{{< list/listItem >}}WhatsApp Support (Rückmeldung erfolgt immer „asap“){{</ list/listItem >}}
+{{< list/listItem bold="true" >}}PREIS 3 Monate: € 449,00 (Ratenzahlung möglich){{</ list/listItem >}}
+{{< list/listItem bold="true" >}}PREIS 6 Monate: € 689,00 (Ratenzahlung möglich){{</ list/listItem >}}
 {{</ list/unsortedList >}}
 
 {{< sections/lonlyLink link="/kontakt" >}}
-Check dir jetzt deinen Ersttermin
+Check dir jetzt dein Kennenlerngespräch
 {{</ sections/lonlyLink >}}
 
 {{</ sections/section >}}
 
-{{< sections/section title="Fitness Coaching - Paket 03"  onlyText="false" >}}
-Dieses Paket ist für dich, wenn du mit den Themen vom Paket 02 kämpfst UND/ODER du dich aber, zusätzlich zu deinen Fitness-Goals, auch um deine emotionale und mentale Gesundheit kümmern möchtest PLUS eine bessere Beziehung zu deinem Körper aufbauen möchtest. Wir schauen uns u.a. deine Glaubenssätze an, arbeiten ergänzend mit somatischen Übungen, die den Vagusnerv „trainieren“ und die Recovery Sessions helfen dir beim Entspannen und sanft Mobilisieren.
-
-Die zusätzlichen Ziele sind: Fitness-Fortschritte PLUS mehr Resilienz, verbesserter Schlaf, mehr emotionale Balance und gesteigerte Selbstakzeptanz. Wichtig: Dieses #feelgood Paket ersetzt keine traditionelle physiologische oder psychologische Therapie.
-
-{{< list/unsortedList >}}
-{{< list/listItem >}}3 Monate Betreuung{{</ list/listItem >}}
-{{< list/listItem >}}1x Plan + Adaptation + Aufzeichnung Erklärvideo{{</ list/listItem >}}
-{{< list/listItem >}}1x Trainingsplan in schriftlicher Form{{</ list/listItem >}}
-{{< list/listItem >}}WhatsApp Support (Rückmeldungen so schnell wie möglich){{</ list/listItem >}}
-{{< list/listItem >}}6x 60 Minuten Check-In-Gespräche via Zoom{{</ list/listItem >}}
-{{< list/listItem >}}Selbstreflektionsfragebogen{{</ list/listItem >}}
-{{< list/listItem >}}Wochenplan zum Ausdrucken{{</ list/listItem >}}
-{{< list/listItem >}}Somatik Übungen (persönliche Tool-Box){{</ list/listItem >}}
-{{< list/listItem bold="true" >}}PREIS: € 690,-{{</ list/listItem >}}
-{{</ list/unsortedList >}}
-
-{{< sections/lonlyLink link="/kontakt" >}}
-Buche jetzt dein kostenloses und unverbindliches Erstgespräch mit mir
-{{</ sections/lonlyLink >}}
+{{< sections/section title="Package \"ERPSE\"" onlyText="false" id="package-erpse" >}}
+Infos folgen bald.
 
 {{</ sections/section >}}

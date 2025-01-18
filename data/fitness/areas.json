@@ -1,56 +1,56 @@
 [
-    {
-        "Title": "Fitness Plan",
-        "Text": "",
-        "Image": "/images/DL_2024_01_Plan.webp",
-        "BgColor": "#004AAD",
-        "FeelgoodColor": "#E50076",
-        "TitleColor": "#004AAD",
-        "Link": "personaltraining#fitness-plan"
-    },
-    {
-        "Title": "Fitness Support",
-        "Text": "",
-        "Image": "/images/DL_2024_02_Support.webp",
-        "BgColor": "#004AAD",
-        "FeelgoodColor": "#E50076",
-        "TitleColor": "#004AAD",
-        "Link": "personaltraining#fitness-support"
-    },  
-    {
-        "Title": "Fitness Coaching",
-        "Text": "",
-        "Image": "/images/DL_2024_03_Coaching.webp",
-        "BgColor": "#004AAD",
-        "FeelgoodColor": "#E50076",
-        "TitleColor": "#004AAD",
-        "Link": "personaltraining#fitness-coaching"
-    },
-    {
-        "Title": "Fitness Welt",
-        "Text": "",
-        "Image": "/images/DL_2024_04_Welt.webp",
-        "BgColor": "#F4CB1F",
-        "FeelgoodColor": "#E50076",
-        "TitleColor": "#F4CB1F",
-        "Link": "fitnesswelt"
-    },
-    {
-        "Title": "Fitness Workshops",
-        "Text": "",
-        "Image": "/images/DL_2024_05_Workshops.webp",
-        "BgColor": "#E50076",
-        "FeelgoodColor": "#004AAD",
-        "TitleColor": "#E50076",
-        "Link": "workshops"
-    },
-    {
-        "Title": "TRE®",
-        "Text": "",
-        "Image": "/images/DL_2024_06_TRE.webp",
-        "BgColor": "#8E069F",
-        "FeelgoodColor": "#E50076",
-        "TitleColor": "#8E069F",
-        "Link": "tre"
-    }
+  {
+    "Title": "Package Basic",
+    "Text": "",
+    "Image": "/images/DL_2024_01_Plan.webp",
+    "BgColor": "#004AAD",
+    "FeelgoodColor": "#E50076",
+    "TitleColor": "#004AAD",
+    "Link": "personaltraining#package-basic"
+  },
+  {
+    "Title": "Package Support",
+    "Text": "",
+    "Image": "/images/DL_2024_02_Support.webp",
+    "BgColor": "#004AAD",
+    "FeelgoodColor": "#E50076",
+    "TitleColor": "#004AAD",
+    "Link": "personaltraining#package-support"
+  },
+  {
+    "Title": "Package ERPSE",
+    "Text": "",
+    "Image": "/images/DL_2024_07_ERPSE.webp",
+    "BgColor": "#004AAD",
+    "FeelgoodColor": "#E50076",
+    "TitleColor": "#004AAD",
+    "Link": "personaltraining#package-erpse"
+  },
+  {
+    "Title": "Fitness Welt",
+    "Text": "",
+    "Image": "/images/DL_2024_04_Welt.webp",
+    "BgColor": "#F4CB1F",
+    "FeelgoodColor": "#E50076",
+    "TitleColor": "#F4CB1F",
+    "Link": "fitnesswelt"
+  },
+  {
+    "Title": "Workshops",
+    "Text": "",
+    "Image": "/images/DL_2024_05_Workshops_2.webp",
+    "BgColor": "#E50076",
+    "FeelgoodColor": "#004AAD",
+    "TitleColor": "#E50076",
+    "Link": "workshops"
+  },
+  {
+    "Title": "TRE®",
+    "Text": "",
+    "Image": "/images/DL_2024_06_TRE.webp",
+    "BgColor": "#8E069F",
+    "FeelgoodColor": "#E50076",
+    "TitleColor": "#8E069F",
+    "Link": "tre"
+  }
 ]
