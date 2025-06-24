@@ -10,17 +10,6 @@ imageUrl = "/images/workshops_header_2.webp"
 Erweitere dein Wissen und probier mal was Neues – nur für dich! Meine digitalen Workshops kannst du, einmal gekauft, jederzeit abrufen und wiederholen. Mehr Wissen zu deinem Körper wird dir mehr Verständnis für ihn bringen und dadurch wirst du ihn noch mehr akzeptieren lernen. Stichworte: Selbstakzeptanz und Selbstliebe!
 {{</ sections/topText >}}
 
-{{< sections/section title="ZYKLUS ADAPTIERTES TRAINING" onlyText="false" >}}
-{{< sections/content >}}
-Du bekommst in einfacher Sprache klaren Input zu deinem biologischen Zyklus und du erfährst wie du die 4 Zyklusphasen positiv für deinen Alltag, aber natürlich in erster Linie für dein Training nutzen kannst.
-
-Dieses Wissen kann dich wie eine kleine Superkraft in deinem Workout unterstützen, denn du weißt dann, wann du Pausen machen solltest, wann dein Verletzungsrisiko erhöht sein kann und wann du Gas geben kannst.
-
-Du wirst dich und deinen Körper durch diesen ca. 60 Minuten langen Workshop noch mehr verstehen - „Wissen ist Macht“!
-{{</ sections/content >}}
-{{< sections/lonlyLink link="/kontakt#ZuyklusAdaptiertesTraining" >}}
-Du bist interessiert an diesem Workshop? Dann klicke hier
-{{</ sections/lonlyLink >}}
 {{</ sections/section >}}
 
 {{< sections/section title="RUNTERKOMMEN" onlyText="false" >}}
