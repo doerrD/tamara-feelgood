@@ -58,7 +58,42 @@ Check dir jetzt dein Kennenlerngespräch
 
 {{</ sections/section >}}
 
-{{< sections/section title="Package \"ERPSE\"" onlyText="false" id="package-erpse" >}}
-Infos folgen bald.
+{{< sections/section title="PACKAGE \"BODYCHECK mit ERPSE Diagnostik\"" onlyText="false" id="package-erpse" >}}
+Dein konkreter Ernährungsinput – durch ERPSE DIAGNOSTIK. Dieses Paket ist für dich, wenn du durch aufschlussreiche Ernährungsdiagnostik dich und deinen Körper noch besser kennenlernen möchtest. Eine Standortbestimmung mit Hilfe von BIA- und Kalipermessung und diversen Fragebögen hilft mir deine Potentiale und diverse psychophysiologische Zusammenhänge zu erkennen. Basierend auf Wissen meiner ERPSE Expert:innen Ausbildung kann ich somit noch ganzheitlicher unterstützen. Damit du mit der Zeit Fragen wie diese selbst beantworten kannst: Wie geht es meinem Körper wirklich? Wo sind meine Potentiale? Wer ist Chefin, mein Kopf oder mein Körper? Welche Art von Training braucht mein Körper momentan mehr? Von welcher Makronährstoffverteilung profitiere ich? Wie kann ich langfristig abnehmen? Wie kann ich meine sportliche Leistung verbessern?
+
+Es ist für alle, die sich generell fit und vital fühlen möchten, die lernen wollen ihren Energiehaushalt so ideal wie möglich abzudecken, sowie für Gewichtsmanagement und natürlich auch Leistungssteigerung im Sport und Alltag!
+
+{{< list/unsortedList >}}
+{{< list/listItem >}}Anamnese Erpse{{</ list/listItem >}}
+{{< list/listItem >}}Fragebogen Regeneration Erpse{{</ list/listItem >}}
+{{< list/listItem >}}Fragebogen Bedürfnisse Erpse{{</ list/listItem >}}
+{{< list/listItem >}}Kalipermessung Erpse{{</ list/listItem >}}
+{{< list/listItem >}}BIA-Messung Erpse{{</ list/listItem >}}
+{{< list/listItem >}}Individueller Ernährungsplan via Erpse Buddy{{</ list/listItem >}}
+{{< list/listItem >}}Empfehlungen Training, Ernährung, Mindset, Entspannung,…{{</ list/listItem >}}
+{{< list/listItem >}}2 Termine: 1x Gespräch & Messungen (ca. 120 Min.), 1x 15 Min. Checkin-Call für Fragen{{</ list/listItem >}}
+{{< list/listItem >}}Für dich, wenn du einen konkreten Ist-Stand deines Körpers möchtest. Durch die medizinisch anerkannten Messtechniken und den psychophysiologischen (in Zahlen darstellbaren) Zugang des Erpse Instituts kann ich dir versteckte Potentiale aufzeigen. Für Gesundheitsvorsorge, Leistungssteigerung, bessere Energieversorgung im Alltag & Sport und spannende Aha-Erlebnisse.{{</ list/listItem >}}
+{{< list/listItem bold="true" >}}PREIS: € 299,00 (Ratenzahlung möglich){{</ list/listItem >}}
+{{< list/listItem >}}(Anfahrtskosten für die Messungen sind nicht in diesem Preis inkludiert. Momentan biete ich nur 1x im Monat Erpse Messungen an – es gibt eine Warteliste.){{</ list/listItem >}}
+{{</ list/unsortedList >}}
+
+{{</ sections/section >}}
+
+{{< sections/section title="PACKAGE \"SUPPORT mit ERPSE DIAGNOSTIK\"" onlyText="false" id="package-erpse-support" >}}
+Dein konkreter Ernährungsinput – durch ERPSE DIAGNOSTIK. Dieses Paket ist für dich, wenn du durch individuelle Ernährungsdiagnostik kombiniert mit meinem #feelgood SUPPORT Veränderungen in dein Leben holen möchtest:
+
+{{< list/unsortedList >}}
+{{< list/listItem >}}Anamnese Erpse{{</ list/listItem >}}
+{{< list/listItem >}}Fragebogen Regeneration Erpse{{</ list/listItem >}}
+{{< list/listItem >}}Fragebogen Bedürfnisse Erpse{{</ list/listItem >}}
+{{< list/listItem >}}Kalipermessung Erpse (2 oder 4 Messungen – je nach Support-Dauer){{</ list/listItem >}}
+{{< list/listItem >}}BIA-Messung Erpse (2 oder 4 Messungen – je nach Support-Dauer){{</ list/listItem >}}
+{{< list/listItem >}}Individueller Ernährungsplan via Erpse Buddy{{</ list/listItem >}}
+{{< list/listItem >}}PLUS: alle Punkte vom #feelgood SUPPORT{{</ list/listItem >}}
+{{< list/listItem >}}Für dich, wenn du noch mehr über dich und deinen Körper lernen möchtest und Fortschritte in Zahlen erkennbar machen möchtest. Durch die medizinisch anerkannten Messtechniken und den psychophysiologischen (in Zahlen darstellbaren) Zugang des Erpse Instituts kann ich dir versteckte Potentiale aufzeigen. Für Gesundheitsvorsorge, Leistungssteigerung, bessere Energieversorgung im Alltag & Sport und für spannende Aha-Erlebnisse.{{</ list/listItem >}}
+{{< list/listItem bold="true" >}}PREIS 3 Monate: € 449,00 + € 350,00 => 799,00 (Ratenzahlung möglich){{</ list/listItem >}}
+{{< list/listItem bold="true" >}}PREIS 6 Monate: € 689,00 + € 650,00 => 1.339,00 (Ratenzahlung möglich){{</ list/listItem >}}
+{{< list/listItem >}}(Anfahrtskosten für die Messungen sind nicht in diesem Preis inkludiert. Momentan biete ich nur 1x im Monat Erpse Messungen an – es gibt eine Warteliste.){{</ list/listItem >}}
+{{</ list/unsortedList >}}
 
 {{</ sections/section >}}
