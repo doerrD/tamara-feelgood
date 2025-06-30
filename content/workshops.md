@@ -10,8 +10,6 @@ imageUrl = "/images/workshops_header_2.webp"
 Erweitere dein Wissen und probier mal was Neues – nur für dich! Meine digitalen Workshops kannst du, einmal gekauft, jederzeit abrufen und wiederholen. Mehr Wissen zu deinem Körper wird dir mehr Verständnis für ihn bringen und dadurch wirst du ihn noch mehr akzeptieren lernen. Stichworte: Selbstakzeptanz und Selbstliebe!
 {{</ sections/topText >}}
 
-{{</ sections/section >}}
-
 {{< sections/section title="RUNTERKOMMEN" onlyText="false" >}}
 {{< sections/content >}}
 Dieser Workshop ist ein 12-Wochen-Programm, indem du unterschiedliche somatische Tools erlernst, eine Routine damit aufbaust und dadurch positiv zu deinem „Entstressen“ beiträgst.

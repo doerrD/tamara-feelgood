@@ -79,7 +79,7 @@ Es ist für alle, die sich generell fit und vital fühlen möchten, die lernen w
 
 {{</ sections/section >}}
 
-{{< sections/section title="PACKAGE \"SUPPORT mit ERPSE DIAGNOSTIK\"" onlyText="false" id="package-erpse" >}}
+{{< sections/section title="PACKAGE \"SUPPORT mit ERPSE DIAGNOSTIK\"" onlyText="false" id="package-erpse-support" >}}
 Dein konkreter Ernährungsinput – durch ERPSE DIAGNOSTIK. Dieses Paket ist für dich, wenn du durch individuelle Ernährungsdiagnostik kombiniert mit meinem #feelgood SUPPORT Veränderungen in dein Leben holen möchtest:
 
 {{< list/unsortedList >}}
