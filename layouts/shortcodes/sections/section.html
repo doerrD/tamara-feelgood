@@ -1,4 +1,4 @@
-<div class="section border-top" id="{{ .Get "id" }}">
+<div class="section {{ if (eq ( .Get "noBorder") "true") }}{{ else }}border-top{{ end }}" id="{{ .Get "id" }}">
     <div class="container">
         <div class="section-title text-center">
             <h2 class="font-weight-normal"><span class="uppercase">{{ .Get "title" }}</span></h2>
@@ -8,6 +8,14 @@
             {{ .Inner }}
         {{ else }}
             {{ trim .Inner "\r\n" | .Page.RenderString }}
+        {{ end }}
+
+        {{ if (eq ( .Get "contactButton") "true") }}
+        <div class="text-center margin-top-70">
+            <a class="button button-lg button-reveal-right-dark button-rounded" href="{{ .Site.BaseURL }}kontakt" title="Kontaktiere mich">
+                <i class="ti-arrow-right"></i><span>Melde dich bei mir</span>
+            </a>
+        </div>
         {{ end }}
     </div>
 </div>
