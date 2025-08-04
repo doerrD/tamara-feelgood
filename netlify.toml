@@ -3,12 +3,12 @@ publish = "public"
 command = "hugo --gc --minify"
 
 [context.production.environment]
-HUGO_VERSION = "0.110.0"
+HUGO_VERSION = "0.148.2"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
 [context.deploy-preview]
-    command = "hugo -b $DEPLOY_URL"
+    command = "hugo --baseURL $DEPLOY_URL"
 
 [context.branch-deploy]
-    command = "hugo -b $DEPLOY_URL"
+    command = "hugo --baseURL $DEPLOY_URL"
