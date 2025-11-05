@@ -2,7 +2,7 @@
 draft = false
 title = "#feelgood PERSONAL TRAINING"
 subtitle = ""
-type = "imageHeader"
+type = "image-header"
 imageUrl = "/images/personaltraining_header.webp"
 +++
 

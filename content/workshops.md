@@ -2,7 +2,7 @@
 draft = false
 title = "#feelgood WORKSHOPS"
 subtitle = ""
-type = "imageHeader"
+type = "image-header"
 imageUrl = "/images/workshops_header_2.webp"
 +++
 
