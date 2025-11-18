@@ -113,14 +113,11 @@
   $theme := resources.Get "plugins/owl-carousel/owl.theme.default.min.css" }} {{
   $magnific := resources.Get "plugins/magnific-popup/magnific-popup.min.css" }}
   {{ $themify := resources.Get "plugins/themify/themify-icons.min.css" }} {{
+  $fontawesome := resources.Get "plugins/font-awesome/css/all.min.css" }} {{
   $app := resources.Get "css/app.css" }} {{ $custom := resources.Get
   "css/custom.css" }} {{ $css := slice $bootstrap $carousel $theme $magnific
-  $themify $app $custom | resources.Concat "css/bundle.css" }}
+  $themify $fontawesome $app $custom | resources.Concat "css/bundle.css" }}
 
-  <script
-    defer
-    src="https://use.fontawesome.com/releases/v5.12.0/js/all.js"
-  ></script>
   <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/2.7.0/simple-lightbox.css"
