@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "About Me"
-type = "imageHeader"
+type = "image-header"
 imageUrl = "/images/About_me_header_2.webp"
 +++
 
