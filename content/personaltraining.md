@@ -19,12 +19,13 @@ In einem KOSTENLOSEN und UNVERBINDLICHEN KENNENLERNGESPRÄCH kannst du mich löc
 Dieses Paket ist für dich, wenn du bereits Trainingserfahrung hast. Oder wenn du weißt, dass du gut allein zurechtkommst, aber dennoch gezielten, persönlichen und vor allem holistischen Profi-Input möchtest. Ich sehe dich als Individuum mit eigenem Alltag und deiner aktuellen Ausgangssituation.
 
 {{< list/unsortedList >}}
+{{< list/listItem >}}1x Anamnese{{</ list/listItem >}}
 {{< list/listItem >}}1x virtuelles Erstgespräch (30-60 Min.){{</ list/listItem >}}
 {{< list/listItem >}}1x individueller Trainingsplan (Gym oder Hometraining){{</ list/listItem >}}
-{{< list/listItem >}}Plan in schriftlicher Form + Aufzeichnung Erklärvideo (Video nur für Hometraining){{</ list/listItem >}}
-{{< list/listItem >}}Tipps zur Wochenplangestaltung{{</ list/listItem >}}
-{{< list/listItem >}}Ernährungs-/Alltagstipps{{</ list/listItem >}}
-{{< list/listItem bold="true" >}}PREIS: € 149,00 (Du buchst erneut innerhalb von 4 Monaten - € 99,00){{</ list/listItem >}}
+{{< list/listItem >}}Monatsplanung (Training) für 3 Monate{{</ list/listItem >}}
+{{< list/listItem >}}individueller Potential-Guide (je nachdem wo deine Potentiale liegen – Ernährung, Training, Schlaf, Entspannung,…){{</ list/listItem >}}
+{{< list/listItem >}}Für dich, mit Trainingserfahrung, oder wenn du weißt, dass du gut allein zurechtkommst und dennoch gezielten, persönlichen und Profi-Input mit Weitblick möchtest. Ich sehe dich als Individuum mit eigenem Alltag und deiner aktuellen Ausgangssituation.{{</ list/listItem >}}
+{{< list/listItem bold="true" >}}PREIS: € 199,00 (Du buchst erneut innerhalb von 4 Monaten - € 139,00){{</ list/listItem >}}
 {{</ list/unsortedList >}}
 
 {{< sections/lonlyLink link="/kontakt" >}}
@@ -38,18 +39,19 @@ Dieses Paket ist für dich, wenn du die Benefits von Austausch kennst und motivi
 
 {{< list/unsortedList >}}
 {{< list/listItem >}}#feelgood Betreuungs-Paket (3 Monate oder 6 Monate){{</ list/listItem >}}
+{{< list/listItem >}}1x Anamnese{{</ list/listItem >}}
 {{< list/listItem >}}1x virtuelles Erstgespräch (30-60 Min.){{</ list/listItem >}}
 {{< list/listItem >}}1x individueller Trainingsplan (Gym oder Hometraining){{</ list/listItem >}}
-{{< list/listItem >}}Plan in schriftlicher Form + Aufzeichnung Erklärvideo (Video nur für Hometraining){{</ list/listItem >}}
+{{< list/listItem >}}Plan in schriftlicher Form + Video (persönliches Video oder YouTube Links){{</ list/listItem >}}
+{{< list/listItem >}}regelmäßige Checkin-Zoom-Calls: alle 2 Wochen 30 Minuten (6 Calls) oder wöchentlich 15 Minuten (12 Calls) inkl. Protokoll{{</ list/listItem >}}
 {{< list/listItem >}}Trainingsplanadaptionen{{</ list/listItem >}}
-{{< list/listItem >}}angepasste Tipps zur aktuellen Wochenplangestaltung{{</ list/listItem >}}
-{{< list/listItem >}}individuellere Ernährungstipps als bei #feelgood BASIC{{</ list/listItem >}}
-{{< list/listItem >}}Input zum Stressmanagement{{</ list/listItem >}}
-{{< list/listItem >}}Selbstreflektionsfragebogen & Mindsetarbeit (Glaubenssätze etc. – wenn gewünscht){{</ list/listItem >}}
-{{< list/listItem >}}Somatik/Entspannungs-Übungen & Tipps{{</ list/listItem >}}
-{{< list/listItem >}}WhatsApp Support (Rückmeldung erfolgt immer „asap“){{</ list/listItem >}}
-{{< list/listItem bold="true" >}}PREIS 3 Monate: € 449,00 (Ratenzahlung möglich){{</ list/listItem >}}
-{{< list/listItem bold="true" >}}PREIS 6 Monate: € 689,00 (Ratenzahlung möglich){{</ list/listItem >}}
+{{< list/listItem >}}konkrete Ernährungstipps{{</ list/listItem >}}
+{{< list/listItem >}}Motivation zur Reflexion & Mindsetarbeit{{</ list/listItem >}}
+{{< list/listItem >}}Zugang zum VIP-Ordner: Warm-ups, Arbeitsblätter, Wissensblätter, diverse Guides, Entspannungsvideos, Somatic Moments, Recovery Sessions,…{{</ list/listItem >}}
+{{< list/listItem >}}WhatsApp Support (Rückmeldung erfolgt immer „asap“, Mo bis Fr){{</ list/listItem >}}
+{{< list/listItem >}}Für dich, wenn du die Benefits von regelmäßigem Austausch kennst und motivierend findest. Durch die regelmäßigen Zwischengespräche kann ich noch genauer und individueller für dich da sein, deine Trainingsfortschritte dementsprechend anpassen und dir noch mehr Sicherheit geben. Der #feelgood SUPPORT lebt durch den Austausch und Kommunikation.{{</ list/listItem >}}
+{{< list/listItem bold="true" >}}PREIS 3 Monate: € 649,00 (Ratenzahlung möglich){{</ list/listItem >}}
+{{< list/listItem bold="true" >}}PREIS 6 Monate: € 1.249,00 (Ratenzahlung möglich){{</ list/listItem >}}
 {{</ list/unsortedList >}}
 
 {{< sections/lonlyLink link="/kontakt" >}}
