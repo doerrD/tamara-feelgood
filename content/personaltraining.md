@@ -12,7 +12,7 @@ Jede Frau ist anders und hat eine eigene Ausgangssituation und Wünsche. Darum i
 In einem KOSTENLOSEN und UNVERBINDLICHEN KENNENLERNGESPRÄCH kannst du mich löchern, um rauszufinden, ob ich die ideale Coachin für dich bin.
 
 - Kennenlerngespräch (ca. 15 Min.) - kostenlos
-- **1 Einheit Personal Training (50-60 Min.) - € 70,00**
+- **1 Einheit Personal Training (50-60 Min.) - € 85,00**
   {{</ sections/topText >}}
 
 {{< sections/section title="Package \"Basic\"" onlyText="false" id="package-basic" >}}
