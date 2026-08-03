@@ -26,29 +26,3 @@ Du bekommst alle Übungen in Form von Videos, einem Sammel-Pdf und Print-Out-Car
 Du möchtest runterkommen? Dann klicke hier
 {{</ sections/lonlyLink >}}
 {{</ sections/section >}}
-
-{{< sections/section title="MASTERCLASS GET TO KNOW YOUR BODY – PART 1 – NERVENSYSTEM" onlyText="false" >}}
-{{< sections/content >}}
-In dieser Aufzeichnung der Masterclass erfährst du sehr viel über das körpereigene Nervensystem, wie deine Sicherheitszentrale funktioniert und wie sich diverse Dinge in deinem Leben auf das Nervensystem auswirken (können). Plus, du erhältst Tipps und Tricks, wie du beginnst, dich um dein Nervensystem zu kümmern und eine Routine zu den neuen Tools aufzubauen. Dauer: ca. 120 Min.
-
-Die Themen: Auswirkungen von Stress auf Körper & Psyche. Crashkurs “Autonomes Nervensystem”. 10 Regulations-/ Entspannungs-Techniken. „Hilfe, ich will Veränderung, halte es aber nie lange durch“. Tipps zur Routinenförderung. Wechselwirkung Stress, Essen, Sport & Schlaf.
-
-**PREIS: € 149,-**
-{{</ sections/content >}}
-{{< sections/lonlyLink link="/kontakt#MasterclassPart1" >}}
-Hier könnte dein Text stehen?!
-{{</ sections/lonlyLink >}}
-{{</ sections/section >}}
-
-{{< sections/section title="MASTERCLASS GET TO KNOW YOUR BODY – PART 2 – ESSEN & ENERGIE" onlyText="false" >}}
-{{< sections/content >}}
-So viele falsche Infos zum Thema Ernährung laufen im Netz rum. Ich möchte Licht und Ordnung in dein Chaos bringen. Basierend auf Fakten und Biochemie. Wissen bringt Erkenntnis und Verständnis. Erst dann können Veränderungen mit Sanftheit starten. Weil optimales Fueling extrem viel mit ganzheitlicher Gesundheit und sich gut fühlen zu tun hat.
-
-Die Themen: Physiologische Energie & Lebensenergie. Herzkreislaufsystem & Genetik. Die Makros - Kohlenhydrate, Proteine & Fette. Unterversorgung. Energiethemen - Vitamin D, Vitamin B & Eisen. Optimale Esstruktur. Dauer: ca. 60-90 Min.
-
-**PREIS: € 74,90,-**
-{{</ sections/content >}}
-{{< sections/lonlyLink link="/kontakt#MasterclassPart2" >}}
-Hier könnte dein Text stehen?!
-{{</ sections/lonlyLink >}}
-{{</ sections/section >}}
