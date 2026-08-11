@@ -13,8 +13,8 @@ imageUrl = "/images/About_me_header_2.webp"
 - TRE® Providerin
 - Expertin für Entspannungsübungen
 - Zielgruppe: Frauen, aber auch Senioren
-- Meine Arbeit als Trainerin bezeichne ich als HOLISTISCH, also ganzheitlich, weil für langfristige Fortschritte und Gesundheit mehr betrachtet werden muss als nur deine Bewegungsroutine.
-- über 20 Jahre Erfahrung als Coachin im Sport
+- Ich arbeite mit fundierten, ganzheitlichen Ansätze, da für langfristige Fortschritte und Gesundheit mehr betrachtet werden muss als nur deine Bewegungsroutine.
+- über 20 Jahre Erfahrung als Coach im Sport
 - empathische, ehrliche, verständnisvolle Betreuung mit Weitblick und Wissen
 - aktuelle, laufende Ausbildungen: Mental Well-Being Trainer, Somatic Coach
 
