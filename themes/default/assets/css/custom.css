@@ -167,7 +167,9 @@ select {
   margin-bottom: 1rem;
   padding: 15px 20px;
   box-shadow: none;
-  font: 300 16px "Open Sans", sans-serif;
+  font:
+    300 16px "Open Sans",
+    sans-serif;
   -webkit-transition: ease-out 0.2s;
   transition: ease-out 0.2s;
 }
@@ -189,4 +191,153 @@ select {
 .blue-link:hover {
   text-decoration: underline;
   color: rgb(229, 0, 118);
+}
+
+.move-transform-hidden {
+  display: none !important;
+}
+
+.move-transform-event {
+  position: relative;
+  isolation: isolate;
+  min-height: 42rem;
+  padding: 2.5rem 1.5rem 3rem;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.move-transform-event::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.32) 0%,
+    rgba(0, 0, 0, 0.24) 46%,
+    rgba(0, 0, 0, 0.42) 100%
+  );
+  z-index: 0;
+}
+
+.move-transform-event > * {
+  position: relative;
+  z-index: 1;
+}
+
+.move-transform-event-logo {
+  width: min(100%, 460px);
+  height: auto;
+  animation: eventFadeUp 520ms cubic-bezier(0.21, 0.8, 0.24, 1) both;
+}
+
+.move-transform-event-content {
+  flex: 1;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2.5rem 0;
+  animation: eventFadeUp 620ms cubic-bezier(0.21, 0.8, 0.24, 1) both;
+  animation-delay: 120ms;
+}
+
+.move-transform-event-text {
+  width: min(100%, 850px);
+  height: auto;
+}
+
+.move-transform-event-date {
+  color: #ffffff;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin: 0;
+  text-shadow: 0 3px 10px rgba(0, 0, 0, 0.35);
+  animation: eventFadeUp 620ms cubic-bezier(0.21, 0.8, 0.24, 1) both;
+  animation-delay: 190ms;
+}
+
+.move-transform-event-button {
+  margin-top: 1rem;
+  background-color: #f4cb1f;
+  border-color: #f4cb1f;
+  color: #141414;
+  font-weight: 700;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  animation: eventFadeUp 640ms cubic-bezier(0.21, 0.8, 0.24, 1) both,
+    eventButtonPulse 7s ease-in-out 1.5s infinite;
+}
+
+.move-transform-event-button:hover,
+.move-transform-event-button:focus {
+  color: #141414;
+  transform: translateY(-2px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.3);
+}
+
+@keyframes eventFadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes eventButtonPulse {
+  0%,
+  82%,
+  100% {
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+  }
+  88% {
+    box-shadow: 0 8px 30px rgba(244, 203, 31, 0.45);
+  }
+}
+}
+
+@media (max-width: 991px) {
+  .move-transform-event {
+    min-height: 33rem;
+    padding: 2rem 1.25rem 2.25rem;
+  }
+
+  .move-transform-event-content {
+    margin: 2rem 0;
+  }
+}
+
+@media (max-width: 620px) {
+  .move-transform-event {
+    min-height: 26rem;
+    padding: calc(2.75rem + env(safe-area-inset-top, 0px)) 1rem 1.5rem;
+  }
+
+  .move-transform-event-logo {
+    width: min(100%, 320px);
+    margin-top: 0.5rem;
+  }
+
+  .move-transform-event-content {
+    margin: 1.5rem 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .move-transform-event-logo,
+  .move-transform-event-content,
+  .move-transform-event-date,
+  .move-transform-event-button {
+    animation: none !important;
+    transition: none !important;
+  }
 }
