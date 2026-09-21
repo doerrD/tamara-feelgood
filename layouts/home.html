@@ -1,13 +1,55 @@
 {{ define "main" }}
+<div
+  id="event-hero"
+  class="section-2xl move-transform-event"
+  style='background-image: url("{{ .Site.BaseURL }}move-and-transform/background.webp");'
+>
+  <img
+    class="move-transform-event-logo"
+    src="{{ .Site.BaseURL }}move-and-transform/logo.png"
+    alt="Move and Transform"
+  />
+  <div class="move-transform-event-content">
+    <img
+      class="move-transform-event-text"
+      src="{{ .Site.BaseURL }}move-and-transform/big-text.svg"
+      alt="Move and Transform Event"
+    />
+  </div>
+  <p class="move-transform-event-date">14.11.2026 · Linz</p>
+  <a
+    class="button button-lg button-radius button-dark move-transform-event-button"
+    href="{{ .Site.BaseURL }}move-and-transform/MT-Linz.pdf"
+    target="_blank"
+    rel="noopener"
+  >
+    Mehr Infos zum Event hier
+  </a>
+</div>
 
 <div
-  class="section-2xl bg-image"
+  id="default-hero"
+  class="section-2xl bg-image move-transform-hidden"
   data-bg-src="{{ .Site.BaseURL }}/images/index_title_image.webp"
   style='background-image: url("{{ .Site.BaseURL }}/images/TitelbildFIT_Okt2021_kleiner.jpg"); background-size: cover; background-repeat: no-repeat; background-position: center center;'
 >
   <div class="container"></div>
   <!-- end container -->
 </div>
+
+<script>
+  (function () {
+    var eventHero = document.getElementById("event-hero");
+    var defaultHero = document.getElementById("default-hero");
+    if (!eventHero || !defaultHero) return;
+
+    var eventEnd = new Date("2026-11-15T00:00:00+01:00").getTime();
+    var showEvent = Date.now() < eventEnd;
+
+    eventHero.classList.toggle("move-transform-hidden", !showEvent);
+    defaultHero.classList.toggle("move-transform-hidden", showEvent);
+  })();
+</script>
 
 <div class="section" id="BewegungsAngebote">
   <div class="container">
